@@ -1,4 +1,5 @@
-# Hydra
+# Hydra ![image](https://github.com/yoyosource/BOTC-HomeBrew/assets/171445109/7f5f1376-d426-451b-ae6e-0a9b4b5d0320)
+
 
 **Summary**
 
