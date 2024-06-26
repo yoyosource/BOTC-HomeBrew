@@ -1,0 +1,17 @@
+{
+  "id": "siren",
+  "image": "",
+  "edition": "custom",
+  "firstNight": 0,
+  "firstNightReminder": "",
+  "otherNight": 24,
+  "otherNightReminder": ",",
+  "reminders": [
+    "Demon"
+  ],
+  "remindersGlobal": [],
+  "setup": false,
+  "name": "Siren",
+  "team": "outsider",
+  "ability": "If you die, Demons act twice the next time they act."
+}
