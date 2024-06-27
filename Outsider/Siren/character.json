@@ -7,7 +7,7 @@
   "otherNight": 24,
   "otherNightReminder": ",",
   "reminders": [
-    "Demon"
+    "*2"
   ],
   "remindersGlobal": [],
   "setup": false,
