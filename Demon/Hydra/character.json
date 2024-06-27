@@ -5,7 +5,7 @@
   "firstNight": 0,
   "fistNightReminder": "",
   "otherNight": 25,
-  "otherNightReminder": "",
+  "otherNightReminder": "The previous Player is no longer poisoned. The Hydra points to a player not themself. Mark that player as 'Poisoned'. If both Hydras choose the same player, remove the 'Poisoned' mark and announce them dead at dawn.",
   "reminders": [
     "Poisoned",
     "Dead"
