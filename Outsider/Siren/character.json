@@ -5,7 +5,7 @@
   "firstNight": 0,
   "firstNightReminder": "",
   "otherNight": 24,
-  "otherNightReminder": ",",
+  "otherNightReminder": "If the character died this day or night, the alive demons act twice.",
   "reminders": [
     "*2"
   ],
