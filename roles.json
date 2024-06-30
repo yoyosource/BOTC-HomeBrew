@@ -3,12 +3,12 @@
         "id": "Siren",
         "name": "Siren",
         "roleType": "outsider",
-        "link": "https://raw.githubusercontent.com/yoyosource/BOTC-HomeBrew/master/Outsider/Siren"
+        "folder": "Outsider/Siren"
     },
     {
         "id": "Hydra",
         "name": "Hydra",
         "roleType": "demon",
-        "link": "https://raw.githubusercontent.com/yoyosource/BOTC-HomeBrew/master/Demon/Hydra"
+        "folder": "Demon/Hydra"
     }
 ]
