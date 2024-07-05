@@ -18,7 +18,7 @@ During the first night, wake both Hydras in any particular order and tell both w
 
 While preparing the other night, if only 1 Hydra is alive go to the alive Hydra and say who is the new evil Hydra. Go to the previously mentioned player and say to him, that he is now an evil Hydra.
 
-During the other night, prior to waking both Hydras remove their POISONED mark. Then wake both Hydras in any particular order and ask them who they want to choose (except themself). Put the POISONED reminder on the choosen player or mark them with the DEAD reminder if already poisoned by another Hydra and then remove the POISONED reminder. If a Siren has the 'x2' reminder ask both Hydras two times. Remove the DEAD reminder token after you proclaimed the player dead at dawn.
+During the other night, prior to waking both Hydras remove their POISONED mark. Then wake both Hydras in any particular order and ask them who they want to choose (except themself). Put the POISONED reminder on the choosen player or mark them with the DEAD reminder if already poisoned by another Hydra and then remove the POISONED reminder. Remove the DEAD reminder token after you proclaimed the player dead at dawn.
 
 ## Examples
 
