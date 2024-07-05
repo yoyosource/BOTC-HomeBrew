@@ -9,9 +9,11 @@ The Siren is a outsider-type character with an ability inspired by its mythologi
 The idea is that the siren distracts everybody so the demon can act twice.
 
 ## How to run
+
 When the Siren dies mark every demon with the '*2' reminder. The next time you wake a demon remove the mark from him and let him act twice.
 
 ## Examples
+
 If player A is the Demon and player B the siren was executed, this night player A can act twice (usually he kills twice).
 
 If player A is the Demon and player B the siren who died at night before the demon acted, player A will still act twice this night.
