@@ -5,6 +5,9 @@
 ## Summary
 "If you die, Demons act twice the next time they act."
 
+The Siren is a outsider-type character with an ability inspired by its mythologic counterpart.
+The idea is that the siren distracts everybody so the demon can act twice.
+
 ## How to run
 When the Siren dies mark every demon with the '*2' reminder. The next time you wake a demon remove the mark from him and let him act twice.
 
