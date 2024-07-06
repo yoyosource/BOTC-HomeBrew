@@ -12,13 +12,13 @@ How are you supposed to kill two people a day? Well, the hydra also adds another
 
 ## How to run
 
-While preparing the first night, have 2 Hydras in game and no Minions.
+While preparing the first night, have 2 Hydras in play and no Minions.
 
-During the first night, wake both Hydras in any particular order and tell both who the other Hydra is and the 3 demon bluffs you choose.
+During the first night, wake both Hydras in any order and tell both who the other Hydra is and the 3 demon bluffs.
 
 While preparing the other night, if only 1 Hydra is alive go to the alive Hydra and say who is the new evil Hydra. Go to the previously mentioned player and say to him, that he is now an evil Hydra.
 
-During the other night, prior to waking both Hydras remove their POISONED mark. Then wake both Hydras in any particular order and ask them who they want to choose (except themself). Put the POISONED reminder on the choosen player or mark them with the DEAD reminder if already poisoned by another Hydra and then remove the POISONED reminder. Remove the DEAD reminder token after you proclaimed the player dead at dawn.
+During the other night, prior to waking both Hydras remove their POISONED mark. Then wake both Hydras in any order and ask them who they want to choose (except themself). Put the POISONED reminder on the choosen player or mark them with the DEAD reminder if already poisoned by another Hydra and remove the POISONED reminder. Remove the DEAD reminder token after you proclaimed the player dead at dawn.
 
 ## Examples
 
@@ -36,4 +36,4 @@ The demon punishes wrong executions as you loose "half" of your information when
 
 ## Jinxes
 ### Slayer
-Choose two players. Any demon if choosen dies.
+Choose two players. Any demon if choosen dies. If a demon died the following night no new Demon can be created by the Hydra.
