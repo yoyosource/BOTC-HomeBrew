@@ -14,11 +14,13 @@ When the Siren dies mark every demon with the '*2' reminder. The next time you w
 
 ## Examples
 
-If player A is the Demon and player B the siren was executed, this night player A can act twice (usually they kills twice).
+Laura is the No-Dashii. She acts twice this night, because Ben the Siren was executed before dawn.
 
-If player A is the Demon and player B the siren who died at night before the demon acted, player A will still act twice this night.
+Ben as the Demon still acts twice if the Siren died before Ben woke to act.
 
-If player A is the Demon and player B the siren who dies at night after the demon acted or during the demon action, player A will act twice the following night.
+Sam is the Vortox. She will act twice the next night, if the Siren died by Sam this night.
+
+Lisa as the Demon will act twice the next night if the Siren died after the Demon acted this night.
 
 ## Tips and Tricks
 
