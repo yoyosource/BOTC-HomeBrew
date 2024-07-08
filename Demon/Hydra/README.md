@@ -16,17 +16,24 @@ While preparing the first night, have 2 Hydras in play and no Minions.
 
 During the first night, wake both Hydras in any order and tell both who the other Hydra is and the 3 demon bluffs.
 
-While preparing the other night, if only 1 Hydra is alive go to the alive Hydra and say who is the new evil Hydra. Go to the previously mentioned player and say to him, that he is now an evil Hydra.
+While preparing the other night, if only 1 Hydra is alive go to the alive Hydra and say who is the new evil Hydra. Go to the previously mentioned player and say that they are an evil Hydra.
 
 During the other night, prior to waking both Hydras remove their POISONED mark. Then wake both Hydras in any order and ask them who they want to choose (except themself). Put the POISONED reminder on the choosen player or mark them with the DEAD reminder if already poisoned by another Hydra and remove the POISONED reminder. Remove the DEAD reminder token after you proclaimed the player dead at dawn.
 
 ## Examples
 
-Player A and Player B both are evil hydras. B manages to successfully bluff another role, while A is executed. At dusk of that day, this causes Player C to become an evil hydra. Player B learns that C turned into a hydra, whereas C does not know who his team is.
+Ben and Sam are both Hydra. Sam manages to successfully bluff another role, while Ben is executed. At dusk of that day, this causes Laura to become an evil Hydra. Sam learns that Laura turned into a Hydra, whereas Laura does not know who his team is.
 
 ## Tips and Tricks
 
-*To be added*
+- Talk to your evil Hydra to coordinate the night. You may want to poison people to spread false information.
+- Be sure whom and when to kill, since this night you cannot poison two people.
+- Killing people already mistrusted by your fellow townsfolk at night, is most likely wasted poison.
+- If nothing helps spread false information so one of the Hydras dies. Thus creating another player that is evil and mistrust amongst the good players.
+- If a new Hydra is created at night, you can poison him, this ensures no random kill this night, but halfes your poison potential.
+- If you are the new Hydra try bluffing as your old character to further gain the trust of everyone.
+- Try to be executed instead of choosen by a Slayer. If a Slayer chooses you as the Demon your team is weakend for at least a whole night and day.
+- Only vote if other non Hydras vote, only Hydras voting will look suspicious if you have enough votes to execute someone.
 
 ## How to fight the Hydra
 
