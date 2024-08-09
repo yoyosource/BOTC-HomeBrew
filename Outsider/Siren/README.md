@@ -2,6 +2,10 @@
 
 <img src="https://raw.githubusercontent.com/yoyosource/BOTC-HomeBrew/master/Outsider/Siren/siren.png" alt="drawing" width="200"/>
 
+### Authors
+- Coronas
+- Jonas
+
 ## Summary
 "If you die, Demons act twice the next time they act."
 
