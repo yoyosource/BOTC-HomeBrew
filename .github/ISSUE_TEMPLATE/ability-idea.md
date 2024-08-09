@@ -1,7 +1,7 @@
 ---
 name: Ability Idea
 about: Ability Idea
-title: ''
+title: 'Ability: [SHORT]'
 labels: ''
 assignees: ''
 

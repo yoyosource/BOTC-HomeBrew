@@ -1,7 +1,7 @@
 ---
 name: Role Idea
 about: Role Idea
-title: ''
+title: 'Role: [NAME]'
 labels: ''
 assignees: ''
 
