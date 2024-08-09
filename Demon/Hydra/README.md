@@ -2,6 +2,10 @@
 
 <img src="https://github.com/yoyosource/BOTC-HomeBrew/assets/171445109/7f5f1376-d426-451b-ae6e-0a9b4b5d0320" alt="drawing" width="200"/>
 
+### Authors
+- Coronas
+- Jonas
+
 ## Summary
 "Each night* choose a player (not yourself), they are poisoned until you choose again in the following night. If the same player is chosen twice by Hydras in the same night, the player is no longer poisoned, but dies. Everybody knows you are in play.  If there is only one hydra alive, at the start of the next night an alive player becomes an evil hydra. The alive hydra learns who. After the first execution, there is another nomination & execution round. Everybody regains their ability to nominate and be nominated. Execution fails, if only hydras voted. [+ 1 Hydra; No minions]"
 
