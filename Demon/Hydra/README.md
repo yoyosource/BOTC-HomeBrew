@@ -16,6 +16,8 @@ How are you supposed to kill two people a day? Well, the hydra also adds another
 
 ## How to run
 
+If only evil players are alive pronounce evil as the winner. If one evil player and one good player is alive after the first execution round, the second one still needs to be run!
+
 While preparing the first night, have 2 Hydras in play and no Minions.
 
 During the first night, wake both Hydras in any order and tell both who the other Hydra is and the 3 demon bluffs.
