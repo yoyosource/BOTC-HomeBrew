@@ -11,6 +11,6 @@
 - [Hydra](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Demon/Hydra)
 
 ## Traveller
+- [Balloonist-OLD](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Townsfolk/Balloonist-OLD)
 
 ## Fabled
-- [Balloonist-OLD](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Townsfolk/Balloonist-OLD)
