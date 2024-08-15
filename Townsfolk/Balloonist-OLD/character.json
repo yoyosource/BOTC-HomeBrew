@@ -1,0 +1,15 @@
+{
+  "id": "balloonist_old",
+  "image": "https://wiki.bloodontheclocktower.com/images/c/cb/Icon_balloonist.png",
+  "edition": "custom",
+  "firstNight": 51,
+  "firstNightReminder": "",
+  "otherNight": 69,
+  "otherNightReminder": "",
+  "reminders": [],
+  "remindersGlobal": [],
+  "setup": true,
+  "name": "Balloonist-OLD",
+  "team": "townsfolk",
+  "ability": "Each night, you learn 1 player of each character type, until there are no more types to learn. [+1 Outsider]"
+}
