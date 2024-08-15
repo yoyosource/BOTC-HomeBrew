@@ -30,6 +30,10 @@ During the other night, prior to waking both Hydras remove their POISONED mark. 
 
 Ben and Sam are both Hydra. Sam manages to successfully bluff another role, while Ben is executed. At dusk of that day, this causes Laura to become an evil Hydra. Sam learns that Laura turned into a Hydra, whereas Laura does not know who his team is.
 
+After the first execution only 2 Hydras are still alive. Thus evil wins.
+
+Atfer ther first executiob one Hydra and the Balloonist are still avlie. Then another nomination and execution rounds is started. Whoever alignment is still alive afterwads wins.
+
 ## Tips and Tricks
 
 - Talk to your evil Hydra to coordinate the night. You may want to poison people to spread false information.
