@@ -32,7 +32,7 @@ Ben and Sam are both Hydra. Sam manages to successfully bluff another role, whil
 
 After the first execution only 2 Hydras are still alive. Thus evil wins.
 
-After the first execution one Hydra and the Balloonist are still avlie. Then another nomination and execution rounds is started. Whoever alignment is still alive afterwads wins.
+After the first execution one Hydra and the Balloonist are still avlie. Then another nomination and execution rounds is started. The alignment that is still alive afterwads wins the game.
 
 ## Tips and Tricks
 
