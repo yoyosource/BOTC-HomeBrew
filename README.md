@@ -10,6 +10,7 @@
 - [Manipulator](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Minion/Manipulator)
 
 ## Demon
+- [Griffin](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Demon/Griffin)
 - [Hydra](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Demon/Hydra)
 - [Lemures](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Demon/Lemures)
 
