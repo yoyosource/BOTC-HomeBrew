@@ -10,6 +10,7 @@
 
 ## Demon
 - [Hydra](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Demon/Hydra)
+- [Lemures](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Demon/Lemures)
 
 ## Traveler
 
