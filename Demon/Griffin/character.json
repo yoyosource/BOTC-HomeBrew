@@ -1,0 +1,17 @@
+{
+  "id": "griffin",
+  "edition": "custom",
+  "firstNight": 60,
+  "firstNightReminder": "",
+  "otherNight": 25,
+  "otherNightReminder": "Ask the Griffin who he wants to kill and if he wants to use his once per game ability.",
+  "reminders": [
+    "no ability",
+    "might die at any moment"
+  ],
+  "remindersGlobal": [],
+  "setup": true,
+  "name": "Griffin",
+  "team": "demon",
+  "ability": "Each night* choose a player, they die. Once per game choose an additional player they might die at any time."
+}
