@@ -14,6 +14,6 @@
     "team": "minion",
     "ability": "Once per game except the first night change a players alignment to evil",
     "jinxes": [
-      {"id": "poppy grower","reason": "The Manipulator may choose to turn someone evil but the Storyteller decides who becomes evil."}
+      {"id": "poppygrower","reason": "The Manipulator may choose to turn someone evil but the Storyteller decides who becomes evil."}
     ]
   }
