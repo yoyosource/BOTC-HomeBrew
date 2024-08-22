@@ -1,0 +1,19 @@
+{
+    "id": "manipulator",
+    "edition": "custom",
+    "firstNight": 0,
+    "firstNightReminders": "",
+    "otherNight": 1,
+    "otherNightReminders": "Let them choose someone if they wish to change the alignment of that person",
+    "reminders": [
+      "Alignment changed"
+    ],
+    "remindersGlobal": [],
+    "setup": "false",
+    "name": "Manipulator",
+    "team": "minion",
+    "ability": "Once per game except the first night change a players alignment to evil",
+    "jinxes": [
+      {"id": "poppy grower","reason": "The Manipulator may choose to turn someone evil but the Storyteller decides who becomes evil."}
+    ]
+  }
