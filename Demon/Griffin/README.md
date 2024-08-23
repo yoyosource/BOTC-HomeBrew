@@ -14,7 +14,7 @@ The Griffin is a demon type character with an ability inspired of the mythologic
 
 ## How to run
 
-At the start of the game the Griffin may choose a player who shall die at any moment in the game, if he uses the ability give the Griffin the "no ability" reminder and the chosen player the "may die at any moment" reminder.
+At the start of the game the Griffin might choose a player who shall die at any moment in the game, if he uses the ability give the Griffin the "no ability" reminder and the chosen player the "might die at any moment" reminder.
 Each Night if he hasn't used his once per game ability he may still use it at a later point. Each night* he also chooses a player who shall die.
 
 
