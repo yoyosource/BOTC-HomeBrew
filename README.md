@@ -8,6 +8,7 @@
 
 ## Minion
 - [Manipulator](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Minion/Manipulator)
+- [Psychopath-FIX](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Minion/Psychopath-FIX)
 
 ## Demon
 - [Griffin](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Demon/Griffin)
