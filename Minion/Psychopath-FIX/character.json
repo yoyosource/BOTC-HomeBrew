@@ -1,0 +1,16 @@
+{
+    "id": "psychopath_fix",
+    "image": "https://wiki.bloodontheclocktower.com/images/a/a3/Icon_psychopath.png",
+    "edition": "custom",
+    "firstNight": 0,
+    "firstNightReminder": "",
+    "otherNight": 0,
+    "otherNightReminder": "",
+    "reminders": [],
+    "remindersGlobal": [],
+    "setup": false,
+    "name": "Psychopath FIX",
+    "team": "minion",
+    "ability": "Each day, before nominations, you may publicly choose a player (not yourself): they die. If executed, you only die if you lose roshambo."
+  }
+  
