@@ -6,7 +6,7 @@
     "otherNight": 1,
     "firstNightReminder": "Give the Maniac a Minion which is in play.",
     "otherNightReminder": "Tell the Minion what the Maniac want to do.",
-    "reminers": [
+    "reminders": [
         "Is the Maniac"
     ],
     "setup": true,
