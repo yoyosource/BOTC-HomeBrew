@@ -33,5 +33,5 @@ Sven is the real Lemures and has killed Frederik third. Everyone knows Paul and 
 
 Info: as the character is very new, some new strategies might develop after playing. So these are just some tips for how we expect to play against the Lemures based on its ability.
 
-Keeping track of how many people the Lemures has killed is key cause the Lemures becomes more difficult to fight due to it creating evil Lemures every third kill that may protect him.
-Executing people claiming to be the pacifist could help when they claim it before the Lemures did a third kill because they would be a good proven player. 
+- Keeping track of how many people the Lemures has killed is key cause the Lemures becomes more difficult to fight due to it creating evil Lemures every third kill that may protect him.
+- Executing people claiming to be the pacifist could help when they claim it before the Lemures did a third kill because they would be a good proven player. 

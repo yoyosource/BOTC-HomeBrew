@@ -1,0 +1,18 @@
+{
+    "id": "maniac",
+    "name": "Maniac",
+    "edition": "custom",
+    "firstNight": 10,
+    "otherNight": 1,
+    "firstNightReminder": "Give the Maniac a Minion which is in play.",
+    "otherNightReminder": "Tell the Minion what the Maniac want to do.",
+    "reminers": [
+        "Is the Maniac"
+    ],
+    "setup": true,
+    "team": "outsider",
+    "ability": "You think you are an in play Minion, but you are not. The Minion you think you are knows that you are in play and what you do at night.",
+    "jinxes": [
+        { "id":"lunatic", "reason": "The Lunatic may learn that the Maniac is his Minion and the Maniac may learn that the Lunatic is his demon." }
+    ]
+}
