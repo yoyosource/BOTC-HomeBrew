@@ -28,7 +28,7 @@ Turn a player who could be dangerous for your alignment to evil so that they hav
 
 ## How to fight the Manipulator
 
-Keep a keen eye on people and how they act maybe they have been turned evil and ain't be your friend no more.
+- Keep a keen eye on people and how they act maybe they have been turned evil and ain't be your friend no more.
 
 ## Jinxes
 ### Poppy Grower

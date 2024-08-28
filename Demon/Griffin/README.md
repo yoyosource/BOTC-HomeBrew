@@ -31,4 +31,4 @@ Tim is the Griffin and used his once per game ability. During the day Lisa died 
 
 Info: as the character is very new, some new strategies might develop after playing. So these are just some tips for how we expect to play against the Griffin based on its ability.
 
-Keep an eye on how many die during the night and if someone died in the day since the Griffins once per game ability causes a player to die at random like the tinker.
+- Keep an eye on how many die during the night and if someone died in the day since the Griffins once per game ability causes a player to die at random like the tinker.
