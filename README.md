@@ -4,6 +4,7 @@
 - [Balloonist-OLD](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Townsfolk/Balloonist-OLD)
 
 ## Outsider
+- [Maniac](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Outsider/Maniac)
 - [Siren](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Outsider/Siren)
 
 ## Minion

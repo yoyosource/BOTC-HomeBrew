@@ -49,7 +49,7 @@ After the first execution one Hydra and the Balloonist are still avlie. Then ano
 
 Info: as the character is very new, some new strategies might develop after playing. So these are just some tips for how we expect to play against the hydra based on its ability.
 
-The demon punishes wrong executions as you loose "half" of your information when killing only one hydra. You need to find out who became the new one by things like people spreading false information or changes in the information the good team receives. Due to the negative effects of wrongful executions, it is recommended to wait until later in the game to execute, when the information density allows you to make a better guess at who is evil. This fits the hydra's ability as it can't kill towsnfolk very quickly without losing its potential poisoning effects on information-gathering roles.
+- The demon punishes wrong executions as you loose "half" of your information when killing only one hydra. You need to find out who became the new one by things like people spreading false information or changes in the information the good team receives. Due to the negative effects of wrongful executions, it is recommended to wait until later in the game to execute, when the information density allows you to make a better guess at who is evil. This fits the hydra's ability as it can't kill towsnfolk very quickly without losing its potential poisoning effects on information-gathering roles.
 
 ## Jinxes
 ### Slayer
