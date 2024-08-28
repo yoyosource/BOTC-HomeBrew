@@ -1,6 +1,6 @@
 # Psychopath-FIX
 
-<img src="https://wiki.bloodontheclocktower.com/images/a/a3/Icon_Psychopath.png" alt="drawing" width="200"/>
+<img src="https://wiki.bloodontheclocktower.com/images/a/a3/Icon_psychopath.png" alt="drawing" width="200"/>
 
 ## Summary
 "Each day, before nominations, you may publicly choose a player (not yourself): they die. If executed, you only die if you lose roshambo."
