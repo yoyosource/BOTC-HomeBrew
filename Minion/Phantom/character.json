@@ -1,0 +1,27 @@
+{
+    "id": "phantom",
+    "edition": "custom",
+    "firstNight": 0,
+    "firstNightReminder": "",
+    "otherNight": 46,
+    "otherNightReminder": "Set attuned to a player",
+    "reminders": [
+      "attuned"
+    ],
+    "remindersGlobal": [],
+    "setup": false,
+    "name": "Phantom",
+    "team": "minion",
+    "ability": "Each night* choose a player you will attune to their ability till next dawn if they are townsfolk.",
+    "jinxes": [
+      {"id": "exorcist","reason": "The Phantom may choose a player who will not wake at night, if he is attuned with the Exorcist."},
+      {"id": "slayer","reason": "If the Phantom is attuned to the Slayer, they may choose a player who might die if they are a townsfolk."},
+      {"id": "philosopher","reason": "If the Phantom attunes to the Philosopher, the Phantom will be drunk till he chooses again."},
+      {"id": "sage","reason": "Once per game, if the Phantom attunes to the Sage, the Phantom learns that 1 of 2 players have a particular role."},
+      {"id": "alchemist","reason": "If the Phantom attunes to the Alchemist, the Phantom will be poisoned till he chooses again."},
+      {"id": "gambler","reason": "The Phantom may choose each night* a player to guess, if guessed wrong he dies if attuned to the gambler."},
+      {"id": "pixie","reason": "If the Phantom attunes to the Pixie, the Phantom will be drunk till he chooses again."},
+      {"id": "poppygrower","reason": "If the Phantom attunes to the Poppy Grower, the Phantom will be drunk till he chooses again."},
+      {"id": "auric","reason": "If the Phantom attunes to the Auric, the Auric will be poisoned, and the Phantom will be drunk until he chooses again."}
+    ]
+  }
