@@ -1,20 +1,20 @@
 {
-    "id": "lemures",
-    "edition": "custom",
-    "firstNight": 0,
-    "firstNightReminder": "",
-    "otherNight": 25,
-    "otherNightReminder": "Increase kill count if 3 add another evil Lemures that can protect",
-    "reminders": [
-      "1st Kill",
-      "2nd Kill",
-      "3rd Kill",
-      "Can protect",
-      "Real"
-    ],
-    "remindersGlobal": [],
-    "setup": false,
-    "name": "Lemures",
-    "team": "demon",
-    "ability": "Each night* choose a player, they die. Every third person you kill becomes an evil Lemures, once per game they can choose to protect you from an execution. They learn who you are."
+  "id": "lemures",
+  "edition": "custom",
+  "firstNight": 0,
+  "firstNightReminder": "",
+  "otherNight": 25,
+  "otherNightReminder": "Increase kill count if 3 add another evil Lemures that can protect.",
+  "reminders": [
+    "1st Kill",
+    "2nd Kill",
+    "3rd Kill",
+    "Can protect",
+    "Real"
+  ],
+  "remindersGlobal": [],
+  "setup": false,
+  "name": "Lemures",
+  "team": "demon",
+  "ability": "Each night* choose a player, they die. Every third person you kill becomes an evil Lemures, once per game they can choose to protect you from an execution. They learn who you are."
 }
