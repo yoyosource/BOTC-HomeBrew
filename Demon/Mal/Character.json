@@ -1,0 +1,17 @@
+{
+  "id": "mal",
+  "edition": "custom",
+  "firstNight": 28,
+  "firstNightReminder": "Ask the Mal if he wants to switch the form or if he wants to make someone mad / poison.",
+  "otherNight": 24,
+  "otherNightReminder": "Ask the Mal if he wants to switch the form or if he wants to make someone mad / poison.",
+  "reminders": [
+  "Switched form",
+  "mad"
+  ],
+  "remindersGlobal": [],
+  "setup": false,
+  "name": "Mal",
+  "team": "demon",
+  "ability": "Each night choose if you want to change from human form to dragon or from dragon form to human or not. If you switch your form you can't do anything else that night, if you stay in the human form choose 2 players, 1 is mad that the 2nd is a minion. If the 1st player breaks the madness he or both might be executed. When you are in the dragon form choose a player they are poisoned, the previously poisoned player dies."
+  }
