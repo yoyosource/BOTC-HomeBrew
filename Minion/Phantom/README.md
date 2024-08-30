@@ -40,7 +40,7 @@ The Phantom may choose a player who will not wake at night if he is attuned with
 ### Slayer
 If the Phantom is attuned to the Slayer, they may choose a player who might die if they are a townsfolk.
 ### Philosopher
-If the Phantom attunes to the Philosopher, the Phantom will be drunk till he chooses again.
+If the Phantom attunes to the Philosopher, the Phantom will be have the drunkness state till he chooses again.
 ### Sage
 Once per game, if the Phantom attunes to the Sage, the Phantom learns that 1 of 2 players have a particular role.
 ### Alchemist
@@ -48,8 +48,8 @@ If the Phantom attunes to the Alchemist, the Phantom will be poisoned till he ch
 ### Gambler
 The Phantom may choose each night* a player to guess, if guessed wrong he dies if attuned to the gambler.
 ### Pixie
-If the Phantom attunes to the Pixie, the Phantom will be drunk till he chooses again.
+If the Phantom attunes to the Pixie, the Phantom will have the drunkness state till he chooses again.
 ### Poppy Grower
-If the Phantom attunes to the Poppy Grower, the Phantom will be drunk till he chooses again.
+If the Phantom attunes to the Poppy Grower, the Phantom will have the drunkness state till he chooses again.
 ### Auric
-If the Phantom attunes to the Auric, the Auric will be poisoned, and the Phantom will be drunk until he chooses again.
+If the Phantom attunes to the Auric, the Auric will be poisoned, and the Phantom will have the drunkness state until he chooses again.
