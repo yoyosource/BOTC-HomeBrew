@@ -34,7 +34,7 @@ Kevin chooses to start the game as a dragon the next night he chooses that Leoni
 
 ## How to fight the Mal
 
-Info: as the character is very new, some new strategies might develop after playing. So these are just some tips for how we expect to play against the Griffin based on its ability.
+Info: as the character is very new, some new strategies might develop after playing. So these are just some tips for how we expect to play against the Mal based on its ability.
 
 - Check if the Information someone gives is awkward or keep an ear open for someone claiming that someone is a minion it can help you determine the form of the Mal.
 - Don't trust someone who claims that someone is a minion, they might be mad because of the Mal.
