@@ -1,0 +1,17 @@
+{
+    "id": "auric",
+    "edition": "custom",
+    "firstNight": 0,
+    "firstNightReminder": "",
+    "otherNight": 47,
+    "otherNightReminder": "Let them choose 2 people and then tell them how much evil they sense",
+    "reminders": [
+      "Sensed",
+      "Red Herring"
+    ],
+    "remindersGlobal": [],
+    "setup": false,
+    "name": "Auric",
+    "team": "townsfolk",
+    "ability": "Each night* choose 2 players, you learn if they or there adjacent Neighbor emit a dark aura (evil). You have as many Red Herrings as Minions in play"
+  }
