@@ -2,6 +2,8 @@
 
 ## Townsfolk
 - [Balloonist-OLD](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Townsfolk/Balloonist-OLD)
+- [Auric](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Townsfolk/Auric)
+- [Obatala](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Townsfolk/Obatala)
 
 ## Outsider
 - [Maniac](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Outsider/Maniac)
@@ -12,6 +14,7 @@
 - [Phantom](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Minion/Phantom)
 - [Psychopath-FIX](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Minion/Psychopath-FIX)
 - [Whisperer](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Minion/Whisperer)
+- [Seer](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Minion/Seer)
 
 ## Demon
 - [Griffin](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Demon/Griffin)
@@ -23,5 +26,6 @@
 - [Wraith](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Demon/Wraith)
 
 ## Traveler
+- [Arsonist](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Traveller/Arsonist)
 
 ## Fabled

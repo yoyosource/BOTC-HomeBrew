@@ -1,0 +1,16 @@
+{
+    "id": "arsonist",
+    "edition": "custom",
+    "firstNight": 0,
+    "firstNightReminders": "",
+    "otherNight": 0,
+    "otherNightReminders": "",
+    "reminders": [
+      "Can be lit"
+    ],
+    "remindersGlobal": [],
+    "setup": false,
+    "name": "Arsonist",
+    "team": "traveller",
+    "ability": "Each night you may choose a player that you want to put Gasoline on. Once per game at night or during the night visit the Storyteller to choose to ignite all players that have gasoline on them to kill them."
+  }
