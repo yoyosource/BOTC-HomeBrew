@@ -8,6 +8,7 @@
 ## Outsider
 - [Maniac](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Outsider/Maniac)
 - [Siren](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Outsider/Siren)
+- [Weeping-Angel](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Outsider/Weeping-Angel)
 
 ## Minion
 - [Manipulator](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Minion/Manipulator)
