@@ -34,3 +34,7 @@ When bluffing as the Maniac, there are a few things you should keep in mind:
 ## Jinxes
 ### Lunatic
 The Lunatic may learn that the Maniac is his Minion and the Maniac may learn that the Lunatic is his demon.
+### Widow
+The Maniac can not learn that he is the Widow.
+### Spy
+The Maniac can not learn that he is the Spy.
