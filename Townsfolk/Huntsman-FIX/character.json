@@ -1,0 +1,16 @@
+{
+    "id": "huntsman_fix",
+    "image": "https://wiki.bloodontheclocktower.com/images/a/a1/Icon_huntsman.png",
+    "name": "Huntsman FIX",
+    "edition": "custom",
+    "team": "townsfolk",
+    "nightOrderAs": "huntsman",
+    "firstNightReminder": "The Huntsman shakes their head 'no' or points to a player. If they point to the Damsel, wake that player, show the 'You are' card and a not-in-play character token.",
+    "otherNightReminder": "The Huntsman shakes their head 'no' or points to a player. If they point to the Damsel, wake that player, show the 'You are' card and a not-in-play character token.",
+    "reminders": [],
+    "setup": true,
+    "ability": "Once per game, at night, choose a living player: the Damsel, if chosen, becomes a not-in-play Townsfolk. [+the Damsel]",
+    "jinxes": [
+        {"id": "damsel", "reason": "The Huntsman may choose every night."}
+    ]
+  }
