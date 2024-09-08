@@ -1,9 +1,9 @@
 # HomeBrew
 
 ## Townsfolk
+- [Auric](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Townsfolk/Auric)
 - [Balloonist-OLD](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Townsfolk/Balloonist-OLD)
 - [Huntsman-FIX](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Townsfolk/Huntsman-FIX)
-- [Auric](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Townsfolk/Auric)
 - [Obatala](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Townsfolk/Obatala)
 
 ## Outsider
@@ -15,8 +15,8 @@
 - [Manipulator](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Minion/Manipulator)
 - [Phantom](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Minion/Phantom)
 - [Psychopath-FIX](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Minion/Psychopath-FIX)
-- [Whisperer](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Minion/Whisperer)
 - [Seer](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Minion/Seer)
+- [Whisperer](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Minion/Whisperer)
 
 ## Demon
 - [Griffin](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Demon/Griffin)
