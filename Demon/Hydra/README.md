@@ -1,6 +1,6 @@
 # Hydra
 
-<img src="https://github.com/yoyosource/BOTC-HomeBrew/assets/171445109/7f5f1376-d426-451b-ae6e-0a9b4b5d0320" alt="drawing" width="200"/>
+<img src="https://raw.githubusercontent.com/yoyosource/BOTC-HomeBrew/master/Demon/Hydra/image.png" alt="drawing" width="200"/>
 
 ### Authors
 - Coronas
