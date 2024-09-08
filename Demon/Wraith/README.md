@@ -2,6 +2,7 @@
 
 ### Authors
 - Noel
+- Jonas
 
 ## Summary
 
@@ -33,4 +34,3 @@ Info: as the character is very new, some new strategies might develop after play
 
 - Watch if someone died in the night and how many died the next day, If no one died and then 2 or 3 died you can be sure it is probably a Wraith in play.
 - If someone was saying a Revenant is in play multiple times but didn't die that night and the next day they keep there mouth shut but they and a second person die it means a Wraith tried to make it look like a Revenant game.
-- Have fun dieing :D
