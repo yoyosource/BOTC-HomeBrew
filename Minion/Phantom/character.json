@@ -3,7 +3,7 @@
     "edition": "custom",
     "firstNight": 0,
     "firstNightReminder": "",
-    "otherNight": 46,
+    "otherNight": 1,
     "otherNightReminder": "Set attuned to a player",
     "reminders": [
       "attuned"
