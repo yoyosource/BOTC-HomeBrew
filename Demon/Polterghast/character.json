@@ -1,7 +1,7 @@
 {
     "id": "polterghast",
     "edition": "custom",
-    "firstNight": 12,
+    "firstNight": 17,
     "firstNightReminder": "Choose player that will yield false information.",
     "otherNight": 28,
     "otherNightReminder": "Choose player that will yield false information and that dies.",
