@@ -5,9 +5,9 @@
 
 ## Summary
 
-"Each night* choose a dead player, they will regain there abilities but may only speak with you. They learn who you are."
+"Each night* choose a dead player, they will regain their abilities but may only speak with you. They learn who you are."
 
-Each night* when a player is dead the Obatala can choose them and that player regains there abilities with the cost of only being allowed to tell the Obatala actual true information. The dead player learns who the Obatala is the moment they are chosen
+Each night* when a player is dead the Obatala can choose them and that player regains there abilities with the cost of only being allowed to tell the Obatala actual true information. The dead player learns who the Obatala is the moment they are chosen.
 
 Obatala is a ghost type from the Lou. The Lou are Voodoo ghosts which is why the dead players may only tell the Obatala true information and no one else.
 
