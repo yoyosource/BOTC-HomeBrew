@@ -5,15 +5,15 @@
 
 ## Summary
 
-"Each night* choose 2 players, you learn if they or there adjacent Neighbor emit a dark aura (evil). You have as many Red Herrings as Minions in play"
+"Each night* choose 2 players, you learn if they or their Neighbor emit a dark aura (evil). You have as many Red Herrings as Minions in play"
 
-Each night* the Auric chooses 2 players if one of the chosen players or there adjacent neighbours is evil or a red herring the auric learns that.
+Each night* the Auric chooses 2 players if one of the chosen players or their neighbours(directly adjacent players) is evil or a red herring the auric learns that.
 
-The idea for an Auric came since a lot of this script is bond to the paranormal realm or ghost world and an Auric can see beyond the border that defines our world from the Astral realm.
+The idea for an Auric came up since a lot of this script(spectral realm) is bound to the paranormal realm or ghost world and an Auric can see beyond the border that defines our world from the Astral realm.
 
 ## How to run
 
-Each night* visit the Auric and ask who he chooses, if the chosen players or one of his adjacent neighbours is evil or a red herring the Auric learns one of them is evil.
+Each night* visit the Auric and the person they choose. If the chosen players or one of their adjacent neighbours is evil or a red herring the Auric learns one of them is evil.
 
 ## Examples
 
