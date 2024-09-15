@@ -5,20 +5,18 @@
 
 ## Summary
 
-"Each night* choose a dead player, they will regain their abilities but may only speak with you. They learn who you are."
+"Each night* choose a dead player they regain there ability until the Obatala chooses again."
 
-Each night* when a player is dead the Obatala can choose them and that player regains there abilities with the cost of only being allowed to tell the Obatala actual true information. The dead player learns who the Obatala is the moment they are chosen.
-
-Obatala is a ghost type from the Lou. The Lou are Voodoo ghosts which is why the dead players may only tell the Obatala true information and no one else.
+Each night* when a player is dead the Obatala can choose them and that player regains there abilities until the Obatala chooses again.
 
 ## How to run
 
-Each night* if there is a dead player visit the Obatala and ask him if he wants to choose them or not, if he chooses them give the dead player the "regained ability" reminder.
+Each night* if there is a dead player visit the Obatala and ask him who he wants to choose, give the chosen dead player the "regained ability" reminder.
 Give players with the "regained ability" reminder there normal information as if they were alive.
 
 ## Examples
 
-Julian the Savant was executed, in the night he gets chosen by the Obatala which is Noel. Julian regains there ability and learns that Noel is the Obatala and he is only allowed to give him true information.
+Julian the Savant was executed, in the night he gets chosen by the Obatala which is Noel. Julian regains there ability.
 
 ## Tips and Tricks
 

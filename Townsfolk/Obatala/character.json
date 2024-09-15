@@ -1,16 +1,16 @@
 {
-    "id": "obatala",
-    "edition": "custom",
-    "firstNight": 0,
-    "firstNightReminder": "",
-    "otherNight": 44,
-    "otherNightReminder": "ask who he wants to have there ability again",
-    "reminders": [
-      "regained ability"
-    ],
-    "remindersGlobal": [],
-    "setup": false,
-    "name": "Obatala",
-    "team": "townsfolk",
-    "ability": "Each night* choose a dead player, they will regain there abilities but may only speak with you. They learn who you are."
-  }
+  "id": "obatala",
+  "edition": "custom",
+  "firstNight": 0,
+  "firstNightReminder": "",
+  "otherNight": 44,
+  "otherNightReminder": "ask who he wants to have there ability again",
+  "reminders": [
+    "regained ability"
+  ],
+  "remindersGlobal": [],
+  "setup": false,
+  "name": "Obatala",
+  "team": "townsfolk",
+  "ability": "Each night* choose a dead player they regain there ability until the Obatala chooses again."
+}

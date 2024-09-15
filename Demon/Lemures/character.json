@@ -9,12 +9,12 @@
     "1st Kill",
     "2nd Kill",
     "3rd Kill",
-    "Can protect",
+    "Will protect",
     "Real"
   ],
   "remindersGlobal": [],
   "setup": false,
   "name": "Lemures",
   "team": "demon",
-  "ability": "Each night* choose a player, they die. Every third person you kill becomes an evil Lemures, once per game they can choose to protect you from an execution. They learn who you are."
+  "ability": "Each night* choose a player, they die. Every third person you kill becomes an evil Lemures, once per game they will protect you from an execution. They learn who you are."
 }

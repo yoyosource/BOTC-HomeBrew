@@ -5,9 +5,9 @@
 
 ## Summary
 
-"Each night* choose a player, they die. Every third person you kill becomes an evil Lemures, once per game they can choose to protect you from an execution. They learn who you are."
+"Each night* choose a player, they die. Every third person you kill becomes an evil Lemures, once per game they will protect you from an execution. They learn who you are."
 
-If the Lemures killed 3 people in a game they will survive an execution because they created an evil Lemures that may protect them at any point of the game. 
+If the Lemures killed 3 people in a game they will survive an execution because they created an evil Lemures that will protect them at any point of the game. 
 
 The Lemures is a demon type who has an ability similar to its ghost counterpart. Lemures are aggressive ghosts who died prematurely causing them to kill more people.
 
@@ -17,11 +17,11 @@ When setting up the game give the Lemures the "Real" reminder
 
 Keep track of how many players died to the Lemures with the reminder tokens ("1st Kill", "2nd Kill" and "3rd Kill").
 
-Change the character of the third kill to an evil Lemures and give him the "Can Protect" reminder.
+Change the character of the third kill to an evil Lemures and give him the "Will Protect" reminder.
 
-When the real Lemures (marked by the "Real" reminder) gets executed while an evil Lemures, with the "Can Protect" reminder, is in game, the real Lemures will not get executed. Revoke the "Can Protect" reminder from the evil Lemures who protected the real Lemures.
+When the real Lemures (marked by the "Real" reminder) gets executed while an evil Lemures, with the "Will Protect" reminder, is in game, the real Lemures will not get executed. Revoke the "Will Protect" reminder from the evil Lemures who protected the real Lemures.
 
-If more than one evil Lemures with the "Can Protect" reminder is in game and the real Lemures gets executed revoke the "Can Protect" reminder from one, doesn't matter which one u choose of the Lemures that can protect.
+If more than one evil Lemures with the "Will Protect" reminder is in game and the real Lemures gets executed revoke the "Will Protect" reminder from one, doesn't matter which one u choose of the Lemures that can protect.
 
 ## Examples
 
