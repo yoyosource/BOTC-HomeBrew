@@ -10,10 +10,10 @@
 ## Summary
 "Each night* choose a player; if picked by both Hydra they die, or else poisoned until dusk. Each day, a 2nd execution starts after the 1st. If a Hydra was executed an alive player becomes an evil Hydra. You know all Hydra. Execution fails, if only Hydra voted. [+1 Hydra; No minions]"
 
-The hydra is a demon-type character with an ability inspired by its mythologic counterpart.
-The game starts with two hydras in play, however there are no minions in play.
-If you don't kill both hydras on the same day (meaning one survives), in the next night, another hydra is created with the alive hydra learning who it is.
-How are you supposed to kill two people a day? Well, the hydra also adds another nomination & execution round each day, starting after the first player has been executed.
+The Hydra is a demon-type character with an ability inspired by its mythologic counterpart.
+The game starts with two Hydras in play, however there are no minions in play.
+If you don't execute both Hydras on the same day (meaning one survives), in the next night, another Hydra is created. All alive Hydras get to know every dead or alive Hydra.
+How are you supposed to execute two people a day? Well, the Hydra also adds another nomination & execution round each day, starting after the first player has been executed.
 
 ## How to run
 
@@ -23,13 +23,13 @@ While preparing the first night, have 2 Hydras in play and no Minions.
 
 During the first night, wake both Hydras in any order and tell both who the other Hydra is and the 3 demon bluffs.
 
-While preparing the other night, if only 1 Hydra is alive go to the alive Hydra and say who is the new evil Hydra. Go to the previously mentioned player and say that they are an evil Hydra.
+While preparing the other night, if only 1 Hydra. Make one alive player an evil Hydra. Tell them who the other Hydras are (even dead ones). Tell the original Hydra the same information. Remove every POISONED mark.
 
-During the other night, prior to waking both Hydras remove their POISONED mark. Then wake both Hydras in any order and ask them who they want to choose (except themself). Put the POISONED reminder on the choosen player or mark them with the DEAD reminder if already poisoned by another Hydra and remove the POISONED reminder. Remove the DEAD reminder token after you proclaimed the player dead at dawn.
+Wake both Hydras in any order and ask them who they want to choose (except themself). Put the POISONED reminder on the choosen player or mark them with the DEAD reminder if already poisoned by another Hydra and remove the POISONED reminder. Remove the DEAD reminder token after you proclaimed the player dead at dawn.
 
 ## Examples
 
-Ben and Sam are both Hydra. Sam manages to successfully bluff another role, while Ben is executed. At dusk of that day, this causes Laura to become an evil Hydra. Sam learns that Laura turned into a Hydra, whereas Laura does not know who his team is.
+Ben and Sam are both Hydra. Sam manages to successfully bluff another role, while Ben is executed. At dusk of that day, this causes Laura to become an evil Hydra. Sam learns that Laura is the new Hydra. Laura learns that Ben and Sam are a Hydra.
 
 After the first execution only 2 Hydras are still alive. Thus evil wins.
 
@@ -43,7 +43,6 @@ After the first execution one Hydra and the Balloonist are still avlie. Then ano
 - If nothing helps spread false information so one of the Hydras dies. Thus creating another player that is evil and mistrust amongst the good players.
 - If a new Hydra is created at night, you can poison him, this ensures no random kill this night, but halfes your poison potential.
 - If you are the new Hydra try bluffing as your old character to further gain the trust of everyone.
-- Try to be executed instead of choosen by a Slayer. If a Slayer chooses you as the Demon your team is weakend for at least a whole night and day.
 - Only vote if other non Hydras vote, only Hydras voting will look suspicious if you have enough votes to execute someone.
 
 ## How to fight the Hydra
