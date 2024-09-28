@@ -5,9 +5,10 @@
 ### Authors
 - Coronas
 - Jonas
+- Marcus
 
 ## Summary
-"Each night* choose a player (not yourself), they are poisoned until you choose again in the following night. If the same player is chosen twice by Hydras in the same night, the player is no longer poisoned, but dies. Everybody knows you are in play.  If there is only one hydra alive, at the start of the next night an alive player becomes an evil hydra. The alive hydra learns who. After the first execution, there is another nomination & execution round. Everybody regains their ability to nominate and be nominated. Execution fails, if only hydras voted. [+ 1 Hydra; No minions]"
+"Each night* choose a player; if picked by both Hydra they die, or else poisoned until dusk. Each day, a 2nd execution starts after the 1st. If a Hydra was executed an alive player becomes an evil Hydra. You know all Hydra. Execution fails, if only Hydra voted. [+1 Hydra; No minions]"
 
 The hydra is a demon-type character with an ability inspired by its mythologic counterpart.
 The game starts with two hydras in play, however there are no minions in play.
@@ -53,4 +54,4 @@ Info: as the character is very new, some new strategies might develop after play
 
 ## Jinxes
 ### Slayer
-Choose two players. Any demon if choosen dies. If a demon died the following night no new Demon can be created by the Hydra.
+Choose a player (not a Traveler). If they are not a Demon they die. You cannot become a Hydra.
