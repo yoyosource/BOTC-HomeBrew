@@ -14,7 +14,7 @@
   "setup": true,
   "name": "Hydra",
   "team": "demon",
-  "ability": "Each night* choose a player; if picked by both Hydra they die, or else poisoned until dusk. Each day, a 2nd execution starts after the 1st. If a Hydra was executed an alive player becomes an evil Hydra. You know all Hydra. Execution fails, if only Hydra voted. [+1 Hydra; No minions]",
+  "ability": "Each night* choose a player; if picked by both Hydra they die, or else poisoned until dusk. Each day, a 2nd execution starts after the 1st. Then, if a Hydra was executed an alive player becomes an evil Hydra. You know all Hydra. Execution fails, if only Hydra voted. [+1 Hydra; No minions]",
   "jinxes": [
     {"id": "slayer", "reason": "Choose a player (not a Traveler). If they are not a Demon they die. You cannot become a Hydra."}
   ]
