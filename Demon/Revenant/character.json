@@ -1,16 +1,16 @@
 {
-    "id": "revenant",
-    "edition": "custom",
-    "firstNight": 0,
-    "firstNightReminder": "",
-    "otherNight": 27,
-    "otherNightReminder": "You may kill the people who spoke about the role in Public.",
-    "reminders": [
-      "Spoke"
-    ],
-    "remindersGlobal": [],
-    "setup": false,
-    "name": "Revenant",
-    "team": "demon",
-    "ability": "Each night* choose a player they die. When someone talks publicly about your role they may die in the Night."
-  }
+  "id": "revenant",
+  "edition": "custom",
+  "firstNight": 0,
+  "firstNightReminder": "",
+  "otherNight": 27,
+  "otherNightReminder": "You may kill up to two of the people who spoke about the role in Public.",
+  "reminders": [
+    "Spoke"
+  ],
+  "remindersGlobal": [],
+  "setup": false,
+  "name": "Revenant",
+  "team": "demon",
+  "ability": "Each night* choose a player; they die. Up to 2 players that spoke publicly about your role might die the following night."
+}

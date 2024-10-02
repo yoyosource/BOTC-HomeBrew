@@ -1,15 +1,15 @@
 {
-    "id": "weepingangel",
-    "name": "Weeping Angel",
-    "edition": "custom",
-    "firstNight": 66,
-    "otherNight": 0,
-    "firstNightReminder": "Set the Weeping Target reminder to the chosen player",
-    "otherNightReminder": "",
-    "reminders": [
-      "Weeping Target"
-    ],
+  "id": "weepingangel",
+  "name": "Weeping Angel",
+  "edition": "custom",
+  "firstNight": 66,
+  "otherNight": 0,
+  "firstNightReminder": "Set the Weeping Target reminder to the chosen player",
+  "otherNightReminder": "",
+  "reminders": [
+    "Weeping Target"
+  ],
   "setup": false,
   "team": "outsider",
-  "ability": "Choose a player at the start of the game, you become their alignment. If you and them are in the same room alone they die. They learn that you are there Weeping Angel."
-  }
+  "ability": "On your first night, choose a player; you become their alignment. If you are alone in a room with them, they die. They learn that you are their Weeping Angel."
+}

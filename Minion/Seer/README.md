@@ -2,33 +2,34 @@
 
 ### Authors
 - Noel
-- Jonas
+- Marcus
 
 ## Summary
 
-"Each night you learn a character. If you guess who has that character they die. You might learn not in play characters."
+"Each night* choose a player they learn that they were chosen and decide if they want to die or if the seer learns the roles of their alive neighbours (if 5 or more players are alive)."
 
-Each night the Seer learns a random Character, if they guess the owner of that character the owner dies. The Seer might learn not in play characters.
-
-The Seer was intentionally meant to be a Sniper, but he would have been too strong, so he became the Seer causing him to "see" a character which might or might not be in play. If they guess the owner of a character the owner dies.
+Each night* the Seer chooses a player that player has the choice to either suicide or let the Seer learn what characters his Neighbours are.
 
 ## How to run
 
-Each night visit the Seer and give him a random character either in play or not. If they guess who that character belongs to mark them with the "guessed" reminder.
+Each night* visit the Seer and ask who he chooses. Give the chosen player the "Chosen" reminder.
 
-In the morning announce the people who died also calling out the name of the player with the "guessed" reminder
+Visit the chosen player and tell them "the Seer chose you. Do you wish to die or let him know the roles of your neighbouring players."
+
+If they choose to die then announce them dead in the morning.
+
+If they choose to live tell the Seer the roles of the neighbours from the player he chose.
 
 ## Examples
 
-In Night 1 Julian the Seer learned as character the Savant. Julian chose Noel, Noel was the Savant and got announced dead the next day.
-Jonas the Seer killed 2 players early on. The Storyteller started giving him Minions and not in play characters, so he becomes weaker.
+The Seer chooses Marcus. Marcus considers himself useless so he decides to die instead of giving out any information to the evil team
+
+Noel was chosen by the Seer and Noel is the Demon Noel says that the Seer should learn the character of his Neighbours Julian and Jonas. The Seer learns that Julian is a Sage and Jonas an Obatala
 
 ## Tips and Tricks
 
-- Try not to be too obvious with getting a player role.
-- Just guess you can't die to stupidity anyway.
+- Dont talk immediatly with your demon in case someone suspects you to be the seer.
 
 ## How to fight the Seer
 
-- Never trust anyone.
-- If you know someone who told another person there role, and they die then the Seer might have gotten his role named, and you can say this is the Seer.
+- Prioritice what would be better for the good team in case you dont know what your neighbours roles are

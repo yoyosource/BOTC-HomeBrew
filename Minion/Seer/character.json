@@ -1,16 +1,16 @@
 {
-    "id": "seer",
-    "edition": "custom",
-    "firstNight": 61,
-    "firstNightReminders": "Name a character in play or not",
-    "otherNight": 76,
-    "otherNightReminders": "Name a character in play or not",
-    "reminders": [
-      "Guessed"
-    ],
-    "remindersGlobal": [],
-    "setup": false,
-    "name": "Seer",
-    "team": "minion",
-    "ability": "Each night you learn a character. If you guess who has that character they die. You might learn not in play characters."
-  }
+  "id": "seer",
+  "edition": "custom",
+  "firstNight": 0,
+  "firstNightReminders": "",
+  "otherNight": 46,
+  "otherNightReminders": "Let them choose a player and give them the information they should get.",
+  "reminders": [
+    "Chosen"
+  ],
+  "remindersGlobal": [],
+  "setup": false,
+  "name": "Seer",
+  "team": "minion",
+  "ability": "Each night* choose a player; they learn that they were chosen by the Seer, then they may choose to live or die. If they choose to live, you learn thier living neighbors' characters."
+}
