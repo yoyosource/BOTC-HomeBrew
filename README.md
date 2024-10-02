@@ -13,7 +13,7 @@
 
 ## Minion
 - [Manipulator](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Minion/Manipulator)
-- [Phantom](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Minion/Phantom)
+- [Phantom Thief](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Minion/Phantom%20Thief)
 - [Psychopath-FIX](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Minion/Psychopath-FIX)
 - [Seer](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Minion/Seer)
 - [Whisperer](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Minion/Whisperer)
@@ -29,5 +29,8 @@
 
 ## Traveler
 - [Arsonist](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Traveller/Arsonist)
+- [Lost Soul](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Traveller/Lost%20Soul)
+- [Echo](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Traveller/Echo)
+- [Author](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Traveller/Author)
 
 ## Fabled

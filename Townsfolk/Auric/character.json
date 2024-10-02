@@ -4,7 +4,7 @@
   "firstNight": 0,
   "firstNightReminder": "",
   "otherNight": 47,
-  "otherNightReminder": "Let them choose 2 people and then tell them if they sensed evil",
+  "otherNightReminder": "Let them choose 1 player and then tell them how much evil they sensed",
   "reminders": [
     "Sensed",
     "Red Herring"
@@ -13,5 +13,5 @@
   "setup": false,
   "name": "Auric",
   "team": "townsfolk",
-  "ability": "Each night* choose 2 players u learn if at least one of them is evil. You have as many red herrings as minions in play."
+  "ability": "Each Night choose a player; you learn how many of them and their neighbors are evil. For each Minion in play, a good player registers as evil to you."
 }

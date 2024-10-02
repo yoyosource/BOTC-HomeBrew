@@ -1,17 +1,17 @@
 {
-    "id": "wraith",
-    "edition": "custom",
-    "firstNight": 0,
-    "firstNightReminder": "",
-    "otherNight": 26,
-    "otherNightReminder": "Increase counter by +1 if an execution happened otherwise +2 if he doesn't kill",
-    "reminders": [
-      "+1 Kill",
-      "+2 Kill"
-    ],
-    "remindersGlobal": [],
-    "setup": false,
-    "name": "Wraith",
-    "team": "demon",
-    "ability": "Each night* you can choose to kill or not, if u decide to not kill, you may kill the next time you act 3 people. You may only kill 2 people if someone was executed, and you didn't kill the previous night."
-  }
+  "id": "wraith",
+  "edition": "custom",
+  "firstNight": 0,
+  "firstNightReminder": "",
+  "otherNight": 26,
+  "otherNightReminder": "Increase counter by +1 if an execution happened otherwise +2 if he doesn't kill",
+  "reminders": [
+    "+1 Kill",
+    "+2 Kill"
+  ],
+  "remindersGlobal": [],
+  "setup": false,
+  "name": "Wraith",
+  "team": "demon",
+  "ability": "Each night* you may choose a player. If your last choice was no-one, choose 3 players tonight. If a player was executed the previous day, choose 2 players instead."
+}

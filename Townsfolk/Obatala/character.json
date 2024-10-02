@@ -12,5 +12,5 @@
   "setup": false,
   "name": "Obatala",
   "team": "townsfolk",
-  "ability": "Each night* choose a dead player they regain there ability until the Obatala chooses again."
+  "ability": "Each night* choose a dead player; If they are Townsfolk they regain their ability until dusk. Used once per game abilities are not restored this way."
 }

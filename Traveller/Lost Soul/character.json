@@ -1,0 +1,16 @@
+{
+    "id": "lostsoul",
+    "edition": "custom",
+    "firstNight": 0,
+    "firstNightReminders": "",
+    "otherNight": 0,
+    "otherNightReminders": "",
+    "reminders": [
+      "Chosen"
+    ],
+    "remindersGlobal": [],
+    "setup": false,
+    "name": "Lost Soul",
+    "team": "traveller",
+    "ability": "Each night* you may choose a player (not yourself); All players learn their character. The character announced if an evil player is chosen is arbitrary."
+  }

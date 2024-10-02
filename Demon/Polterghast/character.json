@@ -1,16 +1,16 @@
 {
-    "id": "polterghast",
-    "edition": "custom",
-    "firstNight": 17,
-    "firstNightReminder": "Choose player that will yield false information.",
-    "otherNight": 28,
-    "otherNightReminder": "Choose player that will yield false information and that dies.",
-    "reminders": [
-      "Poltered"
-    ],
-    "remindersGlobal": [],
-    "setup": false,
-    "name": "Polterghast",
-    "team": "demon",
-    "ability": "Each night choose a player they will yield false information the next day. Each Night* choose an additional player they die."
-  }
+  "id": "polterghast",
+  "edition": "custom",
+  "firstNight": 17,
+  "firstNightReminder": "Choose a player that will yield false information.",
+  "otherNight": 28,
+  "otherNightReminder": "Choose a player that will yield false information and one that dies.",
+  "reminders": [
+    "Poltered"
+  ],
+  "remindersGlobal": [],
+  "setup": false,
+  "name": "Polterghast",
+  "team": "demon",
+  "ability": "Each night choose a player; they yield false information until Dusk. Each Night* choose a; player they die."
+}

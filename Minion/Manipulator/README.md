@@ -2,35 +2,30 @@
 
 ### Authors
 - Noel
-- Jonas
+- Marcus
 
 ## Summary
 
-"Once per game* change a players alignment to evil"
+"Each Night* choose a player and a certain evil character, they are mad to be that character. If they break Madness they might get executed"
 
-Once per game* the Manipulator can change a players alignment whenever he wants creating another evil character.
+Each night* they choose a player and any evil character. The chosen person becomes mad to be that character, if they decide to break the madness they might get executed.
 
 The Manipulator is a different approach for a minion since he may change any ones alignment to evil when ever he wishes to except the first night. He wasn't inspired by anything specific.
 
 ## How to run
 
-Each Night* visit the Manipulator and ask if he wants to change some ones alignment to evil if he says yes ask which player.
+Each Night* visit the Manipulator and who they choose and what character.
 
-Give the player chosen by the Manipulator the "Alignment changed" reminder.
+Give the player chosen by the Manipulator the "Is Mad" reminder and visit them to tell them what they are mad about.
 
 ## Examples
 
-Beata is a good Savant which she tells Noel. Noel is the Manipulator and makes Beata an evil Savant.
+Beata is a good Savant which she tells Noel. Noel is the Manipulator and makes Beata mad over being a Whisperer.
 
 ## Tips and Tricks
 
-- Wait with using your ability until you have a good person for your Team in sight.
-- Turn a player who could be dangerous for your alignment to evil so that they have to help you.
+- Make yourself mad to be an Evil character to hide yourself
 
 ## How to fight the Manipulator
 
-- Keep a keen eye on people and how they act maybe they have been turned evil and ain't be your friend no more.
-
-## Jinxes
-### Poppy Grower
-The Manipulator may choose to turn someone evil but the Storyteller decides who becomes evil.
+WIP

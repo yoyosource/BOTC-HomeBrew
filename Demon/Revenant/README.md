@@ -2,12 +2,13 @@
 
 ### Authors
 - Noel
+- Marcus
 
 ## Summary
 
-"Each night* choose a player they die. When someone talks publicly about your role they may die in the Night."
+"Each night* choose a player they die. When someone talks publicly about your role they might die in the Night."
 
-Each night* he chooses a player that dies. When someone was talking about the Revenant in public they might die in the night aswell.
+Each night* he chooses a player that dies. When someone was talking about the Revenant in public they might die in the night as well.
 
 The moment the word Revenant or anything close to it, falls in Public the player saying it might die at night. The Revenant is often seen as an aggressive type of ghost getting more aggressive when someone talks about him.
 
@@ -15,18 +16,18 @@ The moment the word Revenant or anything close to it, falls in Public the player
 
 In the day give players who spoke about the Revenant the "Spoke" reminder.
 
-In the night you visit the Revenant and ask him who he wants to kill, at the end of the night decide which players of the players who have the "Spoke" reminder shall die. 
+In the night you visit the Revenant and ask him who he wants to kill, at the end of the night decide which player of the players who have the "Spoke" reminder shall die. 
 
 ## Examples
 
-On the first day Julian constantly said Revenant. In the night the Jonas the Revenant decided to kill him so no one knows if one is actually in play.
+On the first day Julian constantly said Revenant. In the night Jonas the Revenant decided to kill him so no one knows if one is actually in play.
 
 Paul the Revenant kills Julian. Jonas and Julian both repeatedly said Revenant, the next day Julian and Jonas is announced dead.
 
 ## Tips and Tricks
 
 - If you notice someone saying the name of your role or something similar to it kill them in the night, you don't want the good team to immediately be aware of your presence.
-- When you think the good team is about to notice your presence kill a player who isn't saying the name of your role, perhaps you get a good amount of kills that way.
+- When you think the good team is about to notice your presence kill a player who isn't saying the name of your role, perhaps you get a second kill that way.
 
 ## How to fight the Revenant
 
