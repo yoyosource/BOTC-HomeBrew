@@ -54,3 +54,33 @@ Info: as the character is very new, some new strategies might develop after play
 ## Jinxes
 ### Slayer
 Choose a player (not a Traveler). If they are not a Demon they die. You cannot become a Hydra.
+### Magician
+While you live, Hydras learns you as a second Hydra. While you are dead, Hydras learn you as an additional dead Hydra.
+### Town Crier
+If no Minions are in play, you learn if a neighbor of a Hydra nominated.
+### Pit Hag
+If the Pit Hag creates a Hydra, another alive evil player turns into a Hydra.
+### Summoner
+If the Summoner creates a Hydra, another alive evil player turns into a Hydra.
+### Hatter
+The Hatter cannot make a Hydra.
+### Snitch
+Both Hydras get 3 different (not unique) not-in-play characters.
+### Damsel
+Hydra registers as a Minion to the Damsel.
+### Clockmaker
+On your first night you learn the steps between two closest Hydras.
+### Engineer
+If you choose to create a Hydra, another player turns into an evil Hydra.
+### Minstrel
+Minstrel and the Hydra can not both be in play at the start of the game.
+### Preacher
+Hydras you choose learns who you are and can no longer poison players. (Killing is still possible.)
+### Mastermind
+Another night is only played when both Hydras died by execution (ending the game).
+### Witch
+If a Hydra dies by the Witch another evil Hydra is created the night after the next.
+### Harpy
+If a Hydra dies by the Harpy another evil Hydra is created the night after the next.
+### Devil’s Advocate
+If the Devil's Advocate choose a Hydra last night, they cannot choose another Hydra tonight.
