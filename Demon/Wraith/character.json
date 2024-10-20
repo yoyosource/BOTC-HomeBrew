@@ -4,14 +4,13 @@
   "firstNight": 0,
   "firstNightReminder": "",
   "otherNight": 26,
-  "otherNightReminder": "Increase counter by +1 if an execution happened otherwise +2 if he doesn't kill",
+  "otherNightReminder": "If chosen not to kill poison a player.",
   "reminders": [
-    "+1 Kill",
-    "+2 Kill"
+    "Poisoned"
   ],
   "remindersGlobal": [],
   "setup": false,
   "name": "Wraith",
   "team": "demon",
-  "ability": "Each night* you may choose a player. If your last choice was no-one, choose 3 players tonight. If a player was executed the previous day, choose 2 players instead."
+  "ability": "Each night* you may choose a player; they die. While your last choice is no-one, a player is poisoned, and you choose 2 instead."
 }

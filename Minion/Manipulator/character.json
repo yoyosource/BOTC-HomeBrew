@@ -4,13 +4,13 @@
   "firstNight": 34,
   "firstNightReminders": "",
   "otherNight": 20,
-  "otherNightReminders": "Visit them and ask who they want to make mad and about which character.",
+  "otherNightReminders": "Visit them and ask what they want to make the Outsiders mad about.",
   "reminders": [
     "Is Mad"
   ],
   "remindersGlobal": [],
-  "setup": false,
+  "setup": true,
   "name": "Manipulator",
   "team": "minion",
-  "ability": "Each Night* choose a player & a evil character; they are mad that they are this character tomorrow, or might be executed."
+  "ability": "Each night choose a Townsfolk character; today each Outsider is mad that they are that character or they might be executed.[+1 Outsider]"
 }

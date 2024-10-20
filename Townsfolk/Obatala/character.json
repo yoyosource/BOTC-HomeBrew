@@ -4,13 +4,13 @@
   "firstNight": 0,
   "firstNightReminder": "",
   "otherNight": 44,
-  "otherNightReminder": "ask who he wants to have there ability again",
+  "otherNightReminder": "ask who he wants to choose",
   "reminders": [
-    "regained ability"
+    "chosen"
   ],
   "remindersGlobal": [],
   "setup": false,
   "name": "Obatala",
   "team": "townsfolk",
-  "ability": "Each night* choose a dead player; If they are Townsfolk they regain their ability until dusk. Used once per game abilities are not restored this way."
+  "ability": "Each night*, you may choose a unique dead player: You gain their ability until dusk. If you choose an evil player, you are poisoned."
 }

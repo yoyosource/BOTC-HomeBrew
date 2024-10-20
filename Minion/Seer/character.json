@@ -12,5 +12,5 @@
   "setup": false,
   "name": "Seer",
   "team": "minion",
-  "ability": "Each night* choose a player; they learn that they were chosen by the Seer, then they may choose to live or die. If they choose to live, you learn thier living neighbors' characters."
+  "ability": "Each night* chose a good player; they chose life or death. If they chose life, the demon learns who the Storyteller thinks is the best kill."
 }

@@ -10,6 +10,7 @@
 - [Maniac](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Outsider/Maniac)
 - [Siren](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Outsider/Siren)
 - [Weeping Angel](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Outsider/Weeping%20Angel)
+- [Demonic traits](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Outsider/Demonic%20Traits)
 
 ## Minion
 - [Manipulator](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Minion/Manipulator)

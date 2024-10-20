@@ -4,12 +4,12 @@
   "edition": "custom",
   "firstNight": 66,
   "otherNight": 0,
-  "firstNightReminder": "Set the Weeping Target reminder to the chosen player",
-  "otherNightReminder": "",
+  "firstNightReminder": "Set a player to evil",
+  "otherNightReminder": "maybe kill a player",
   "reminders": [
-    "Weeping Target"
+    "Weeping Death"
   ],
-  "setup": false,
+  "setup": true,
   "team": "outsider",
-  "ability": "On your first night, choose a player; you become their alignment. If you are alone in a room with them, they die. They learn that you are their Weeping Angel."
+  "ability": "Once per game at night, a good player that talked to you in private today dies. [+1 Evil Townsfolk]"
 }

@@ -10,5 +10,5 @@
   "setup": false,
   "name": "Lemures",
   "team": "demon",
-  "ability": "Each night* choose a player; they die. The first time a Lemures gets executed by vote, the nominator becomes an Evil Lemures."
+  "ability": "Each night* choose a player; they die. The first time a Lemures gets executed by vote, the nominator becomes an Evil Lemures. [If 5 or more players are alive]"
 }
