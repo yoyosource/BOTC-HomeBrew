@@ -1,7 +1,7 @@
 {
   "id": "polterghast",
   "edition": "custom",
-  "firstNight": 17,
+  "firstNight": 0,
   "firstNightReminder": "",
   "otherNight": 28,
   "otherNightReminder": "Give the killed players Neighbors false information.",
