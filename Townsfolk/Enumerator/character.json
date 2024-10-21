@@ -1,0 +1,23 @@
+{
+  "id": "enumerator",
+  "name": "Enumerator",
+  "edition": "custom",
+  "firstNight": 0,
+  "otherNight": 68,
+  "firstNightReminder": "",
+  "otherNightReminder": "Tell the Enumerator how many of his guesses are part of evil bluffs.",
+  "reminders": [
+    "0 Correct",
+    "1 Correct",
+    "2 Correct",
+    "3 Correct"
+  ],
+  "setup": false,
+  "team": "townsfolk",
+  "ability": "Each day you may publicly name 3 good characters. If you do, tonight you learn how many are part of evil bluffs.",
+  "jinxes": [
+    { "id":"cannibal", "reason": "If the Enumerator guesses and dies by execution, tonight the living Cannibal learns how many the Enumerator got correct."},
+    { "id":"marionette", "reason": "The character the Marionette sees also counts as an evil bluff."},
+    { "id":"legion", "reason": "At least one Legion has Bluffs."}
+  ]
+}
