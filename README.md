@@ -3,6 +3,7 @@
 ## Townsfolk
 - [Auric](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Townsfolk/Auric)
 - [Balloonist-OLD](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Townsfolk/Balloonist-OLD)
+- [Enumerator](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Townsfolk/Enumerator)
 - [Huntsman-FIX](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Townsfolk/Huntsman-FIX)
 - [Obatala](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Townsfolk/Obatala)
 
