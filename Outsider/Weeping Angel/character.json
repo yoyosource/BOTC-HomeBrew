@@ -2,8 +2,8 @@
   "id": "weepingangel",
   "name": "Weeping Angel",
   "edition": "custom",
-  "firstNight": 66,
-  "otherNight": 0,
+  "firstNight": 0,
+  "otherNight": 2,
   "firstNightReminder": "Set a player to evil",
   "otherNightReminder": "maybe kill a player",
   "reminders": [
