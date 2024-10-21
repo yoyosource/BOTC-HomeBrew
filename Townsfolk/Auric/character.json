@@ -1,13 +1,12 @@
 {
   "id": "auric",
   "edition": "custom",
-  "firstNight": 0,
-  "firstNightReminder": "",
+  "firstNight": 46,
+  "firstNightReminder": "Let them choose 3 players and tell them if most of them are Townsfolk",
   "otherNight": 47,
   "otherNightReminder": "Let them choose 3 players and tell them if most of them are Townsfolk",
   "reminders": [
-    "Sensed",
-    "Red Herring"
+    "Chosen"
   ],
   "remindersGlobal": [],
   "setup": false,
