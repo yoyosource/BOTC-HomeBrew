@@ -1,17 +1,16 @@
 {
   "id": "auric",
   "edition": "custom",
-  "firstNight": 0,
-  "firstNightReminder": "",
+  "firstNight": 46,
+  "firstNightReminder": "Let them choose 3 players and tell them if most of them are Townsfolk",
   "otherNight": 47,
-  "otherNightReminder": "Let them choose 1 player and then tell them how much evil they sensed",
+  "otherNightReminder": "Let them choose 3 players and tell them if most of them are Townsfolk",
   "reminders": [
-    "Sensed",
-    "Red Herring"
+    "Chosen"
   ],
   "remindersGlobal": [],
   "setup": false,
   "name": "Auric",
   "team": "townsfolk",
-  "ability": "Each Night choose a player; you learn how many of them and their neighbors are evil. For each Minion in play, a good player registers as evil to you."
+  "ability": "Each night, choose 3 players: you learn if most are Townsfolk."
 }

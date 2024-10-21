@@ -4,14 +4,14 @@
   "edition": "custom",
   "firstNight": 10,
   "otherNight": 1,
-  "firstNightReminder": "Give the Maniac a Minion which is in play. Tell the Minions and Demons what the Maniac learned.",
-  "otherNightReminder": "Tell the Minion what the Maniac want to do.",
+  "firstNightReminder": "Give the Maniac his 'Minion information'.",
+  "otherNightReminder": "Tell the Minion what the Maniac wants to do.",
   "reminders": [
     "Is the Maniac"
   ],
   "setup": true,
   "team": "outsider",
-  "ability": "You think you are an in play Minion, but you are not. The Evil team knows who you are, and choices you make in the night. They learn your false Minion Info",
+  "ability": "You think you are a Minion, but you are not. The Minion knows who you are & who you choose at night.",
   "jinxes": [
     { "id":"widow", "reason": "The Maniac can not learn that he is the Widow."},
     { "id":"spy", "reason": "The Maniac can not learn that he is the Spy."}

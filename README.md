@@ -11,13 +11,14 @@
 - [Maniac](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Outsider/Maniac)
 - [Siren](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Outsider/Siren)
 - [Weeping Angel](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Outsider/Weeping%20Angel)
+- [Demonic traits](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Outsider/Demonic%20Traits)
 
 ## Minion
 - [Manipulator](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Minion/Manipulator)
 - [Phantom Thief](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Minion/Phantom%20Thief)
 - [Psychopath-FIX](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Minion/Psychopath-FIX)
 - [Seer](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Minion/Seer)
-- [Whisperer](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Minion/Whisperer)
+- [Intwaso](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Minion/Intwaso)
 
 ## Demon
 - [Griffin](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Demon/Griffin)

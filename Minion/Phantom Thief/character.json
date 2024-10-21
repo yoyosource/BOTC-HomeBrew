@@ -12,5 +12,5 @@
   "setup": false,
   "name": "Phantom Thief",
   "team": "minion",
-  "ability": "On your first night, choose a good player; you steal their ability until you die. You learn what character they are."
+  "ability": "On your first night, choose a good player: you learn their character & have their ability instead of them"
 }

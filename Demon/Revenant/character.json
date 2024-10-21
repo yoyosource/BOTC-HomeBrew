@@ -4,7 +4,7 @@
   "firstNight": 0,
   "firstNightReminder": "",
   "otherNight": 27,
-  "otherNightReminder": "You may kill up to two of the people who spoke about the role in Public.",
+  "otherNightReminder": "You may kill the people who spoke about the role.",
   "reminders": [
     "Spoke"
   ],
@@ -12,5 +12,5 @@
   "setup": false,
   "name": "Revenant",
   "team": "demon",
-  "ability": "Each night* choose a player; they die. Up to 2 players that spoke publicly about your role might die the following night."
+  "ability": "Each night* choose a player; they die. Players that spoke about your role might die the following night."
 }
