@@ -4,7 +4,7 @@
   "firstNight": 0,
   "firstNightReminder": "",
   "otherNight": 27,
-  "otherNightReminder": "You may kill one of the people who spoke about the role.",
+  "otherNightReminder": "You may kill the people who spoke about the role.",
   "reminders": [
     "Spoke"
   ],
