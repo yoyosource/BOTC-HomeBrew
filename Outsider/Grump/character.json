@@ -1,0 +1,4 @@
+{
+    "id": "grump", "name": "Grump", "team": "outsider", "setup": false, "edition": "custom", "firstNightReminder": "", "otherNightReminder": "", "firstNight": 0, "otherNight": 0, "reminders": ["Poisoned"], "remindersGlobal": [],
+    "ability": "You cannot nominate yourself.  Whenever another, Good player nominates you they become poisoned until dawn."
+  }

@@ -1,0 +1,4 @@
+{
+    "id": "godseeker", "name": "God Seeker", "team": "demon", "setup": true, "edition": "custom", "firstNightReminder": "Tell the demon what ability they gain, tell a good player what demon ability is in play", "otherNightReminder": "Let them act as the demon that they learned", "firstNight": 0, "otherNight": 31, "reminders": ["learned"], "remindersGlobal": [],
+    "ability": "You have an off-script Demon ability. Once per game, a good player learns what Demon that is."
+  }

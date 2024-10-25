@@ -1,0 +1,4 @@
+{
+    "id": "troupemaster", "name": "Troupe Master", "team": "demon", "setup": false, "edition": "custom", "firstNightReminder": "Tell the demon some in-play characters.", "otherNightReminder": "If the demon killed all in-play characters he learned tell town.", "firstNight": 0, "otherNight": 34, "reminders": ["Troupe Member","Troupe Death"], "remindersGlobal": [],
+    "ability": "Each night*, choose a player: they die. You know ? in-play characters. All players learn if you chose all & evil wins at dusk."
+  }

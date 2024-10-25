@@ -1,0 +1,4 @@
+{
+    "id": "nostalgicelder", "name": "Nostalgic Elder", "team": "minion", "setup": false, "edition": "custom", "firstNightReminder": "", "otherNightReminder": "Ask if they want town to receive there previous information.", "firstNight": 0, "otherNight": 2, "reminders": ["callback"], "remindersGlobal": [],
+    "ability": "Once per game, at night, choose for all Townsfolk to yield the same info as the last time they acted if they would normally receive info tonight."
+  }
