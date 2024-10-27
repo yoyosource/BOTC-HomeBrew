@@ -1,16 +1,4 @@
 {
-  "id": "wraith",
-  "edition": "custom",
-  "firstNight": 0,
-  "firstNightReminder": "",
-  "otherNight": 26,
-  "otherNightReminder": "If chosen not to kill poison a player.",
-  "reminders": [
-    "Poisoned"
-  ],
-  "remindersGlobal": [],
-  "setup": false,
-  "name": "Wraith",
-  "team": "demon",
+  "id": "wraith", "edition": "custom", "firstNight": 0, "firstNightReminder": "", "otherNight": 34, "otherNightReminder": "If chosen not to kill poison a player.", "reminders": ["Poisoned"], "remindersGlobal": [], "setup": false, "name": "Wraith", "team": "demon",
   "ability": "Each night* you may choose a player; they die. While your last choice is no-one, a player is poisoned, and you choose 2 instead."
 }

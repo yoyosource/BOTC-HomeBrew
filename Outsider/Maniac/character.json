@@ -1,19 +1,4 @@
 {
-  "id": "maniac",
-  "name": "Maniac",
-  "edition": "custom",
-  "firstNight": 10,
-  "otherNight": 1,
-  "firstNightReminder": "Give the Maniac his 'Minion information'.",
-  "otherNightReminder": "Tell the Minion what the Maniac wants to do.",
-  "reminders": [
-    "Is the Maniac"
-  ],
-  "setup": true,
-  "team": "outsider",
-  "ability": "You think you are a Minion, but you are not. The Minion knows who you are & who you choose at night.",
-  "jinxes": [
-    { "id":"widow", "reason": "The Maniac can not learn that he is the Widow."},
-    { "id":"spy", "reason": "The Maniac can not learn that he is the Spy."}
-  ]
+  "id": "maniac", "name": "Maniac", "edition": "custom", "firstNight": 4, "otherNight": 4, "firstNightReminder": "Give the Maniac his 'Minion information'.", "otherNightReminder": "Tell the Minion what the Maniac wants to do.", "reminders": ["Is the Maniac"], "setup": true, "team": "outsider","jinxes": [{ "id":"widow", "reason": "The Maniac can not learn that he is the Widow."}, { "id":"spy", "reason": "The Maniac can not learn that he is the Spy."}],
+  "ability": "You think you are a Minion, but you are not. The Minion knows who you are & who you choose at night."
 }

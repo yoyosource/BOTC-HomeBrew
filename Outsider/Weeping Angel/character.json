@@ -1,15 +1,4 @@
 {
-  "id": "weepingangel",
-  "name": "Weeping Angel",
-  "edition": "custom",
-  "firstNight": 0,
-  "otherNight": 2,
-  "firstNightReminder": "Set a player to evil",
-  "otherNightReminder": "maybe kill a player",
-  "reminders": [
-    "Weeping Death"
-  ],
-  "setup": true,
-  "team": "outsider",
+  "id": "weepingangel", "name": "Weeping Angel", "edition": "custom", "firstNight": 0, "otherNight": 3, "firstNightReminder": "Set a player to evil", "otherNightReminder": "", "reminders": ["Weeping Death"], "setup": true, "team": "outsider",
   "ability": "Once per game at night, a good player that talked to you in private today dies. [+1 Evil Townsfolk]"
 }

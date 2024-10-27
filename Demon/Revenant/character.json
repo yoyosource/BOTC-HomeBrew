@@ -1,16 +1,4 @@
 {
-  "id": "revenant",
-  "edition": "custom",
-  "firstNight": 0,
-  "firstNightReminder": "",
-  "otherNight": 27,
-  "otherNightReminder": "You may kill the people who spoke about the role.",
-  "reminders": [
-    "Spoke"
-  ],
-  "remindersGlobal": [],
-  "setup": false,
-  "name": "Revenant",
-  "team": "demon",
+  "id": "revenant", "edition": "custom", "firstNight": 0, "firstNightReminder": "", "otherNight": 33, "otherNightReminder": "You may kill the people who spoke about the role.", "reminders": ["Spoke"], "remindersGlobal": [], "setup": false, "name": "Revenant", "team": "demon",
   "ability": "Each night* choose a player; they die. Players that spoke about your role might die the following night."
 }
