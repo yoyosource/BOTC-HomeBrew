@@ -1,0 +1,4 @@
+{
+    "id": "shopkeeper", "name": "Shopkeeper", "team": "townsfolk", "edition": "custom", "setup": false, "firstNight": 0, "otherNight": 81, "firstNightReminder": "", "otherNightReminder": "Let them choose a dead player that should gain an additional vote token.", "remindersGlobal": [], "reminders": ["+1 Vote"],
+    "ability": "Each night* choose a dead player; they gain 1 additional vote token. When you die, all dead players lose any surplus vote tokens."
+  }

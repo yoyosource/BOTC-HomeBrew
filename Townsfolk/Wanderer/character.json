@@ -1,0 +1,4 @@
+{
+    "id": "wanderer", "name": "Wanderer", "team": "townsfolk", "edition": "custom", "setup": true, "firstNight": 45, "otherNight": 0, "firstNightReminder": "Tell them how many Outsiders have an evil Neighbour.", "otherNightReminder": "", "remindersGlobal": [], "reminders": [],
+    "ability": "You start knowing how many Outsiders have an evil neighbour [at least 1 Outsider]"
+  }

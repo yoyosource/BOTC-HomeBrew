@@ -1,0 +1,4 @@
+{
+    "id": "weaver", "name": "Weaver", "team": "townsfolk", "edition": "custom", "setup": false, "firstNight": 0, "otherNight": 0, "firstNightReminder": "", "otherNightReminder": "", "remindersGlobal": [], "reminders": ["Ability used"],
+    "ability": "Once per game, during the day, visit the storyteller to learn 4 statements, exactly 2 of which are true."
+  }

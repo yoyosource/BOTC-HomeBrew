@@ -1,0 +1,4 @@
+{
+    "id": "anthropomancer", "name": "Anthropomancer", "team": "townsfolk", "edition": "custom", "setup": false, "firstNight": 0, "otherNight": 68, "firstNightReminder": "", "otherNightReminder": "Tell them a yes if they learn a new character type died.", "remindersGlobal": [], "reminders": ["dismembered"],
+    "ability": "Each night* you learn if a player that died by execution today is a character type you have not learned yet."
+  }

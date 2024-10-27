@@ -1,0 +1,4 @@
+{
+    "id": "nightguardian", "name": "Night Guardian", "team": "townsfolk", "edition": "custom", "setup": false, "firstNight": 0, "otherNight": 50, "firstNightReminder": "", "otherNightReminder": "Give the player the choice on who to protect.", "remindersGlobal": [], "reminders": ["Protected"],
+    "ability": "Each night*, you learn 2 players, 1 of which the Demon chose tonight. You may choose 1: the other dies."
+  }

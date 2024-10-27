@@ -1,0 +1,4 @@
+{
+    "id": "masteratarms", "name": "Master-at-Arms", "team": "Townsfolk", "edition": "custom", "setup": false, "firstNight": 39, "otherNight": 0, "firstNightReminder": "Tell them an in-play Townsfolk and make one of them drunk.", "otherNightReminder": "Let them act like at the time the Townsfolk would.", "remindersGlobal": [], "reminders": ["Drunk"],
+    "ability": "You start knowing an in-play Townsfolk, and have their ability. Either you or they are drunk."
+  }

@@ -1,0 +1,4 @@
+{
+    "id": "spiritedyouth", "name": "Spirited Youth", "team": "townsfolk", "edition": "custom", "setup": false, "firstNight": 0, "otherNight": 0, "firstNightReminder": "", "otherNightReminder": "", "remindersGlobal": [], "reminders": [],
+    "ability": "At the beginning of the 1st day you may publicly name a future day. That day you may visit the storyteller to learn true statements equal to the day number."
+  }

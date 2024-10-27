@@ -1,0 +1,4 @@
+{
+    "id": "paleknight", "name": "Pale Knight", "team": "townsfolk", "edition": "custom", "setup": false, "firstNight": 0, "otherNight": 0, "firstNightReminder": "", "otherNightReminder": "", "remindersGlobal": [], "reminders": ["Healthy & Uninfected"],
+    "ability": "Your neighbours are always healthy and uninfected."
+  }

@@ -1,0 +1,4 @@
+{
+    "id": "confessor", "name": "Confessor", "team": "townsfolk", "edition": "custom", "setup": false, "firstNight": 58, "otherNight": 55, "firstNightReminder": "Tell them yes if the demon is further away from the chosen player.", "otherNightReminder": "Tell them yes if the demon is further away from the chosen player.", "remindersGlobal": [], "reminders": [],
+    "ability": "Each night, choose another player; you learn if the demon is seated closer to you than them."
+  }
