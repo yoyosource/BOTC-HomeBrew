@@ -1,16 +1,4 @@
 {
-  "id": "obatala",
-  "edition": "custom",
-  "firstNight": 0,
-  "firstNightReminder": "",
-  "otherNight": 44,
-  "otherNightReminder": "ask who he wants to choose",
-  "reminders": [
-    "chosen"
-  ],
-  "remindersGlobal": [],
-  "setup": false,
-  "name": "Obatala",
-  "team": "townsfolk",
+  "id": "obatala", "edition": "custom", "firstNight": 0, "firstNightReminder": "", "otherNight": 25, "otherNightReminder": "ask who he wants to choose", "reminders": ["chosen"], "remindersGlobal": [], "setup": false, "name": "Obatala", "team": "townsfolk",
   "ability": "Each night*, you may choose a unique dead player: You gain their ability until dusk. If you choose an evil player, you are poisoned."
 }

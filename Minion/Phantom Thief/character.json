@@ -1,16 +1,4 @@
 {
-  "id": "phantomthief",
-  "edition": "custom",
-  "firstNight": 1,
-  "firstNightReminder": "Put Ability stolen on chosen player",
-  "otherNight": 0,
-  "otherNightReminder": "",
-  "reminders": [
-    "Ability stolen"
-  ],
-  "remindersGlobal": [],
-  "setup": false,
-  "name": "Phantom Thief",
-  "team": "minion",
+  "id": "phantomthief", "edition": "custom", "firstNight": 1, "firstNightReminder": "Put Ability stolen on chosen player", "otherNight": 0, "otherNightReminder": "Let them act when the stolen ability would act.", "reminders": ["Ability stolen"], "remindersGlobal": [], "setup": false, "name": "Phantom Thief", "team": "minion",
   "ability": "On your first night, choose a good player: you learn their character & have their ability instead of them"
 }

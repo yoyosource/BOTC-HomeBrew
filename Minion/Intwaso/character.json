@@ -1,14 +1,4 @@
 {
-  "id": "intwaso",
-  "edition": "custom",
-  "firstNight": 0,
-  "firstNightReminder": "",
-  "otherNight": 0,
-  "otherNightReminder": "",
-  "reminders": [],
-  "remindersGlobal": [],
-  "setup": false,
-  "name": "Intwaso",
-  "team": "minion",
+  "id": "intwaso", "edition": "custom", "firstNight": 0, "firstNightReminder": "", "otherNight": 0, "otherNightReminder": "", "reminders": [], "remindersGlobal": [], "setup": false, "name": "Intwaso", "team": "minion",
   "ability": "If the Demon kills you, they die instead and you become the Demon."
 }

@@ -1,16 +1,4 @@
 {
-    "id": "demonictraits",
-    "name": "Demonic Traits",
-    "edition": "custom",
-    "firstNight": 1,
-    "otherNight": 1,
-    "firstNightReminder": "Put a reminder for the passive ability to the player.",
-    "otherNightReminder": "",
-    "reminders": [],
-    "setup": true,
-    "team": "outsider",
-    "ability": "You have a not in-play Demon passive ability. If you're mad about wanting to die, your ability functions while dead.",
-    "jinxes": [
-      { "id":"lemures", "reason": "The nominator does not change alignment."}
-    ]
-  }
+  "id": "demonictraits", "name": "Demonic Traits", "edition": "custom", "firstNight": 0, "otherNight": 0, "firstNightReminder": "Put a reminder for the passive ability to the player.", "otherNightReminder": "", "reminders": [], "setup": true, "team": "outsider", "jinxes": [{ "id":"lemures", "reason": "The nominator does not change alignment."}],
+  "ability": "You have a not in-play Demon passive ability. If you're mad about wanting to die, your ability functions while dead."
+}

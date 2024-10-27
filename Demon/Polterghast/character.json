@@ -1,16 +1,4 @@
 {
-  "id": "polterghast",
-  "edition": "custom",
-  "firstNight": 0,
-  "firstNightReminder": "",
-  "otherNight": 28,
-  "otherNightReminder": "Give the killed players Neighbors false information.",
-  "reminders": [
-    "Poltered"
-  ],
-  "remindersGlobal": [],
-  "setup": false,
-  "name": "Polterghast",
-  "team": "demon",
+  "id": "polterghast", "edition": "custom", "firstNight": 0, "firstNightReminder": "", "otherNight": 32, "otherNightReminder": "Give the killed players Neighbors false information.", "reminders": ["Poltered"], "remindersGlobal": [], "setup": false, "name": "Polterghast", "team": "demon",
   "ability": "Each night*, choose a player: they die. Their neighbors' abilities yield false info until you act again."
 }
