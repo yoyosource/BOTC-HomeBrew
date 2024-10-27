@@ -50,7 +50,7 @@
 - [Revenant](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Demon/Revenant)
 - [Wraith](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Demon/Wraith)
 - [God Seeker](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Demon/God%20Seeker)
-- [Troupe Leader](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Demon/Troupe%20Leader)
+- [Troupe Master](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Demon/Troupe%20Master)
 - [Infectious Hive](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Demon/Infectious%20Hive)
 - [Trial Master](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Demon/Trial%20Master)
 
