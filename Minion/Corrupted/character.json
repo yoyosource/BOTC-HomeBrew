@@ -1,0 +1,4 @@
+{
+    "id": "corrupted", "name": "Corrupted", "team": "minion", "setup": false, "edition": "custom", "firstNightReminder": "", "otherNightReminder": "", "firstNight": 0, "otherNight": 0, "reminders": ["Poisoned"], "remindersGlobal": [],
+    "ability": "Players who nominate evil might be poisoned until dawn."
+  }

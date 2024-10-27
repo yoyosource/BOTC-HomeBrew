@@ -1,0 +1,4 @@
+{
+    "id": "lurkingshadow", "name": "Lurking Shadow", "team": "minion", "setup": false, "edition": "custom", "firstNightReminder": "", "otherNightReminder": "Ask them if they wanna kill there nominator.", "firstNight": 0, "otherNight": 48, "reminders": ["nominated"], "remindersGlobal": [],
+    "ability": "Each night*, you may choose that the player who nominated you yesterday: dies. You might register as good & as a Townsfolk or Outsider."
+  }

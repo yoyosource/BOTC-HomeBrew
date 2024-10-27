@@ -1,0 +1,4 @@
+{
+    "id": "maskmaker", "name": "Mask Maker", "team": "minion", "setup": false, "edition": "custom", "firstNightReminder": "Ask them if they wanna choose someone.", "otherNightReminder": "Ask them if they wanna choose someone.", "firstNight": 26, "otherNight": 20, "reminders": ["Reflected"], "remindersGlobal": [],
+    "ability": "Once per game choose a player; they register as the opposite as there alignment."
+  }

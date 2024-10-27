@@ -1,0 +1,4 @@
+{
+    "id": "blacksmith", "name": "Blacksmith", "team": "outsider", "setup": false, "edition": "custom", "firstNightReminder": "", "otherNightReminder": "", "firstNight": 0, "otherNight": 0, "reminders": ["Drunk"], "remindersGlobal": [],
+    "ability": "If you die by execution, tonight all Townsfolk are drunk."
+  }

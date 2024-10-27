@@ -1,0 +1,4 @@
+{
+    "id": "swornprotector", "name": "Sworn Protector", "team": "townsfolk", "edition": "custom", "setup": false, "firstNight": 44, "otherNight": 0, "firstNightReminder": "Tell them what demon is in play.", "otherNightReminder": "", "remindersGlobal": [], "reminders": [],
+    "ability": "You start knowing what demon is in-play. You are safe from minions."
+  }

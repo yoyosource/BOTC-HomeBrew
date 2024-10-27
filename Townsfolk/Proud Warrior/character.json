@@ -1,0 +1,4 @@
+{
+    "id": "proudwarrior", "name": "Proud Warrior", "team": "townsfolk", "edition": "custom", "setup": false, "firstNight": 66, "otherNight": 84, "firstNightReminder": "Let them choose a player.", "otherNightReminder": "Give the player there information and let them choose a new player.", "remindersGlobal": [], "reminders": ["Chosen"],
+    "ability": "Each night, choose a player; if they are executed tomorrow, you learn their alignment the following night."
+  }

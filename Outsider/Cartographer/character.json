@@ -1,0 +1,4 @@
+{
+    "id": "cartographer", "name": "Cartographer", "team": "outsider", "setup": false, "edition": "custom", "firstNightReminder": "", "otherNightReminder": "If Cartographer is dead show the demon the grimoire", "firstNight": 0, "otherNight": 30, "reminders": [], "remindersGlobal": [],
+    "ability": "When you die, the following night the Demon sees the Grimoire."
+  }

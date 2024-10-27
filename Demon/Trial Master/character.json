@@ -1,0 +1,4 @@
+{
+    "id": "trialmaster", "name": "Trial Master", "team": "demon", "setup": false, "edition": "custom", "firstNightReminder": "", "otherNightReminder": "Let them choose an additional player as Challenger.", "firstNight": 0, "otherNight": 33, "reminders": ["Challenger"], "remindersGlobal": [],
+    "ability": "Each night*, choose 2 players: one dies and the other must go to the storyteller to learn a mission and complete it or die."
+  }

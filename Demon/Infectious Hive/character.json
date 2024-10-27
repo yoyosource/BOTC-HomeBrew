@@ -1,0 +1,4 @@
+{
+    "id": "infectioushive", "name": "Infectious Hive", "team": "demon", "setup": false, "edition": "custom", "firstNightReminder": "", "otherNightReminder": "Let the evil team plan and act together", "firstNight": 0, "otherNight": 32, "reminders": ["Infested"],"remindersGlobal": [],
+    "ability": "Each night* choose a player their vote gets inverted if at least 2 players votes are inverted that way they die. All evil acts together except first night"
+  }

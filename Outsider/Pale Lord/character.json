@@ -1,0 +1,4 @@
+{
+    "id": "palelord", "name": "Pale Lord", "team": "outsider", "setup": false, "edition": "custom", "firstNightReminder": "", "otherNightReminder": "", "firstNight": 0, "otherNight": 0, "reminders": [], "remindersGlobal": [],
+    "ability": "If you die by execution and at least 3 vote tokens are spent on your nomination, your team wins. If another player is executed, become their alignment."
+  }
