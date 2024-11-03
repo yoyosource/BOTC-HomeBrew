@@ -1,4 +1,4 @@
 {
   "id": "auric", "edition": "custom", "firstNight": 46, "firstNightReminder": "Let them choose 3 players and tell them if most of them are Townsfolk", "otherNight": 54, "otherNightReminder": "Let them choose 3 players and tell them if most of them are Townsfolk", "reminders": ["Chosen"], "remindersGlobal": [], "setup": false, "name": "Auric", "team": "townsfolk",
-  "ability": "Each night, choose 3 players: you learn if most are Townsfolk."
+  "ability": "Each night, choose 3 players and a unique character; you learn if any of them are that character."
 }
