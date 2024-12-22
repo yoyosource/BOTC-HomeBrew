@@ -64,7 +64,10 @@
 - [Glassblower](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Fabled/Glassblower)
 - [Igor](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Fabled/Igor)
 
-## [Potion](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Potion)
+## Potion
+All potions you hold break when you die.
+When you receive a potion you learn which one you received.
+Potions are classified in Red and Blue Potions that signal if they are either bad or have a negative effect or not.
 
 ### Blue
 - [Ambroisa Potion](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Potion/Blue/Ambroisa%20Potion)
@@ -72,6 +75,8 @@
 - [Moly Potion](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Potion/Blue/Moly%20Potion)
 - [Nepenthe Potion](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Potion/Blue/Nepenthe%20Potion)
 - [Suttungr Potion](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Potion/Blue/Suttungr%20Potion)
+- ???: You may nominate twice.
+- Panacea: You are sober and healthy.
 
 ### Red
 - [Alkahest Potion](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Potion/Red/Alkahest%20Potion)
