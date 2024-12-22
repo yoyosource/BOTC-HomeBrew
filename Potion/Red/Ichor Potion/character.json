@@ -1,0 +1,16 @@
+{
+  "id": "ichor_potion",
+  "edition": "custom",
+  "firstNight": 0,
+  "firstNightReminder": "",
+  "otherNight": 0,
+  "otherNightReminder": "",
+  "reminders": [],
+  "remindersGlobal": [
+    "Ichor"
+  ],
+  "setup": false,
+  "name": "Ichor Potion",
+  "team": "traveller",
+  "ability": "When this potion breaks, a player dies tonight."
+}

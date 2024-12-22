@@ -1,0 +1,16 @@
+{
+  "id": "tofana_potion",
+  "edition": "custom",
+  "firstNight": 0,
+  "firstNightReminder": "",
+  "otherNight": 0,
+  "otherNightReminder": "",
+  "reminders": [],
+  "remindersGlobal": [
+    "Tofana"
+  ],
+  "setup": false,
+  "name": "Tofana Potion",
+  "team": "traveller",
+  "ability": "You may break this potion in private and choose another player. If you do they are poisoned until dawn."
+}

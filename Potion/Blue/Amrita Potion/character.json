@@ -1,0 +1,16 @@
+{
+  "id": "amrita_potion",
+  "edition": "custom",
+  "firstNight": 0,
+  "firstNightReminder": "",
+  "otherNight": 0,
+  "otherNightReminder": "",
+  "reminders": [],
+  "remindersGlobal": [
+    "Amrita"
+  ],
+  "setup": false,
+  "name": "Amrita Potion",
+  "team": "traveller",
+  "ability": "If you would die while holding this potion, it breaks instead."
+}

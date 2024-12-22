@@ -1,0 +1,16 @@
+{
+  "id": "miasma_potion",
+  "edition": "custom",
+  "firstNight": 0,
+  "firstNightReminder": "",
+  "otherNight": 0,
+  "otherNightReminder": "",
+  "reminders": [],
+  "remindersGlobal": [
+    "Miasma"
+  ],
+  "setup": false,
+  "name": "Miasma Potion",
+  "team": "traveller",
+  "ability": "When this potion breaks, the storyteller announces it at dawn. When this happens for the 3rd time, evil wins."
+}

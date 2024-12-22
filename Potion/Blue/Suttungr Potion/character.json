@@ -1,0 +1,16 @@
+{
+  "id": "suttungr_potion",
+  "edition": "custom",
+  "firstNight": 0,
+  "firstNightReminder": "",
+  "otherNight": 0,
+  "otherNightReminder": "",
+  "reminders": [],
+  "remindersGlobal": [
+    "Suttungr"
+  ],
+  "setup": false,
+  "name": "Suttungr Potion",
+  "team": "traveller",
+  "ability": "You may break this potion in private to ask the Storyteller a question about the state of the game."
+}

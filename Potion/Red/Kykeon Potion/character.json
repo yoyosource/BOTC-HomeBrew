@@ -1,0 +1,16 @@
+{
+  "id": "kykeon_potion",
+  "edition": "custom",
+  "firstNight": 0,
+  "firstNightReminder": "",
+  "otherNight": 0,
+  "otherNightReminder": "",
+  "reminders": [],
+  "remindersGlobal": [
+    "Kykeon"
+  ],
+  "setup": false,
+  "name": "Kykeon Potion",
+  "team": "traveller",
+  "ability": "If you are \"mad\" that you are a townsfolk, this potion might break and another player receives a potion."
+}

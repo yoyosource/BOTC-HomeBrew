@@ -1,0 +1,14 @@
+{
+  "id": "igor",
+  "edition": "custom",
+  "firstNight": 0,
+  "firstNightReminder": "",
+  "otherNight": 0,
+  "otherNightReminder": "",
+  "reminders": [],
+  "remindersGlobal": [],
+  "setup": false,
+  "name": "Igor",
+  "team": "fabled",
+  "ability": "Once per game the storyteller may break any one potion at any time."
+}

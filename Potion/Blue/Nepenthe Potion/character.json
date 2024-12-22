@@ -1,0 +1,16 @@
+{
+  "id": "nepenthe_potion",
+  "edition": "custom",
+  "firstNight": 0,
+  "firstNightReminder": "",
+  "otherNight": 0,
+  "otherNightReminder": "",
+  "reminders": [],
+  "remindersGlobal": [
+    "Nepenthe"
+  ],
+  "setup": false,
+  "name": "Nepenthe Potion",
+  "team": "traveller",
+  "ability": "When you receive this potion, a player of your alignment learns your character."
+}

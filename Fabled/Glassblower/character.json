@@ -1,0 +1,14 @@
+{
+  "id": "glassblower",
+  "edition": "custom",
+  "firstNight": 0,
+  "firstNightReminder": "",
+  "otherNight": 0,
+  "otherNightReminder": "",
+  "reminders": [],
+  "remindersGlobal": [],
+  "setup": false,
+  "name": "Glassblower",
+  "team": "fabled",
+  "ability": "When Glassblower enters play, each player receives a potion."
+}

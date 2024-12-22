@@ -61,3 +61,21 @@
 - [Author](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Traveller/Author)
 
 ## Fabled
+- [Glassblower](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Fabled/Glassblower)
+- [Igor](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Fabled/Igor)
+
+## [Potion](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Potion)
+
+### Blue
+- [Ambroisa Potion](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Potion/Blue/Ambroisa%20Potion)
+- [Amrita Potion](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Potion/Blue/Amrita%20Potion)
+- [Moly Potion](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Potion/Blue/Moly%20Potion)
+- [Nepenthe Potion](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Potion/Blue/Nepenthe%20Potion)
+- [Suttungr Potion](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Potion/Blue/Suttungr%20Potion)
+
+### Red
+- [Alkahest Potion](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Potion/Red/Alkahest%20Potion)
+- [Ichor Potion](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Potion/Red/Ichor%20Potion)
+- [Kykeon Potion](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Potion/Red/Kykeon%20Potion)
+- [Miasma Potion](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Potion/Red/Miasma%20Potion)
+- [Tofana Potion](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Potion/Red/Tofana%20Potion)

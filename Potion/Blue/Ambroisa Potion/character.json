@@ -1,0 +1,16 @@
+{
+  "id": "ambroisa_potion",
+  "edition": "custom",
+  "firstNight": 0,
+  "firstNightReminder": "",
+  "otherNight": 0,
+  "otherNightReminder": "",
+  "reminders": [],
+  "remindersGlobal": [
+    "Ambroisa"
+  ],
+  "setup": false,
+  "name": "Ambroisa Potion",
+  "team": "traveller",
+  "ability": "Your vote count increases by 1."
+}
