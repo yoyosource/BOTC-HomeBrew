@@ -1,6 +1,9 @@
 {
   "id": "siren",
-  "image": "https://raw.githubusercontent.com/yoyosource/BOTC-HomeBrew/master/Outsider/Siren/image.png",
+  "image": [
+    "https://raw.githubusercontent.com/yoyosource/BOTC-HomeBrew/master/Outsider/Siren/image.png",
+    "https://raw.githubusercontent.com/yoyosource/BOTC-HomeBrew/master/Outsider/Siren/image_evil.png"
+  ],
   "edition": "custom",
   "firstNight": 0,
   "firstNightReminder": "",
