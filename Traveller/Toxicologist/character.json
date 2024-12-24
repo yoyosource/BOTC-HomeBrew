@@ -1,0 +1,15 @@
+{
+  "id": "toxicologist",
+  "edition": "custom",
+  "firstNight": 0,
+  "firstNightReminder": "",
+  "otherNight": 0,
+  "otherNightReminder": "",
+  "reminders": [],
+  "remindersGlobal": [
+  ],
+  "setup": false,
+  "name": "Toxicologist",
+  "team": "traveler",
+  "ability": "Each night* choose another player; you learn 2 potions, one they hold and one they don't. Choose one; it breaks."
+}

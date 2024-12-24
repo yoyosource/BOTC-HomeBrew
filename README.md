@@ -1,82 +1,99 @@
 # HomeBrew
 
 ## Townsfolk
+- [Anthropomancer](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Townsfolk/Anthropomancer)
+- [Apothecary](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Townsfolk/Apothecary)
 - [Auric](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Townsfolk/Auric)
 - [Balloonist-OLD](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Townsfolk/Balloonist-OLD)
+- [Baptist](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Townsfolk/Baptist)
+- [Confessor](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Townsfolk/Confessor)
+- [Distiller](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Townsfolk/Distiller)
 - [Enumerator](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Townsfolk/Enumerator)
-- [Huntsman-FIX](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Townsfolk/Huntsman-FIX)
-- [Obatala](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Townsfolk/Obatala)
-- [Anthropomancer](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Townsfolk/Anthropomancer)
-- [Weaver](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Townsfolk/Weaver)
 - [Eternal Singer](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Townsfolk/Eternal%20Singer)
-- [Night Guardian](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Townsfolk/Night%20Guardian)
-- [Mourner](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Townsfolk/Mourner)
-- [Pale Knight](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Townsfolk/Pale%20Knight)
+- [Huntsman-FIX](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Townsfolk/Huntsman-FIX)
 - [Master-at-Arms](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Townsfolk/Master-at-Arms)
+- [Merchant](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Townsfolk/Merchant)
+- [Mourner](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Townsfolk/Mourner)
+- [Night Guardian](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Townsfolk/Night%20Guardian)
+- [Obatala](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Townsfolk/Obatala)
+- [Pale Knight](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Townsfolk/Pale%20Knight)
+- [Philanthropist](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Townsfolk/Philanthropist)
 - [Proud Warrior](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Townsfolk/Proud%20Warrior)
 - [Shopkeeper](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Townsfolk/Shopkeeper)
 - [Spirited Youth](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Townsfolk/Spirited%20Youth)
 - [Sworn Protector](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Townsfolk/Sworn%20Protector)
+- [Toll Inspector](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Townsfolk/Toll%20Inspector)
 - [Wanderer](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Townsfolk/Wanderer)
-- [Confessor](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Townsfolk/Confessor)
+- [Weaver](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Townsfolk/Weaver)
 
 ## Outsider
-- [Maniac](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Outsider/Maniac)
-- [Siren](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Outsider/Siren)
-- [Weeping Angel](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Outsider/Weeping%20Angel)
-- [Demonic traits](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Outsider/Demonic%20Traits)
-- [Grump](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Outsider/Grump)
-- [Pale Lord](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Outsider/Pale%20Lord)
-- [Cartographer](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Outsider/Cartographer)
 - [Blacksmith](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Outsider/Blacksmith)
+- [Butterfingers](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Outsider/Butterfingers)
+- [Cartographer](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Outsider/Cartographer)
+- [Demonic Traits](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Outsider/Demonic%20Traits)
+- [Grump](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Outsider/Grump)
+- [Maniac](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Outsider/Maniac)
+- [Pale Lord](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Outsider/Pale%20Lord)
+- [Siren](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Outsider/Siren)
+- [Sommelier](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Outsider/Sommelier)
+- [Student](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Outsider/Student)
+- [Weeping Angel](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Outsider/Weeping%20Angel)
 
 ## Minion
-- [Manipulator](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Minion/Manipulator)
-- [Phantom Thief](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Minion/Phantom%20Thief)
-- [Psychopath-FIX](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Minion/Psychopath-FIX)
-- [Seer](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Minion/Seer)
+- [Chemist](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Minion/Chemist)
+- [Contaminator](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Minion/Contaminator)
+- [Corrupted](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Minion/Corrupted)
 - [Intwaso](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Minion/Intwaso)
 - [Lurking Shadow](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Minion/Lurking%20Shadow)
-- [Nostalgic Elder](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Minion/Nostalgic%20Elder)
+- [Manipulator](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Minion/Manipulator)
 - [Mask Maker](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Minion/Mask%20Maker)
-- [Corrupted](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Minion/Corrupted)
+- [Meddler](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Minion/Meddler)
+- [Nostalgic Elder](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Minion/Nostalgic%20Elder)
+- [Perfumer](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Minion/Perfumer)
+- [Phantom Thief](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Minion/Phantom%20Thief)
+- [Psychopath-FIX](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Minion/Psychopath-FIX)
+- [Reanimator](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Minion/Reanimator)
+- [Seer](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Minion/Seer)
+- [Thug](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Minion/Thug)
 
 ## Demon
+- [Caetrum](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Demon/Caetrum)
+- [Commira](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Demon/Commira)
+- [God Seeker](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Demon/God%20Seeker)
 - [Griffin](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Demon/Griffin)
 - [Hydra](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Demon/Hydra)
+- [Infectious Hive](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Demon/Infectious%20Hive)
 - [Lemures](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Demon/Lemures)
 - [Mal](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Demon/Mal)
+- [Megalomaniac](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Demon/Megalomaniac)
 - [Polterghast](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Demon/Polterghast)
 - [Revenant](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Demon/Revenant)
-- [Wraith](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Demon/Wraith)
-- [God Seeker](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Demon/God%20Seeker)
-- [Troupe Master](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Demon/Troupe%20Master)
-- [Infectious Hive](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Demon/Infectious%20Hive)
 - [Trial Master](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Demon/Trial%20Master)
-
-## Traveler
-- [Arsonist](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Traveller/Arsonist)
-- [Lost Soul](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Traveller/Lost%20Soul)
-- [Echo](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Traveller/Echo)
-- [Author](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Traveller/Author)
+- [Troupe Master](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Demon/Troupe%20Master)
+- [Wraith](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Demon/Wraith)
 
 ## Fabled
 - [Glassblower](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Fabled/Glassblower)
 - [Igor](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Fabled/Igor)
+- [Mixology Instructions](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Fabled/Mixology%20Instructions)
+
+## Traveller
+- [Arsonist](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Traveller/Arsonist)
+- [Author](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Traveller/Author)
+- [Echo](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Traveller/Echo)
+- [Lost Soul](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Traveller/Lost%20Soul)
+- [Snake Oil Salesman](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Traveller/Snake%20Oil%20Salesman)
+- [Toxicologist](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Traveller/Toxicologist)
 
 ## Potion
-All potions you hold break when you die.
-When you receive a potion you learn which one you received.
-Potions are classified in Red and Blue Potions that signal if they are either bad or have a negative effect or not.
 
 ### Blue
 - [Ambroisa Potion](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Potion/Blue/Ambroisa%20Potion)
 - [Amrita Potion](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Potion/Blue/Amrita%20Potion)
 - [Moly Potion](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Potion/Blue/Moly%20Potion)
 - [Nepenthe Potion](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Potion/Blue/Nepenthe%20Potion)
+- [Panacea Potion](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Potion/Blue/Panacea%20Potion)
 - [Suttungr Potion](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Potion/Blue/Suttungr%20Potion)
-- ???: You may nominate twice.
-- Panacea: You are sober and healthy.
 
 ### Red
 - [Alkahest Potion](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Potion/Red/Alkahest%20Potion)

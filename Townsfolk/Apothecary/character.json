@@ -1,0 +1,15 @@
+{
+  "id": "apothecary",
+  "edition": "custom",
+  "firstNight": 0,
+  "firstNightReminder": "",
+  "otherNight": 0,
+  "otherNightReminder": "",
+  "reminders": [],
+  "remindersGlobal": [
+  ],
+  "setup": false,
+  "name": "Apothecary",
+  "team": "townsfolk",
+  "ability": "While you are holding a potion, each potion of that type is nullified."
+}

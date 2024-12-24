@@ -1,0 +1,15 @@
+{
+  "id": "distiller",
+  "edition": "custom",
+  "firstNight": 0,
+  "firstNightReminder": "",
+  "otherNight": 0,
+  "otherNightReminder": "",
+  "reminders": [],
+  "remindersGlobal": [
+  ],
+  "setup": false,
+  "name": "Distiller",
+  "team": "townsfolk",
+  "ability": "Each night you are offered a new blue potion; once per game you may take it."
+}

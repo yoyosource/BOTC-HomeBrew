@@ -1,16 +1,16 @@
 {
-  "id": "moly_potion",
+  "id": " moly_potion",
   "edition": "custom",
   "firstNight": 0,
   "firstNightReminder": "",
-  "otherNight": 0,
-  "otherNightReminder": "",
+  "otherNight": 2,
+  "otherNightReminder": "Wake everyone with a broken Moly potion.",
   "reminders": [],
   "remindersGlobal": [
     "Moly"
   ],
   "setup": false,
   "name": "Moly Potion",
-  "team": "traveller",
+  "team": "traveler",
   "ability": "When this potion breaks, tonight you are woken to choose a player: you learn their alignment."
 }

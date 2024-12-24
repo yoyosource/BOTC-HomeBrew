@@ -1,0 +1,15 @@
+{
+  "id": "reanimator",
+  "edition": "custom",
+  "firstNight": 0,
+  "firstNightReminder": "",
+  "otherNight": 0,
+  "otherNightReminder": "",
+  "reminders": [],
+  "remindersGlobal": [
+  ],
+  "setup": false,
+  "name": "Reanimator",
+  "team": "minion",
+  "ability": "Once per game at night, choose a dead player; they are resurrected. They are “mad” that a team is winning or they and another player might be executed."
+}

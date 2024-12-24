@@ -2,13 +2,13 @@
     "id": "echo",
     "edition": "custom",
     "firstNight": 0,
-    "firstNightReminders": "",
+    "firstNightReminder": "",
     "otherNight": 0,
-    "otherNightReminders": "",
+    "otherNightReminder": "",
     "reminders": [],
     "remindersGlobal": [],
     "setup": false,
     "name": "Echo",
-    "team": "traveller",
+    "team": "traveler",
     "ability": "Each day, you may only repeat words that the Storyteller has said today, or you might be executed. If you are dead, once per day you may call for a vote for your resurrection."
   }

@@ -1,0 +1,15 @@
+{
+  "id": "butterfingers",
+  "edition": "custom",
+  "firstNight": 0,
+  "firstNightReminder": "",
+  "otherNight": 0,
+  "otherNightReminder": "",
+  "reminders": [],
+  "remindersGlobal": [
+  ],
+  "setup": false,
+  "name": "Butterfingers",
+  "team": "outsider",
+  "ability": "When you are executed, tonight each blue potion turns red."
+}

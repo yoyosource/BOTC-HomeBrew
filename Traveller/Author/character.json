@@ -2,13 +2,13 @@
     "id": "author",
     "edition": "custom",
     "firstNight": 0,
-    "firstNightReminders": "",
+    "firstNightReminder": "",
     "otherNight": 0,
-    "otherNightReminders": "",
+    "otherNightReminder": "",
     "reminders": [],
     "remindersGlobal": [],
     "setup": true,
     "name": "Author",
-    "team": "traveller",
+    "team": "traveler",
     "ability": "On your first night you learn 3 off-script characters based on your alignment (Minion or Townsfolk). You have the ability of your chosen character."
   }

@@ -1,0 +1,15 @@
+{
+  "id": "perfumer",
+  "edition": "custom",
+  "firstNight": 0,
+  "firstNightReminder": "",
+  "otherNight": 0,
+  "otherNightReminder": "",
+  "reminders": [],
+  "remindersGlobal": [
+  ],
+  "setup": false,
+  "name": "Perfumer",
+  "team": "minion",
+  "ability": "Players might register as the alignment of a potion they hold."
+}

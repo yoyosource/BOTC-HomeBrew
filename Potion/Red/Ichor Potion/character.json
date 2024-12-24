@@ -11,6 +11,6 @@
   ],
   "setup": false,
   "name": "Ichor Potion",
-  "team": "traveller",
+  "team": "traveler",
   "ability": "When this potion breaks, a player dies tonight."
 }

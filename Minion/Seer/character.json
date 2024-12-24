@@ -1,4 +1,4 @@
 {
-  "id": "seer", "edition": "custom", "firstNight": 0, "firstNightReminders": "", "otherNight": 30, "otherNightReminders": "Let them choose a player and give the player there choice.", "reminders": ["Chosen"], "remindersGlobal": [], "setup": false, "name": "Seer", "team": "minion",
+  "id": "seer", "edition": "custom", "firstNight": 0, "firstNightReminder": "", "otherNight": 30, "otherNightReminder": "Let them choose a player and give the player there choice.", "reminders": ["Chosen"], "remindersGlobal": [], "setup": false, "name": "Seer", "team": "minion",
   "ability": "Each night* chose a good player; they chose life or death. If they chose life, the demon learns who the Storyteller thinks is the best kill."
 }

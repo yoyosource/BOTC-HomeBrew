@@ -1,0 +1,15 @@
+{
+  "id": "commira",
+  "edition": "custom",
+  "firstNight": 0,
+  "firstNightReminder": "",
+  "otherNight": 0,
+  "otherNightReminder": "",
+  "reminders": [],
+  "remindersGlobal": [
+  ],
+  "setup": false,
+  "name": "Commira",
+  "team": "demon",
+  "ability": "Each night choose 3 different players; they each receive a Potion. Each night* choose a player; they die."
+}

@@ -2,15 +2,15 @@
   "id": "arsonist",
   "edition": "custom",
   "firstNight": 0,
-  "firstNightReminders": "",
+  "firstNightReminder": "",
   "otherNight": 0,
-  "otherNightReminders": "",
+  "otherNightReminder": "",
   "reminders": [
     "Can be lit"
   ],
   "remindersGlobal": [],
   "setup": false,
   "name": "Arsonist",
-  "team": "traveller",
+  "team": "traveler",
   "ability": "Each night, you may choose a player; they are drenched in gasoline. Once per game at night*, all players drenched in gasoline might die"
 }

@@ -1,0 +1,15 @@
+{
+  "id": "merchant",
+  "edition": "custom",
+  "firstNight": 0,
+  "firstNightReminder": "",
+  "otherNight": 0,
+  "otherNightReminder": "",
+  "reminders": [],
+  "remindersGlobal": [
+  ],
+  "setup": false,
+  "name": "Merchant",
+  "team": "townsfolk",
+  "ability": "Once per game at night* choose a player, you and they swap potions."
+}

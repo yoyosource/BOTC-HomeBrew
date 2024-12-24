@@ -1,0 +1,15 @@
+{
+  "id": "philanthropist",
+  "edition": "custom",
+  "firstNight": 0,
+  "firstNightReminder": "",
+  "otherNight": 0,
+  "otherNightReminder": "",
+  "reminders": [],
+  "remindersGlobal": [
+  ],
+  "setup": false,
+  "name": "Philanthropist",
+  "team": "townsfolk",
+  "ability": "Each night*, choose another player and a character; you each receive a potion. If they are that character, the potions are identical."
+}

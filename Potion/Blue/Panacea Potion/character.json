@@ -1,0 +1,16 @@
+{
+  "id": "panacea_potion",
+  "edition": "custom",
+  "firstNight": 0,
+  "firstNightReminder": "",
+  "otherNight": 0,
+  "otherNightReminder": "",
+  "reminders": [],
+  "remindersGlobal": [
+    "Panacea"
+  ],
+  "setup": false,
+  "name": "Panacea Potion",
+  "team": "traveler",
+  "ability": "You are sober and healthy."
+}

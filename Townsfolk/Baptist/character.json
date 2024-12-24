@@ -1,0 +1,15 @@
+{
+  "id": "baptist",
+  "edition": "custom",
+  "firstNight": 0,
+  "firstNightReminder": "",
+  "otherNight": 0,
+  "otherNightReminder": "",
+  "reminders": [],
+  "remindersGlobal": [
+  ],
+  "setup": false,
+  "name": "Baptist",
+  "team": "townsfolk",
+  "ability": "Choose 2 players (not yourself); they each receive a Blue potion and one can’t die tonight."
+}

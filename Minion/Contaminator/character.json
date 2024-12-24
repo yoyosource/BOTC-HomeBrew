@@ -1,0 +1,15 @@
+{
+  "id": "contaminator",
+  "edition": "custom",
+  "firstNight": 0,
+  "firstNightReminder": "",
+  "otherNight": 0,
+  "otherNightReminder": "",
+  "reminders": [],
+  "remindersGlobal": [
+  ],
+  "setup": false,
+  "name": "Contaminator",
+  "team": "minion",
+  "ability": "Once per game at night* choose a type of potion; each player holding that type of potion might die."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "chemist",
+  "edition": "custom",
+  "firstNight": 0,
+  "firstNightReminder": "",
+  "otherNight": 0,
+  "otherNightReminder": "",
+  "reminders": [],
+  "remindersGlobal": [
+  ],
+  "setup": false,
+  "name": "Chemist",
+  "team": "minion",
+  "ability": "On your first night, choose 3 types of potions; they cannot be given out."
+}

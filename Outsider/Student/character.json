@@ -1,0 +1,15 @@
+{
+  "id": "student",
+  "edition": "custom",
+  "firstNight": 0,
+  "firstNightReminder": "",
+  "otherNight": 0,
+  "otherNightReminder": "",
+  "reminders": [],
+  "remindersGlobal": [
+  ],
+  "setup": false,
+  "name": "Student",
+  "team": "outsider",
+  "ability": "You may only nominate if you hold a red potion. You may only vote if you hold a blue potion. You learn when your potions break."
+}

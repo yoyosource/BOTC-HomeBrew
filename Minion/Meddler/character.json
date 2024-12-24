@@ -1,0 +1,15 @@
+{
+  "id": "meddler",
+  "edition": "custom",
+  "firstNight": 0,
+  "firstNightReminder": "",
+  "otherNight": 0,
+  "otherNightReminder": "",
+  "reminders": [],
+  "remindersGlobal": [
+  ],
+  "setup": false,
+  "name": "Meddler",
+  "team": "minion",
+  "ability": "When good players receive potions, they might learn a different type of the same color."
+}

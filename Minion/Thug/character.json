@@ -1,0 +1,15 @@
+{
+  "id": "thug",
+  "edition": "custom",
+  "firstNight": 0,
+  "firstNightReminder": "",
+  "otherNight": 0,
+  "otherNightReminder": "",
+  "reminders": [],
+  "remindersGlobal": [
+  ],
+  "setup": false,
+  "name": "Thug",
+  "team": "minion",
+  "ability": "Each night choose a player and a potion; they are “mad” that they are holding that type of potion or they might receive one."
+}
