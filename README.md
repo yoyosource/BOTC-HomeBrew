@@ -90,6 +90,7 @@
 ### Blue
 - [Ambroisa Potion](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Potion/Blue/Ambroisa%20Potion)
 - [Amrita Potion](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Potion/Blue/Amrita%20Potion)
+- [Aqua Benedicta](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Potion/Blue/Aqua%20Benedicta)
 - [Moly Potion](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Potion/Blue/Moly%20Potion)
 - [Nepenthe Potion](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Potion/Blue/Nepenthe%20Potion)
 - [Panacea Potion](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Potion/Blue/Panacea%20Potion)
