@@ -33,7 +33,7 @@ public class Generator {
         link = link.replace(" ", "%20");
 
         if (new File(directory, "character.json").exists()) {
-            bufferedWriter.write("- [" + directory.getName() + "](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/" + link + ")");
+            bufferedWriter.write("- [" + directory.getName() + "](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/" + link.replace('\\', '/') + ")");
             bufferedWriter.newLine();
             return;
         }
