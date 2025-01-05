@@ -6,8 +6,7 @@
   "otherNight": 0,
   "otherNightReminder": "",
   "reminders": [],
-  "remindersGlobal": [
-  ],
+  "remindersGlobal": [],
   "setup": false,
   "name": "Meddler",
   "team": "minion",

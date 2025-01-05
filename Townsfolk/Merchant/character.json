@@ -5,9 +5,10 @@
   "firstNightReminder": "",
   "otherNight": 0,
   "otherNightReminder": "",
-  "reminders": [],
-  "remindersGlobal": [
+  "reminders": [
+    "Used"
   ],
+  "remindersGlobal": [],
   "setup": false,
   "name": "Merchant",
   "team": "townsfolk",

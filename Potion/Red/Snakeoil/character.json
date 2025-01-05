@@ -1,5 +1,5 @@
 {
-  "id": "aqua_benedicta",
+  "id": "snakeoil",
   "edition": "custom",
   "firstNight": 0,
   "firstNightReminder": "",
@@ -7,11 +7,10 @@
   "otherNightReminder": "",
   "reminders": [],
   "remindersGlobal": [
-    "Aqua Benedicta",
-    "Aqua Benedicta - Nominated"
+    "Snakeoil"
   ],
   "setup": false,
-  "name": "Aqua Benedicta",
+  "name": "Snakeoil",
   "team": "traveler",
-  "ability": "You may nominate twice."
+  "ability": "The holder thinks this is another potion of any color but it is not.\n"
 }

@@ -5,9 +5,11 @@
   "firstNightReminder": "",
   "otherNight": 0,
   "otherNightReminder": "",
-  "reminders": [],
-  "remindersGlobal": [
+  "reminders": [
+    "Used",
+    "Mad"
   ],
+  "remindersGlobal": [],
   "setup": false,
   "name": "Reanimator",
   "team": "minion",

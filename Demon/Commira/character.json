@@ -5,9 +5,10 @@
   "firstNightReminder": "",
   "otherNight": 0,
   "otherNightReminder": "",
-  "reminders": [],
-  "remindersGlobal": [
+  "reminders": [
+    "Dead"
   ],
+  "remindersGlobal": [],
   "setup": false,
   "name": "Commira",
   "team": "demon",

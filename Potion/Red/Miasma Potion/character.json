@@ -7,7 +7,10 @@
   "otherNightReminder": "Announce how many Miasma Potions broke this night.",
   "reminders": [],
   "remindersGlobal": [
-    "Miasma"
+    "Miasma",
+    "Miasma 1",
+    "Miasma 2",
+    "Miasma 3"
   ],
   "setup": false,
   "name": "Miasma Potion",

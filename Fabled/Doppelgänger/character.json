@@ -1,5 +1,5 @@
 {
-  "id": "toll_inspector",
+  "id": "doppelgänger",
   "edition": "custom",
   "firstNight": 0,
   "firstNightReminder": "",
@@ -8,7 +8,7 @@
   "reminders": [],
   "remindersGlobal": [],
   "setup": false,
-  "name": "Toll Inspector",
-  "team": "townsfolk",
-  "ability": "Each night you learn how many potions of each color has been received since dawn."
+  "name": "Doppelgänger",
+  "team": "fabled",
+  "ability": "Players may hold duplicates of the same potion."
 }

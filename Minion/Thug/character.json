@@ -5,9 +5,10 @@
   "firstNightReminder": "",
   "otherNight": 0,
   "otherNightReminder": "",
-  "reminders": [],
-  "remindersGlobal": [
+  "reminders": [
+    "Mad"
   ],
+  "remindersGlobal": [],
   "setup": false,
   "name": "Thug",
   "team": "minion",

@@ -5,7 +5,9 @@
   "firstNightReminder": "",
   "otherNight": 0,
   "otherNightReminder": "",
-  "reminders": [],
+  "reminders": [
+    "Broken Potion"
+  ],
   "remindersGlobal": [],
   "setup": false,
   "name": "Igor",
