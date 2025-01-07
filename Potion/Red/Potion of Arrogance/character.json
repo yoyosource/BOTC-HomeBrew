@@ -7,24 +7,24 @@
   "otherNightReminder": "",
   "reminders": [],
   "remindersGlobal": [
-    "Arrogance - Envy",
-    "Arrogance - Hatred",
-    "Arrogance - Terror",
-    "Arrogance - Obsession",
-    "Arrogance - Disillusionment",
-    "Arrogance - Arrogance",
-    "Arrogance - Stress",
+    "[Envy]",
+    "[Hatred]",
+    "[Terror]",
+    "[Obsession]",
+    "[Disillusionment]",
+    "[Arrogance]",
+    "[Stress]",
 
-    "Arrogance - Hope",
-    "Arrogance - Curiosity",
-    "Arrogance - Love",
-    "Arrogance - Joy",
-    "Arrogance - Conviction",
-    "Arrogance - Generosity",
-    "Arrogance - Empathy"
+    "[Hope]",
+    "[Curiosity]",
+    "[Love]",
+    "[Joy]",
+    "[Conviction]",
+    "[Generosity]",
+    "[Empathy]"
   ],
   "setup": false,
   "name": "Arrogance",
   "team": "traveler",
-  "ability": "The holder thinks this is another potion of any color but it is not.\n"
+  "ability": "The holder thinks this is another potion of any color but it is not."
 }
