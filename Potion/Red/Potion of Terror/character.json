@@ -1,0 +1,19 @@
+{
+  "id": "potion_of_terror",
+  "edition": "custom",
+  "firstNight": 66,
+  "firstNightReminder": "Announce how many Potion of Terror broke this night.",
+  "otherNight": 83,
+  "otherNightReminder": "Announce how many Potion of Terror broke this night.",
+  "reminders": [],
+  "remindersGlobal": [
+    "Terror",
+    "Terror 1",
+    "Terror 2",
+    "Terror 3"
+  ],
+  "setup": false,
+  "name": "Potion of Terror",
+  "team": "traveler",
+  "ability": "When this potion breaks, the storyteller announces it at dawn. When this happens for the 3rd time, evil wins."
+}

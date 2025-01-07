@@ -1,5 +1,5 @@
 {
-  "id": "aqua_benedicta",
+  "id": "potion_of_obsession",
   "edition": "custom",
   "firstNight": 0,
   "firstNightReminder": "",
@@ -7,11 +7,10 @@
   "otherNightReminder": "",
   "reminders": [],
   "remindersGlobal": [
-    "Aqua Benedicta",
-    "Aqua Benedicta - Nominated"
+    "Obsession"
   ],
   "setup": false,
-  "name": "Aqua Benedicta",
+  "name": "Potion of Obsession",
   "team": "traveler",
-  "ability": "You may nominate twice."
+  "ability": "If you are \"mad\" that you are a townsfolk, this potion might break and another player receives a potion."
 }

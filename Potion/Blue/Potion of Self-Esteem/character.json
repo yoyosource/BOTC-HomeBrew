@@ -1,5 +1,5 @@
 {
-  "id": "butterfingers",
+  "id": "potion_of_self-esteem",
   "edition": "custom",
   "firstNight": 0,
   "firstNightReminder": "",
@@ -7,9 +7,11 @@
   "otherNightReminder": "",
   "reminders": [],
   "remindersGlobal": [
+    "Self-Esteem",
+    "Self-Esteem - Nominated"
   ],
   "setup": false,
-  "name": "Butterfingers",
-  "team": "outsider",
-  "ability": "When you are executed, tonight each blue potion is replaced with a red potion."
+  "name": "Potion of Self-Esteem",
+  "team": "traveler",
+  "ability": "You may nominate twice."
 }

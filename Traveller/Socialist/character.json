@@ -1,0 +1,15 @@
+{
+  "id": "Socialist",
+  "edition": "custom",
+  "firstNight": 0,
+  "firstNightReminder": "",
+  "otherNight": 0,
+  "otherNightReminder": "",
+  "reminders": [],
+  "remindersGlobal": [
+  ],
+  "setup": false,
+  "name": "Socialist",
+  "team": "traveler",
+  "ability": "When a player receive a potion (not from the Socialist); another player receives a potion of the opposite alignment."
+}

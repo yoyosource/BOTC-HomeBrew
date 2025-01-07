@@ -1,0 +1,17 @@
+{
+  "id": "potion_of_envy",
+  "edition": "custom",
+  "firstNight": 0,
+  "firstNightReminder": "",
+  "otherNight": 0,
+  "otherNightReminder": "",
+  "reminders": [],
+  "remindersGlobal": [
+    "Envy",
+    "Poisoned"
+  ],
+  "setup": false,
+  "name": "Potion of Envy",
+  "team": "traveler",
+  "ability": "You may break this potion in private and choose another player. If you do they are poisoned until dawn."
+}

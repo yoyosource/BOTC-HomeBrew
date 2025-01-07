@@ -1,5 +1,5 @@
 {
-  "id": "butterfingers",
+  "id": "potion_of_love",
   "edition": "custom",
   "firstNight": 0,
   "firstNightReminder": "",
@@ -7,9 +7,10 @@
   "otherNightReminder": "",
   "reminders": [],
   "remindersGlobal": [
+    "Love"
   ],
   "setup": false,
-  "name": "Butterfingers",
-  "team": "outsider",
-  "ability": "When you are executed, tonight each blue potion is replaced with a red potion."
+  "name": "Potion of Love",
+  "team": "traveler",
+  "ability": "When you receive this potion, a player of your alignment learns your character."
 }

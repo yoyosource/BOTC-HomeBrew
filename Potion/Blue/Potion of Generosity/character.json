@@ -1,0 +1,16 @@
+{
+  "id": "potion_of_generosity",
+  "edition": "custom",
+  "firstNight": 0,
+  "firstNightReminder": "",
+  "otherNight": 0,
+  "otherNightReminder": "",
+  "reminders": [],
+  "remindersGlobal": [
+    "Generosity"
+  ],
+  "setup": false,
+  "name": "Potion of Generosity",
+  "team": "traveler",
+  "ability": "Each night you may break this potion and name another potion; If you are holding the named potion it is removed."
+}

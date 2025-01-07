@@ -1,5 +1,5 @@
 {
-  "id": "butterfingers",
+  "id": "potion_of_empathy",
   "edition": "custom",
   "firstNight": 0,
   "firstNightReminder": "",
@@ -7,9 +7,10 @@
   "otherNightReminder": "",
   "reminders": [],
   "remindersGlobal": [
+    "Empathy"
   ],
   "setup": false,
-  "name": "Butterfingers",
-  "team": "outsider",
-  "ability": "When you are executed, tonight each blue potion is replaced with a red potion."
+  "name": "Potion of Empathy",
+  "team": "traveler",
+  "ability": "You know your neighbours potions. This potion may break at any time."
 }

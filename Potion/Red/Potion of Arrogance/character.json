@@ -1,0 +1,30 @@
+{
+  "id": "potion_of_arrogance",
+  "edition": "custom",
+  "firstNight": 0,
+  "firstNightReminder": "",
+  "otherNight": 0,
+  "otherNightReminder": "",
+  "reminders": [],
+  "remindersGlobal": [
+    "Arrogance - Envy",
+    "Arrogance - Hatred",
+    "Arrogance - Terror",
+    "Arrogance - Obsession",
+    "Arrogance - Disillusionment",
+    "Arrogance - Arrogance",
+    "Arrogance - Stress",
+
+    "Arrogance - Hope",
+    "Arrogance - Curiosity",
+    "Arrogance - Love",
+    "Arrogance - Joy",
+    "Arrogance - Conviction",
+    "Arrogance - Generosity",
+    "Arrogance - Empathy"
+  ],
+  "setup": false,
+  "name": "Potion of Arrogance",
+  "team": "traveler",
+  "ability": "The holder thinks this is another potion of any color but it is not.\n"
+}

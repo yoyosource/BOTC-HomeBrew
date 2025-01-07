@@ -1,0 +1,17 @@
+{
+  "id": "potion_of_hatred",
+  "edition": "custom",
+  "firstNight": 0,
+  "firstNightReminder": "",
+  "otherNight": 0,
+  "otherNightReminder": "After dawn announce the player with the 'Dies' token to be dead.",
+  "reminders": [],
+  "remindersGlobal": [
+    "Hatred",
+    "Dies"
+  ],
+  "setup": false,
+  "name": "Potion of Hatred",
+  "team": "traveler",
+  "ability": "When this potion breaks, a player dies tonight*."
+}

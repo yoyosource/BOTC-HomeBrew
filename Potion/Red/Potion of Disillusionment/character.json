@@ -1,0 +1,16 @@
+{
+  "id": "potion_of_disillusionment",
+  "edition": "custom",
+  "firstNight": 0,
+  "firstNightReminder": "",
+  "otherNight": 0,
+  "otherNightReminder": "",
+  "reminders": [],
+  "remindersGlobal": [
+    "Disillusionment"
+  ],
+  "setup": false,
+  "name": "Potion of Disillusionment",
+  "team": "traveler",
+  "ability": "This potion might break at any time. When it does, you become another not in play character."
+}

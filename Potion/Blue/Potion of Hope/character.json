@@ -1,5 +1,5 @@
 {
-  "id": "snakeoil",
+  "id": "potion_of_hope",
   "edition": "custom",
   "firstNight": 0,
   "firstNightReminder": "",
@@ -7,10 +7,10 @@
   "otherNightReminder": "",
   "reminders": [],
   "remindersGlobal": [
-    "Snakeoil"
+    "Hope"
   ],
   "setup": false,
-  "name": "Snakeoil",
+  "name": "Potion of Hope",
   "team": "traveler",
-  "ability": "The holder thinks this is another potion of any color but it is not.\n"
+  "ability": "If you would die while holding this potion, it breaks instead."
 }

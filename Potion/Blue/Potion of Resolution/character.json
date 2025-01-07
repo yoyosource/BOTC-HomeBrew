@@ -1,5 +1,5 @@
 {
-  "id": "butterfingers",
+  "id": "potion_of_resolution",
   "edition": "custom",
   "firstNight": 0,
   "firstNightReminder": "",
@@ -7,9 +7,10 @@
   "otherNightReminder": "",
   "reminders": [],
   "remindersGlobal": [
+    "Resolution"
   ],
   "setup": false,
-  "name": "Butterfingers",
-  "team": "outsider",
-  "ability": "When you are executed, tonight each blue potion is replaced with a red potion."
+  "name": "Potion of Resolution",
+  "team": "traveler",
+  "ability": "You are sober and healthy."
 }

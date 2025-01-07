@@ -1,5 +1,5 @@
 {
-  "id": "panacea_potion",
+  "id": "potion_of_conviction",
   "edition": "custom",
   "firstNight": 0,
   "firstNightReminder": "",
@@ -7,10 +7,10 @@
   "otherNightReminder": "",
   "reminders": [],
   "remindersGlobal": [
-    "Panacea"
+    "Conviction"
   ],
   "setup": false,
-  "name": "Panacea Potion",
+  "name": "Potion of Conviction",
   "team": "traveler",
-  "ability": "You are sober and healthy."
+  "ability": "Your vote count secretly increases by 1."
 }

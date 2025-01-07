@@ -1,0 +1,17 @@
+{
+  "id": "potion_of_stress",
+  "edition": "custom",
+  "firstNight": 0,
+  "firstNightReminder": "",
+  "otherNight": 0,
+  "otherNightReminder": "",
+  "reminders": [],
+  "remindersGlobal": [
+    "Stress",
+    "Stressed"
+  ],
+  "setup": false,
+  "name": "Potion of Stress",
+  "team": "traveler",
+  "ability": "Each night choose another player OR break this potion; a chosen player receives this potion. When this potion breaks, it's holder no longer learns potions they receive."
+}

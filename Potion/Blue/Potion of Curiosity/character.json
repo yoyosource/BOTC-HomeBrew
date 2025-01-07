@@ -1,0 +1,16 @@
+{
+  "id": "potion_of_curiosity",
+  "edition": "custom",
+  "firstNight": 0,
+  "firstNightReminder": "",
+  "otherNight": 0,
+  "otherNightReminder": "",
+  "reminders": [],
+  "remindersGlobal": [
+    "Curiosity"
+  ],
+  "setup": false,
+  "name": "Potion of Curiosity",
+  "team": "traveler",
+  "ability": "During the day you may break this potion in private to ask the Storyteller a question about the state of the game."
+}

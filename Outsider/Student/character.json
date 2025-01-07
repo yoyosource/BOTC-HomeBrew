@@ -11,5 +11,5 @@
   "setup": false,
   "name": "Student",
   "team": "outsider",
-  "ability": "You may only nominate if you hold a red potion. You may only vote if you hold a blue potion. You learn when your potions break."
+  "ability": "You may only nominate if you hold a red potion. You may only vote if you hold a blue potion. You know which potions you are holding."
 }
