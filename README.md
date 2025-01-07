@@ -83,7 +83,7 @@
 - [Author](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Traveller/Author)
 - [Echo](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Traveller/Echo)
 - [Lost Soul](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Traveller/Lost%20Soul)
-- [Snake Oil Salesman](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Traveller/Snake%20Oil%20Salesman)
+- [Snake Oil Seller](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Traveller/Snake%20Oil%20Seller)
 - [Socialist](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Traveller/Socialist)
 - [Toxicologist](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Traveller/Toxicologist)
 
