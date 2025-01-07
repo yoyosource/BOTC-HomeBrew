@@ -11,7 +11,7 @@
     "Dies"
   ],
   "setup": false,
-  "name": "Potion of Hatred",
+  "name": "Hatred",
   "team": "traveler",
   "ability": "When this potion breaks, a player dies tonight*."
 }

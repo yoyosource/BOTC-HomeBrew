@@ -11,7 +11,7 @@
     "Stressed"
   ],
   "setup": false,
-  "name": "Potion of Stress",
+  "name": "Stress",
   "team": "traveler",
   "ability": "Each night choose another player OR break this potion; a chosen player receives this potion. When this potion breaks, it's holder no longer learns potions they receive."
 }

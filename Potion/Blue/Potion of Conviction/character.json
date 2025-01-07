@@ -10,7 +10,7 @@
     "Conviction"
   ],
   "setup": false,
-  "name": "Potion of Conviction",
+  "name": "Conviction",
   "team": "traveler",
   "ability": "Your vote count secretly increases by 1."
 }
