@@ -76,7 +76,7 @@
 - [Doppelgänger](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Fabled/Doppelgänger)
 - [Glassblower](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Fabled/Glassblower)
 - [Igor](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Fabled/Igor)
-- [Mixology Instructions](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Fabled/Mixology%20Instructions)
+- [Potion Instructions](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Fabled/Potion%20Instructions)
 
 ## Traveller
 - [Arsonist](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Traveller/Arsonist)

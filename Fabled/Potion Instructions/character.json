@@ -1,5 +1,5 @@
 {
-  "id": "mixologyinstructions",
+  "id": "potioninstructions",
   "edition": "custom",
   "firstNight": 0,
   "firstNightReminder": "",
@@ -8,7 +8,7 @@
   "reminders": [],
   "remindersGlobal": [],
   "setup": false,
-  "name": "Mixology Instructions",
+  "name": "Instructions",
   "team": "fabled",
   "ability": "All potions a player hold breaks when they die. Every player knows which potion they receive."
 }
