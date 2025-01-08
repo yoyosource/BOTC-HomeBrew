@@ -88,3 +88,23 @@
 - [Toxicologist](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Traveller/Toxicologist)
 
 ## Potion
+
+### Blue
+- [Potion of Conviction](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Potion/Blue/Potion%20of%20Conviction)
+- [Potion of Curiosity](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Potion/Blue/Potion%20of%20Curiosity)
+- [Potion of Empathy](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Potion/Blue/Potion%20of%20Empathy)
+- [Potion of Generosity](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Potion/Blue/Potion%20of%20Generosity)
+- [Potion of Hope](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Potion/Blue/Potion%20of%20Hope)
+- [Potion of Joy](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Potion/Blue/Potion%20of%20Joy)
+- [Potion of Love](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Potion/Blue/Potion%20of%20Love)
+- [Potion of Resolution](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Potion/Blue/Potion%20of%20Resolution)
+- [Potion of Self-Esteem](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Potion/Blue/Potion%20of%20Self-Esteem)
+
+### Red
+- [Potion of Arrogance](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Potion/Red/Potion%20of%20Arrogance)
+- [Potion of Disillusionment](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Potion/Red/Potion%20of%20Disillusionment)
+- [Potion of Envy](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Potion/Red/Potion%20of%20Envy)
+- [Potion of Hatred](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Potion/Red/Potion%20of%20Hatred)
+- [Potion of Obsession](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Potion/Red/Potion%20of%20Obsession)
+- [Potion of Stress](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Potion/Red/Potion%20of%20Stress)
+- [Potion of Terror](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Potion/Red/Potion%20of%20Terror)
