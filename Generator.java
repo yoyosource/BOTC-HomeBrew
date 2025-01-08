@@ -32,7 +32,7 @@ public class Generator {
         String link = directory.getPath().substring(2);
         link = link.replace(" ", "%20");
 
-        if (new File(directory, "character.json").exists()) {
+        if (Arrays.stream(directory.listFiles()).anyMatch(t -> t.isFile() && t.getName().endsWith(".json"))) {
             bufferedWriter.write("- [" + directory.getName() + "](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/" + link.replace('\\', '/') + ")");
             bufferedWriter.newLine();
             return;
