@@ -1,4 +1,4 @@
 {
   "id": "demonictraits", "name": "Demonic Traits", "edition": "custom", "firstNight": 0, "otherNight": 0, "firstNightReminder": "Put a reminder for the passive ability to the player.", "otherNightReminder": "", "reminders": [], "setup": true, "team": "outsider", "jinxes": [{ "id":"lemures", "reason": "The nominator does not change alignment."}],
-  "ability": "You have a not in-play Demon passive ability. If you're mad about wanting to die, your ability functions while dead."
+  "ability": "The demon's ability is modified based on a not in-play demon ability. You keep your ability if you're executed."
 }
