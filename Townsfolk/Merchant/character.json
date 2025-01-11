@@ -12,5 +12,5 @@
   "setup": false,
   "name": "Merchant",
   "team": "townsfolk",
-  "ability": "Once per game as night* choose two players, they swap potions."
+  "ability": "Once per game at night* choose two players, they swap potions."
 }
