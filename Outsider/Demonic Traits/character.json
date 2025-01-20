@@ -1,4 +1,4 @@
 {
-  "id": "demonictraits", "name": "Demonic Traits", "edition": "custom", "firstNight": 0, "otherNight": 0, "firstNightReminder": "add a modifier reminder to the demon.", "otherNightReminder": "remove the modifier reminder if Demonic Traits died.", "reminders": [], "setup": true, "team": "outsider",
+  "id": "demonictraits", "name": "Demonic Traits", "edition": "custom", "firstNight": 0, "otherNight": 0, "firstNightReminder": "Add a modifier reminder to the demon.", "otherNightReminder": "Remove the modifier reminder if Demonic Traits died.", "reminders": [], "setup": true, "team": "outsider",
   "ability": "The demon's ability is modified based on a not in-play demon ability. You keep your ability if you're executed."
 }
