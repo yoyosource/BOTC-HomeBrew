@@ -11,5 +11,5 @@
   "setup": false,
   "name": "Snake Oil Seller",
   "team": "traveler",
-  "ability": "Each night you learn a blue and a red potion. You chose to either;\n- Choose which potion for a player to receive.\n- Choose which player to receive either potion."
+  "ability": "Each night you learn a blue and a red potion. You chose to either; Choose which potion for a player to receive OR; choose which player to receive either potion."
 }
