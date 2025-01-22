@@ -110,6 +110,14 @@
         "It is a fine night for a stroll, wouldn't you say, Mister Morozov? Or should I say... BARON Morozov?"
       ]
     },
+    "nightOrderAs": {
+      "type": "string",
+      "title": "Replaces the firstNight and otherNight parameters that are then drawn from the character id you input here.",
+      "examples": [
+        "huntsman",
+        "balloonist"
+      ]
+    },
     "firstNight": {
       "type": "number",
       "title": "First night wake-up priority. 0 means this character doesn't wake during the first night.",
