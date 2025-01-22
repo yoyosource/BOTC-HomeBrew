@@ -7,8 +7,8 @@
   "otherNightReminder": "",
   "reminders": [],
   "remindersGlobal": [],
-  "setup": false,
+  "setup": true,
   "name": "Philanthropist",
   "team": "townsfolk",
-  "ability": "Each night*, choose another player and a character; you each receive a potion. If they are that character, the potions are identical."
+  "ability": "Each time you would receive a Blue potion, you may choose to instead receive no potion. If you do, tonight choose a dead player; you learn their character. [+1 Outsider]"
 }

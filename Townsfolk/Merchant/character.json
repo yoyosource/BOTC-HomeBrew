@@ -12,5 +12,5 @@
   "setup": false,
   "name": "Merchant",
   "team": "townsfolk",
-  "ability": "Once per game at night* choose 2 players, they swap potions."
+  "ability": "Once per game during the day you may publicly declare a Market Day. If you do, each player may put their hand up, and tonight each player who did receives a potion that another player is holding."
 }
