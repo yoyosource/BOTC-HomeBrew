@@ -23,7 +23,6 @@ jobs:
         run: javac Generator.java
       - name: Generate README.md
         run: |
-          ls -lah
           java -cp . Generator
       - name: Commit README.md
         run: |
