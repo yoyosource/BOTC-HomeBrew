@@ -29,5 +29,12 @@ jobs:
         run: |
           git config --global user.name 'yoyosource'
           git config --global user.email 'yoyosource@users.noreply.github.com'
-          git commit -am "Automatic README.md generation"
-          git push
+          set +e
+          if git status | grep -q modified
+          then
+            set -e
+            git commit -am "Automatic README.md generation"
+            git push
+          else
+            set -e
+          fi
