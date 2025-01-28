@@ -1,111 +1,111 @@
 # HomeBrew
 
 ## Townsfolk
-- [Anthropomancer](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Townsfolk/Anthropomancer)
-- [Apothecary](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Townsfolk/Apothecary)
-- [Auric](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Townsfolk/Auric)
-- [Balloonist-OLD](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Townsfolk/Balloonist-OLD)
-- [Baptist](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Townsfolk/Baptist)
-- [Confessor](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Townsfolk/Confessor)
-- [Distiller](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Townsfolk/Distiller)
-- [Enumerator](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Townsfolk/Enumerator)
-- [Eternal Singer](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Townsfolk/Eternal%20Singer)
-- [Huntsman-FIX](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Townsfolk/Huntsman-FIX)
-- [Master-at-Arms](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Townsfolk/Master-at-Arms)
-- [Merchant](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Townsfolk/Merchant)
-- [Mourner](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Townsfolk/Mourner)
-- [Night Guardian](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Townsfolk/Night%20Guardian)
-- [Obatala](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Townsfolk/Obatala)
-- [Pale Knight](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Townsfolk/Pale%20Knight)
-- [Philanthropist](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Townsfolk/Philanthropist)
-- [Proud Warrior](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Townsfolk/Proud%20Warrior)
-- [Shopkeeper](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Townsfolk/Shopkeeper)
-- [Spirited Youth](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Townsfolk/Spirited%20Youth)
-- [Sworn Protector](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Townsfolk/Sworn%20Protector)
-- [Toll Inspector](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Townsfolk/Toll%20Inspector)
-- [Wanderer](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Townsfolk/Wanderer)
-- [Weaver](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Townsfolk/Weaver)
+- <img src="Townsfolk/Anthropomancer/image.png" alt="drawing" height="5" style="object-fit: cover; scale: 5" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Townsfolk/Anthropomancer">Anthropomancer</a>
+- <img src="Townsfolk/Apothecary/image.png" alt="drawing" height="5" style="object-fit: cover; scale: 5" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Townsfolk/Apothecary">Apothecary</a>
+- <img src="Townsfolk/Auric/image.png" alt="drawing" height="5" style="object-fit: cover; scale: 5" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Townsfolk/Auric">Auric</a>
+<a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Townsfolk/Balloonist-OLD">Balloonist-OLD</a>
+- <img src="Townsfolk/Baptist/image.png" alt="drawing" height="5" style="object-fit: cover; scale: 5" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Townsfolk/Baptist">Baptist</a>
+- <img src="Townsfolk/Confessor/image.png" alt="drawing" height="5" style="object-fit: cover; scale: 5" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Townsfolk/Confessor">Confessor</a>
+- <img src="Townsfolk/Distiller/image.png" alt="drawing" height="5" style="object-fit: cover; scale: 5" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Townsfolk/Distiller">Distiller</a>
+<a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Townsfolk/Enumerator">Enumerator</a>
+- <img src="Townsfolk/Eternal%20Singer/image.png" alt="drawing" height="5" style="object-fit: cover; scale: 5" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Townsfolk/Eternal%20Singer">Eternal Singer</a>
+<a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Townsfolk/Huntsman-FIX">Huntsman-FIX</a>
+- <img src="Townsfolk/Master-at-Arms/image.png" alt="drawing" height="5" style="object-fit: cover; scale: 5" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Townsfolk/Master-at-Arms">Master-at-Arms</a>
+- <img src="Townsfolk/Merchant/image.png" alt="drawing" height="5" style="object-fit: cover; scale: 5" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Townsfolk/Merchant">Merchant</a>
+- <img src="Townsfolk/Mourner/image.png" alt="drawing" height="5" style="object-fit: cover; scale: 5" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Townsfolk/Mourner">Mourner</a>
+- <img src="Townsfolk/Night%20Guardian/image.png" alt="drawing" height="5" style="object-fit: cover; scale: 5" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Townsfolk/Night%20Guardian">Night Guardian</a>
+- <img src="Townsfolk/Obatala/image.png" alt="drawing" height="5" style="object-fit: cover; scale: 5" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Townsfolk/Obatala">Obatala</a>
+- <img src="Townsfolk/Pale%20Knight/image.png" alt="drawing" height="5" style="object-fit: cover; scale: 5" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Townsfolk/Pale%20Knight">Pale Knight</a>
+- <img src="Townsfolk/Philanthropist/image.png" alt="drawing" height="5" style="object-fit: cover; scale: 5" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Townsfolk/Philanthropist">Philanthropist</a>
+- <img src="Townsfolk/Proud%20Warrior/image.png" alt="drawing" height="5" style="object-fit: cover; scale: 5" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Townsfolk/Proud%20Warrior">Proud Warrior</a>
+- <img src="Townsfolk/Shopkeeper/image.png" alt="drawing" height="5" style="object-fit: cover; scale: 5" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Townsfolk/Shopkeeper">Shopkeeper</a>
+- <img src="Townsfolk/Spirited%20Youth/image.png" alt="drawing" height="5" style="object-fit: cover; scale: 5" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Townsfolk/Spirited%20Youth">Spirited Youth</a>
+- <img src="Townsfolk/Sworn%20Protector/image.png" alt="drawing" height="5" style="object-fit: cover; scale: 5" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Townsfolk/Sworn%20Protector">Sworn Protector</a>
+- <img src="Townsfolk/Toll%20Inspector/image.png" alt="drawing" height="5" style="object-fit: cover; scale: 5" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Townsfolk/Toll%20Inspector">Toll Inspector</a>
+- <img src="Townsfolk/Wanderer/image.png" alt="drawing" height="5" style="object-fit: cover; scale: 5" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Townsfolk/Wanderer">Wanderer</a>
+- <img src="Townsfolk/Weaver/image.png" alt="drawing" height="5" style="object-fit: cover; scale: 5" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Townsfolk/Weaver">Weaver</a>
 
 ## Outsider
-- [Blacksmith](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Outsider/Blacksmith)
-- [Butterfingers](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Outsider/Butterfingers)
-- [Cartographer](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Outsider/Cartographer)
-- [Demonic Traits](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Outsider/Demonic%20Traits)
-- [Grump](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Outsider/Grump)
-- [Maniac](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Outsider/Maniac)
-- [Pale Lord](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Outsider/Pale%20Lord)
-- [Siren](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Outsider/Siren)
-- [Sommelier](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Outsider/Sommelier)
-- [Student](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Outsider/Student)
-- [Weeping Angel](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Outsider/Weeping%20Angel)
+- <img src="Outsider/Blacksmith/image.png" alt="drawing" height="5" style="object-fit: cover; scale: 5" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Outsider/Blacksmith">Blacksmith</a>
+- <img src="Outsider/Butterfingers/image.png" alt="drawing" height="5" style="object-fit: cover; scale: 5" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Outsider/Butterfingers">Butterfingers</a>
+- <img src="Outsider/Cartographer/image.png" alt="drawing" height="5" style="object-fit: cover; scale: 5" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Outsider/Cartographer">Cartographer</a>
+- <img src="Outsider/Demonic%20Traits/image.png" alt="drawing" height="5" style="object-fit: cover; scale: 5" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Outsider/Demonic%20Traits">Demonic Traits</a>
+- <img src="Outsider/Grump/image.png" alt="drawing" height="5" style="object-fit: cover; scale: 5" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Outsider/Grump">Grump</a>
+- <img src="Outsider/Maniac/image.png" alt="drawing" height="5" style="object-fit: cover; scale: 5" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Outsider/Maniac">Maniac</a>
+- <img src="Outsider/Pale%20Lord/image.png" alt="drawing" height="5" style="object-fit: cover; scale: 5" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Outsider/Pale%20Lord">Pale Lord</a>
+- <img src="Outsider/Siren/image.png" alt="drawing" height="5" style="object-fit: cover; scale: 5" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Outsider/Siren">Siren</a>
+- <img src="Outsider/Sommelier/image.png" alt="drawing" height="5" style="object-fit: cover; scale: 5" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Outsider/Sommelier">Sommelier</a>
+- <img src="Outsider/Student/image.png" alt="drawing" height="5" style="object-fit: cover; scale: 5" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Outsider/Student">Student</a>
+- <img src="Outsider/Weeping%20Angel/image.png" alt="drawing" height="5" style="object-fit: cover; scale: 5" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Outsider/Weeping%20Angel">Weeping Angel</a>
 
 ## Minion
-- [Chemist](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Minion/Chemist)
-- [Contaminator](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Minion/Contaminator)
-- [Corrupted](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Minion/Corrupted)
-- [Intwaso](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Minion/Intwaso)
-- [Lurking Shadow](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Minion/Lurking%20Shadow)
-- [Manipulator](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Minion/Manipulator)
-- [Mask Maker](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Minion/Mask%20Maker)
-- [Meddler](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Minion/Meddler)
-- [Nostalgic Elder](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Minion/Nostalgic%20Elder)
-- [Perfumer](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Minion/Perfumer)
-- [Phantom Thief](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Minion/Phantom%20Thief)
-- [Psychopath-FIX](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Minion/Psychopath-FIX)
-- [Reanimator](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Minion/Reanimator)
-- [Seer](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Minion/Seer)
-- [Thug](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Minion/Thug)
+- <img src="Minion/Chemist/image.png" alt="drawing" height="5" style="object-fit: cover; scale: 5" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Minion/Chemist">Chemist</a>
+- <img src="Minion/Contaminator/image.png" alt="drawing" height="5" style="object-fit: cover; scale: 5" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Minion/Contaminator">Contaminator</a>
+- <img src="Minion/Corrupted/image.png" alt="drawing" height="5" style="object-fit: cover; scale: 5" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Minion/Corrupted">Corrupted</a>
+- <img src="Minion/Intwaso/image.png" alt="drawing" height="5" style="object-fit: cover; scale: 5" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Minion/Intwaso">Intwaso</a>
+- <img src="Minion/Lurking%20Shadow/image.png" alt="drawing" height="5" style="object-fit: cover; scale: 5" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Minion/Lurking%20Shadow">Lurking Shadow</a>
+- <img src="Minion/Manipulator/image.png" alt="drawing" height="5" style="object-fit: cover; scale: 5" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Minion/Manipulator">Manipulator</a>
+- <img src="Minion/Mask%20Maker/image.png" alt="drawing" height="5" style="object-fit: cover; scale: 5" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Minion/Mask%20Maker">Mask Maker</a>
+- <img src="Minion/Meddler/image.png" alt="drawing" height="5" style="object-fit: cover; scale: 5" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Minion/Meddler">Meddler</a>
+- <img src="Minion/Nostalgic%20Elder/image.png" alt="drawing" height="5" style="object-fit: cover; scale: 5" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Minion/Nostalgic%20Elder">Nostalgic Elder</a>
+- <img src="Minion/Perfumer/image.png" alt="drawing" height="5" style="object-fit: cover; scale: 5" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Minion/Perfumer">Perfumer</a>
+- <img src="Minion/Phantom%20Thief/image.png" alt="drawing" height="5" style="object-fit: cover; scale: 5" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Minion/Phantom%20Thief">Phantom Thief</a>
+<a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Minion/Psychopath-FIX">Psychopath-FIX</a>
+- <img src="Minion/Reanimator/image.png" alt="drawing" height="5" style="object-fit: cover; scale: 5" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Minion/Reanimator">Reanimator</a>
+- <img src="Minion/Seer/image.png" alt="drawing" height="5" style="object-fit: cover; scale: 5" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Minion/Seer">Seer</a>
+- <img src="Minion/Thug/image.png" alt="drawing" height="5" style="object-fit: cover; scale: 5" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Minion/Thug">Thug</a>
 
 ## Demon
-- [Caetrum](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Demon/Caetrum)
-- [Commira](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Demon/Commira)
-- [God Seeker](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Demon/God%20Seeker)
-- [Griffin](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Demon/Griffin)
-- [Hydra](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Demon/Hydra)
-- [Infectious Hive](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Demon/Infectious%20Hive)
-- [Lemures](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Demon/Lemures)
-- [Mal](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Demon/Mal)
-- [Megalomaniac](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Demon/Megalomaniac)
-- [Polterghast](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Demon/Polterghast)
-- [Revenant](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Demon/Revenant)
-- [Trial Master](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Demon/Trial%20Master)
-- [Troupe Master](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Demon/Troupe%20Master)
-- [Wraith](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Demon/Wraith)
+- <img src="Demon/Caetrum/image.png" alt="drawing" height="5" style="object-fit: cover; scale: 5" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Demon/Caetrum">Caetrum</a>
+- <img src="Demon/Commira/image.png" alt="drawing" height="5" style="object-fit: cover; scale: 5" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Demon/Commira">Commira</a>
+- <img src="Demon/God%20Seeker/image.png" alt="drawing" height="5" style="object-fit: cover; scale: 5" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Demon/God%20Seeker">God Seeker</a>
+<a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Demon/Griffin">Griffin</a>
+- <img src="Demon/Hydra/image.png" alt="drawing" height="5" style="object-fit: cover; scale: 5" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Demon/Hydra">Hydra</a>
+- <img src="Demon/Infectious%20Hive/image.png" alt="drawing" height="5" style="object-fit: cover; scale: 5" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Demon/Infectious%20Hive">Infectious Hive</a>
+- <img src="Demon/Lemures/image.png" alt="drawing" height="5" style="object-fit: cover; scale: 5" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Demon/Lemures">Lemures</a>
+<a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Demon/Mal">Mal</a>
+- <img src="Demon/Megalomaniac/image.png" alt="drawing" height="5" style="object-fit: cover; scale: 5" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Demon/Megalomaniac">Megalomaniac</a>
+- <img src="Demon/Polterghast/image.png" alt="drawing" height="5" style="object-fit: cover; scale: 5" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Demon/Polterghast">Polterghast</a>
+- <img src="Demon/Revenant/image.png" alt="drawing" height="5" style="object-fit: cover; scale: 5" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Demon/Revenant">Revenant</a>
+- <img src="Demon/Trial%20Master/image.png" alt="drawing" height="5" style="object-fit: cover; scale: 5" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Demon/Trial%20Master">Trial Master</a>
+- <img src="Demon/Troupe%20Master/image.png" alt="drawing" height="5" style="object-fit: cover; scale: 5" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Demon/Troupe%20Master">Troupe Master</a>
+- <img src="Demon/Wraith/image.png" alt="drawing" height="5" style="object-fit: cover; scale: 5" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Demon/Wraith">Wraith</a>
 
 ## Fabled
-- [Doppelgänger](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Fabled/Doppelgänger)
-- [Glassblower](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Fabled/Glassblower)
-- [Igor](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Fabled/Igor)
-- [Potion Instructions](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Fabled/Potion%20Instructions)
+- <img src="Fabled/Doppelgänger/image.png" alt="drawing" height="5" style="object-fit: cover; scale: 5" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Fabled/Doppelgänger">Doppelgänger</a>
+- <img src="Fabled/Glassblower/image.png" alt="drawing" height="5" style="object-fit: cover; scale: 5" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Fabled/Glassblower">Glassblower</a>
+- <img src="Fabled/Igor/image.png" alt="drawing" height="5" style="object-fit: cover; scale: 5" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Fabled/Igor">Igor</a>
+- <img src="Fabled/Potion%20Instructions/image.png" alt="drawing" height="5" style="object-fit: cover; scale: 5" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Fabled/Potion%20Instructions">Potion Instructions</a>
 
 ## Traveller
-- [Arsonist](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Traveller/Arsonist)
-- [Author](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Traveller/Author)
-- [Echo](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Traveller/Echo)
-- [Lost Soul](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Traveller/Lost%20Soul)
-- [Snake Oil Seller](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Traveller/Snake%20Oil%20Seller)
-- [Socialist](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Traveller/Socialist)
-- [Toxicologist](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Traveller/Toxicologist)
+- <img src="Traveller/Arsonist/image.png" alt="drawing" height="5" style="object-fit: cover; scale: 5" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Traveller/Arsonist">Arsonist</a>
+- <img src="Traveller/Author/image.png" alt="drawing" height="5" style="object-fit: cover; scale: 5" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Traveller/Author">Author</a>
+- <img src="Traveller/Echo/image.png" alt="drawing" height="5" style="object-fit: cover; scale: 5" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Traveller/Echo">Echo</a>
+- <img src="Traveller/Lost%20Soul/image.png" alt="drawing" height="5" style="object-fit: cover; scale: 5" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Traveller/Lost%20Soul">Lost Soul</a>
+- <img src="Traveller/Snake%20Oil%20Seller/image.png" alt="drawing" height="5" style="object-fit: cover; scale: 5" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Traveller/Snake%20Oil%20Seller">Snake Oil Seller</a>
+- <img src="Traveller/Socialist/image.png" alt="drawing" height="5" style="object-fit: cover; scale: 5" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Traveller/Socialist">Socialist</a>
+- <img src="Traveller/Toxicologist/image.png" alt="drawing" height="5" style="object-fit: cover; scale: 5" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Traveller/Toxicologist">Toxicologist</a>
 
 ## Potion
 
 ### Blue
-- [Potion of Conviction](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Potion/Blue/Potion%20of%20Conviction)
-- [Potion of Curiosity](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Potion/Blue/Potion%20of%20Curiosity)
-- [Potion of Empathy](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Potion/Blue/Potion%20of%20Empathy)
-- [Potion of Generosity](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Potion/Blue/Potion%20of%20Generosity)
-- [Potion of Hope](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Potion/Blue/Potion%20of%20Hope)
-- [Potion of Joy](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Potion/Blue/Potion%20of%20Joy)
-- [Potion of Love](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Potion/Blue/Potion%20of%20Love)
-- [Potion of Resolution](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Potion/Blue/Potion%20of%20Resolution)
-- [Potion of Self-Esteem](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Potion/Blue/Potion%20of%20Self-Esteem)
+- <img src="Potion/Blue/Potion%20of%20Conviction/image.png" alt="drawing" height="5" style="object-fit: cover; scale: 5" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Potion/Blue/Potion%20of%20Conviction">Potion of Conviction</a>
+- <img src="Potion/Blue/Potion%20of%20Curiosity/image.png" alt="drawing" height="5" style="object-fit: cover; scale: 5" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Potion/Blue/Potion%20of%20Curiosity">Potion of Curiosity</a>
+- <img src="Potion/Blue/Potion%20of%20Empathy/image.png" alt="drawing" height="5" style="object-fit: cover; scale: 5" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Potion/Blue/Potion%20of%20Empathy">Potion of Empathy</a>
+- <img src="Potion/Blue/Potion%20of%20Generosity/image.png" alt="drawing" height="5" style="object-fit: cover; scale: 5" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Potion/Blue/Potion%20of%20Generosity">Potion of Generosity</a>
+- <img src="Potion/Blue/Potion%20of%20Hope/image.png" alt="drawing" height="5" style="object-fit: cover; scale: 5" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Potion/Blue/Potion%20of%20Hope">Potion of Hope</a>
+- <img src="Potion/Blue/Potion%20of%20Joy/image.png" alt="drawing" height="5" style="object-fit: cover; scale: 5" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Potion/Blue/Potion%20of%20Joy">Potion of Joy</a>
+- <img src="Potion/Blue/Potion%20of%20Love/image.png" alt="drawing" height="5" style="object-fit: cover; scale: 5" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Potion/Blue/Potion%20of%20Love">Potion of Love</a>
+- <img src="Potion/Blue/Potion%20of%20Resolution/image.png" alt="drawing" height="5" style="object-fit: cover; scale: 5" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Potion/Blue/Potion%20of%20Resolution">Potion of Resolution</a>
+- <img src="Potion/Blue/Potion%20of%20Self-Esteem/image.png" alt="drawing" height="5" style="object-fit: cover; scale: 5" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Potion/Blue/Potion%20of%20Self-Esteem">Potion of Self-Esteem</a>
 
 ### Red
-- [Potion of Arrogance](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Potion/Red/Potion%20of%20Arrogance)
-- [Potion of Disdain](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Potion/Red/Potion%20of%20Disdain)
-- [Potion of Disillusionment](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Potion/Red/Potion%20of%20Disillusionment)
-- [Potion of Envy](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Potion/Red/Potion%20of%20Envy)
-- [Potion of Hatred](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Potion/Red/Potion%20of%20Hatred)
-- [Potion of Obsession](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Potion/Red/Potion%20of%20Obsession)
-- [Potion of Stress](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Potion/Red/Potion%20of%20Stress)
-- [Potion of Terror](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Potion/Red/Potion%20of%20Terror)
+- <img src="Potion/Red/Potion%20of%20Arrogance/image.png" alt="drawing" height="5" style="object-fit: cover; scale: 5" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Potion/Red/Potion%20of%20Arrogance">Potion of Arrogance</a>
+- <img src="Potion/Red/Potion%20of%20Disdain/image.png" alt="drawing" height="5" style="object-fit: cover; scale: 5" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Potion/Red/Potion%20of%20Disdain">Potion of Disdain</a>
+- <img src="Potion/Red/Potion%20of%20Disillusionment/image.png" alt="drawing" height="5" style="object-fit: cover; scale: 5" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Potion/Red/Potion%20of%20Disillusionment">Potion of Disillusionment</a>
+- <img src="Potion/Red/Potion%20of%20Envy/image.png" alt="drawing" height="5" style="object-fit: cover; scale: 5" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Potion/Red/Potion%20of%20Envy">Potion of Envy</a>
+- <img src="Potion/Red/Potion%20of%20Hatred/image.png" alt="drawing" height="5" style="object-fit: cover; scale: 5" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Potion/Red/Potion%20of%20Hatred">Potion of Hatred</a>
+- <img src="Potion/Red/Potion%20of%20Obsession/image.png" alt="drawing" height="5" style="object-fit: cover; scale: 5" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Potion/Red/Potion%20of%20Obsession">Potion of Obsession</a>
+- <img src="Potion/Red/Potion%20of%20Stress/image.png" alt="drawing" height="5" style="object-fit: cover; scale: 5" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Potion/Red/Potion%20of%20Stress">Potion of Stress</a>
+- <img src="Potion/Red/Potion%20of%20Terror/image.png" alt="drawing" height="5" style="object-fit: cover; scale: 5" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Potion/Red/Potion%20of%20Terror">Potion of Terror</a>

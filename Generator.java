@@ -33,8 +33,16 @@ public class Generator {
         link = link.replace(" ", "%20");
 
         if (Arrays.stream(directory.listFiles()).anyMatch(t -> t.isFile() && t.getName().endsWith(".json"))) {
-            bufferedWriter.write("- [" + directory.getName() + "](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/" + link.replace('\\', '/') + ")");
+            // - <img src="Townsfolk/Anthropomancer/image.png" alt="drawing" height="5" style="object-fit: cover; scale: 5" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Townsfolk/Anthropomancer">Anthropomancer</a>
+            if (new File(directory, "image.png").exists()) {
+                bufferedWriter.write("- <img src=\"" + link.replace('\\', '/') + "/image.png\" alt=\"drawing\" height=\"5\" style=\"object-fit: cover; scale: 5\" />");
+                bufferedWriter.write(" ");
+            }
+            bufferedWriter.write("<a href=\"https://github.com/yoyosource/BOTC-HomeBrew/tree/master/" + link.replace('\\', '/') + "\">" + directory.getName() +"</a>");
             bufferedWriter.newLine();
+
+            // bufferedWriter.write("- [" + directory.getName() + "](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/" + link.replace('\\', '/') + ")");
+            // bufferedWriter.newLine();
             return;
         }
 
