@@ -35,7 +35,7 @@ public class Generator {
         if (Arrays.stream(directory.listFiles()).anyMatch(t -> t.isFile() && t.getName().endsWith(".json"))) {
             // - <img src="Townsfolk/Anthropomancer/image.png" alt="drawing" height="5" style="object-fit: cover; scale: 5" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Townsfolk/Anthropomancer">Anthropomancer</a>
             if (new File(directory, "image.png").exists()) {
-                bufferedWriter.write("- <img src=\"" + link.replace('\\', '/') + "/image.png\" alt=\"drawing\" height=\"5\" style=\"object-fit: cover; scale: 5\" />");
+                bufferedWriter.write("- <img src=\"" + link.replace('\\', '/') + "/image.png\" alt=\"drawing\" height=\"20\" />");
                 bufferedWriter.write(" ");
             }
             bufferedWriter.write("<a href=\"https://github.com/yoyosource/BOTC-HomeBrew/tree/master/" + link.replace('\\', '/') + "\">" + directory.getName() +"</a>");
