@@ -12,5 +12,5 @@
   "setup": false,
   "name": "Disillusionment",
   "team": "traveler",
-  "ability": "This potion might break at any time. When it does, you become another not in play character."
+  "ability": "This potion breaks when an evil player targets you and does not break on death. When this potion breaks the last evil player that targeted you tonight may change to an out of play character of the same type."
 }

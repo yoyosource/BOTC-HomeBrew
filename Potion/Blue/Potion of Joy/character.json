@@ -4,7 +4,7 @@
   "firstNight": 0,
   "firstNightReminder": "",
   "otherNight": 2,
-  "otherNightReminder": "Wake everyone with a broken Moly potion. Let them choose a player; tell them the chosen player's alignment.",
+  "otherNightReminder": "Wake everyone with a broken Joy potion. Let them choose a player; tell them the chosen player's alignment.",
   "reminders": [],
   "remindersGlobal": [
     "Joy"

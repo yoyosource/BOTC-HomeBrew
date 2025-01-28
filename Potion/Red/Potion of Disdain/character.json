@@ -1,0 +1,16 @@
+{
+  "id": "potionofdisdain",
+  "edition": "custom",
+  "firstNight": 0,
+  "firstNightReminder": "",
+  "otherNight": 0,
+  "otherNightReminder": "",
+  "reminders": [],
+  "remindersGlobal": [
+    "Disdain"
+  ],
+  "setup": false,
+  "name": "Disdain",
+  "team": "traveler",
+  "ability": "When this potion breaks the Demon learns a not in play Character. If you nominate this potion breaks. At dusk this potion is nullified and breaks."
+}
