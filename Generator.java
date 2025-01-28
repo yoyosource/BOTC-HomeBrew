@@ -1,3 +1,7 @@
+import javax.imageio.ImageIO;
+import java.awt.*;
+import java.awt.image.BufferedImage;
+import java.awt.image.WritableRaster;
 import java.io.*;
 import java.util.Arrays;
 import java.util.Comparator;
@@ -36,7 +40,16 @@ public class Generator {
             // - <img src="Townsfolk/Anthropomancer/image.png" alt="drawing" height="5" style="object-fit: cover; scale: 5" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Townsfolk/Anthropomancer">Anthropomancer</a>
             bufferedWriter.write("- ");
             if (new File(directory, "image.png").exists()) {
-                bufferedWriter.write("<img src=\"" + link.replace('\\', '/') + "/image.png\" style=\"height: 20px; scale: 130%; object-position: 50% 3px\" />");
+                BufferedImage image = ImageIO.read(new File(directory, "image.png"));
+                image = cropSquare(image);
+                Image image1 = image.getScaledInstance(30, 30, Image.SCALE_SMOOTH);
+                image = new BufferedImage(image1.getWidth(null), image1.getHeight(null), BufferedImage.TYPE_INT_ARGB);
+                Graphics g = image.getGraphics();
+                g.drawImage(image1, 0, 0, null);
+                g.dispose();
+                ImageIO.write(image, "png", new File(directory, "image_readme.png"));
+
+                bufferedWriter.write("<img src=\"" + link.replace('\\', '/') + "/image_readme.png\" />");
                 bufferedWriter.write(" ");
             }
             bufferedWriter.write("<a href=\"https://github.com/yoyosource/BOTC-HomeBrew/tree/master/" + link.replace('\\', '/') + "\">" + directory.getName() +"</a>");
@@ -58,5 +71,32 @@ public class Generator {
                 generate(file, depth + 1);
             }
         }
+    }
+
+    public static BufferedImage cropSquare(BufferedImage image) {
+        int minX = Integer.MAX_VALUE;
+        int minY = Integer.MAX_VALUE;
+        int maxX = 0;
+        int maxY = 0;
+        WritableRaster alpha = image.getAlphaRaster();
+        for (int y = 0; y < image.getHeight(); y++) {
+            for (int x = 0; x < image.getWidth(); x++) {
+                int value = alpha.getPixel(x, y, new int[1])[0];
+                if (value > 100) {
+                    minX = Math.min(minX, x);
+                    minY = Math.min(minY, y);
+                    maxX = Math.max(maxX, x);
+                    maxY = Math.max(maxY, y);
+                }
+            }
+        }
+        int neededWidth = maxX - minX;
+        int neededHeight = maxY - minY;
+        int squareSize = Math.max(neededHeight, neededWidth);
+        int xCompensation = (neededWidth - squareSize) / 2;
+        int yCompensation = (neededHeight - squareSize) / 2;
+        minX = Math.max(minX + xCompensation, 0);
+        minY = Math.max(minY + yCompensation, 0);
+        return image.getSubimage(minX, minY, squareSize, squareSize);
     }
 }
