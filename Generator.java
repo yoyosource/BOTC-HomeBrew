@@ -64,8 +64,6 @@ public class Generator {
         }
 
         bufferedWriter.newLine();
-        // bufferedWriter.write("#".repeat(depth) + " [" + directory.getName() + "](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/" + link + ")\n");
-
         long numberOfCharacters = Files.walk(directory.toPath()).map(Path::toFile).filter(file -> file.getName().equals("character.json")).count();
         bufferedWriter.write("#".repeat(depth) + " " + directory.getName() + " (" + numberOfCharacters + ")" + "\n");
 
