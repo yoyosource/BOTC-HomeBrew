@@ -102,6 +102,7 @@
 
 ### Red
 - [Potion of Arrogance](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Potion/Red/Potion%20of%20Arrogance)
+- [Potion of Disdain](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Potion/Red/Potion%20of%20Disdain)
 - [Potion of Disillusionment](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Potion/Red/Potion%20of%20Disillusionment)
 - [Potion of Envy](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Potion/Red/Potion%20of%20Envy)
 - [Potion of Hatred](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Potion/Red/Potion%20of%20Hatred)
