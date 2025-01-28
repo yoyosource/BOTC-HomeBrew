@@ -36,7 +36,7 @@ public class Generator {
             // - <img src="Townsfolk/Anthropomancer/image.png" alt="drawing" height="5" style="object-fit: cover; scale: 5" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Townsfolk/Anthropomancer">Anthropomancer</a>
             bufferedWriter.write("- ");
             if (new File(directory, "image.png").exists()) {
-                bufferedWriter.write("<img src=\"" + link.replace('\\', '/') + "/image.png\" style=\"height: 20px; position: absolute; top: 10px\" />");
+                bufferedWriter.write("<img src=\"" + link.replace('\\', '/') + "/image.png\" style=\"height: 20px; display: block ; top: 10px\" />");
                 bufferedWriter.write(" ");
             }
             bufferedWriter.write("<a href=\"https://github.com/yoyosource/BOTC-HomeBrew/tree/master/" + link.replace('\\', '/') + "\">" + directory.getName() +"</a>");
