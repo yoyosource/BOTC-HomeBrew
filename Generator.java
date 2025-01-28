@@ -3,6 +3,9 @@ import java.awt.*;
 import java.awt.image.BufferedImage;
 import java.awt.image.WritableRaster;
 import java.io.*;
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.nio.file.Paths;
 import java.util.Arrays;
 import java.util.Comparator;
 
@@ -62,7 +65,9 @@ public class Generator {
 
         bufferedWriter.newLine();
         // bufferedWriter.write("#".repeat(depth) + " [" + directory.getName() + "](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/" + link + ")\n");
-        bufferedWriter.write("#".repeat(depth) + " " + directory.getName() + "\n");
+
+        long numberOfCharacters = Files.walk(directory.toPath()).map(Path::toFile).filter(file -> file.getName().equals("character.json")).count();
+        bufferedWriter.write("#".repeat(depth) + " " + directory.getName() + " (" + numberOfCharacters + ")" + "\n");
 
         File[] files = directory.listFiles();
         Arrays.sort(files, Comparator.comparing(File::getName));

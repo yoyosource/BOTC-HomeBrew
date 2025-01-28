@@ -1,6 +1,6 @@
 # HomeBrew
 
-## Townsfolk
+## Townsfolk (24)
 - <img src="Townsfolk/Anthropomancer/image_readme.png" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Townsfolk/Anthropomancer">Anthropomancer</a>
 - <img src="Townsfolk/Apothecary/image_readme.png" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Townsfolk/Apothecary">Apothecary</a>
 - <img src="Townsfolk/Auric/image_readme.png" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Townsfolk/Auric">Auric</a>
@@ -26,7 +26,7 @@
 - <img src="Townsfolk/Wanderer/image_readme.png" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Townsfolk/Wanderer">Wanderer</a>
 - <img src="Townsfolk/Weaver/image_readme.png" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Townsfolk/Weaver">Weaver</a>
 
-## Outsider
+## Outsider (11)
 - <img src="Outsider/Blacksmith/image_readme.png" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Outsider/Blacksmith">Blacksmith</a>
 - <img src="Outsider/Butterfingers/image_readme.png" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Outsider/Butterfingers">Butterfingers</a>
 - <img src="Outsider/Cartographer/image_readme.png" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Outsider/Cartographer">Cartographer</a>
@@ -39,7 +39,7 @@
 - <img src="Outsider/Student/image_readme.png" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Outsider/Student">Student</a>
 - <img src="Outsider/Weeping%20Angel/image_readme.png" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Outsider/Weeping%20Angel">Weeping Angel</a>
 
-## Minion
+## Minion (15)
 - <img src="Minion/Chemist/image_readme.png" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Minion/Chemist">Chemist</a>
 - <img src="Minion/Contaminator/image_readme.png" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Minion/Contaminator">Contaminator</a>
 - <img src="Minion/Corrupted/image_readme.png" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Minion/Corrupted">Corrupted</a>
@@ -56,7 +56,7 @@
 - <img src="Minion/Seer/image_readme.png" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Minion/Seer">Seer</a>
 - <img src="Minion/Thug/image_readme.png" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Minion/Thug">Thug</a>
 
-## Demon
+## Demon (14)
 - <img src="Demon/Caetrum/image_readme.png" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Demon/Caetrum">Caetrum</a>
 - <img src="Demon/Commira/image_readme.png" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Demon/Commira">Commira</a>
 - <img src="Demon/God%20Seeker/image_readme.png" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Demon/God%20Seeker">God Seeker</a>
@@ -72,13 +72,13 @@
 - <img src="Demon/Troupe%20Master/image_readme.png" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Demon/Troupe%20Master">Troupe Master</a>
 - <img src="Demon/Wraith/image_readme.png" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Demon/Wraith">Wraith</a>
 
-## Fabled
+## Fabled (4)
 - <img src="Fabled/Doppelgänger/image_readme.png" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Fabled/Doppelgänger">Doppelgänger</a>
 - <img src="Fabled/Glassblower/image_readme.png" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Fabled/Glassblower">Glassblower</a>
 - <img src="Fabled/Igor/image_readme.png" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Fabled/Igor">Igor</a>
 - <img src="Fabled/Potion%20Instructions/image_readme.png" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Fabled/Potion%20Instructions">Potion Instructions</a>
 
-## Traveller
+## Traveller (7)
 - <img src="Traveller/Arsonist/image_readme.png" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Traveller/Arsonist">Arsonist</a>
 - <img src="Traveller/Author/image_readme.png" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Traveller/Author">Author</a>
 - <img src="Traveller/Echo/image_readme.png" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Traveller/Echo">Echo</a>
@@ -87,9 +87,9 @@
 - <img src="Traveller/Socialist/image_readme.png" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Traveller/Socialist">Socialist</a>
 - <img src="Traveller/Toxicologist/image_readme.png" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Traveller/Toxicologist">Toxicologist</a>
 
-## Potion
+## Potion (17)
 
-### Blue
+### Blue (9)
 - <img src="Potion/Blue/Potion%20of%20Conviction/image_readme.png" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Potion/Blue/Potion%20of%20Conviction">Potion of Conviction</a>
 - <img src="Potion/Blue/Potion%20of%20Curiosity/image_readme.png" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Potion/Blue/Potion%20of%20Curiosity">Potion of Curiosity</a>
 - <img src="Potion/Blue/Potion%20of%20Empathy/image_readme.png" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Potion/Blue/Potion%20of%20Empathy">Potion of Empathy</a>
@@ -100,7 +100,7 @@
 - <img src="Potion/Blue/Potion%20of%20Resolution/image_readme.png" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Potion/Blue/Potion%20of%20Resolution">Potion of Resolution</a>
 - <img src="Potion/Blue/Potion%20of%20Self-Esteem/image_readme.png" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Potion/Blue/Potion%20of%20Self-Esteem">Potion of Self-Esteem</a>
 
-### Red
+### Red (8)
 - <img src="Potion/Red/Potion%20of%20Arrogance/image_readme.png" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Potion/Red/Potion%20of%20Arrogance">Potion of Arrogance</a>
 - <img src="Potion/Red/Potion%20of%20Disdain/image_readme.png" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Potion/Red/Potion%20of%20Disdain">Potion of Disdain</a>
 - <img src="Potion/Red/Potion%20of%20Disillusionment/image_readme.png" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Potion/Red/Potion%20of%20Disillusionment">Potion of Disillusionment</a>
