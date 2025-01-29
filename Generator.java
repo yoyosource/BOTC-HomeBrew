@@ -43,24 +43,36 @@ public class Generator {
             BufferedImage image = ImageIO.read(new File(directory, "image.png"));
             image = cropSquare(image);
 
-            Image image1 = image.getScaledInstance(20, 20, Image.SCALE_SMOOTH);
-            image = new BufferedImage(image1.getWidth(null), image1.getHeight(null), BufferedImage.TYPE_INT_ARGB);
+            {
+                Image scaled = image.getScaledInstance(40, 40, Image.SCALE_SMOOTH);
+                BufferedImage result = new BufferedImage(scaled.getWidth(null), scaled.getHeight(null), BufferedImage.TYPE_INT_ARGB);
 
-            Graphics g = image.getGraphics();
-            g.drawImage(image1, 0, 0, null);
-            g.dispose();
+                Graphics g = result.getGraphics();
+                g.drawImage(scaled, 0, 0, null);
+                g.dispose();
 
-            ImageIO.write(image, "png", new File(directory, "image_readme.png"));
+                ImageIO.write(result, "png", new File(directory, ".image_big.png"));
+            } // Scaled image 30x30
+            {
+                Image scaled = image.getScaledInstance(20, 20, Image.SCALE_SMOOTH);
+                BufferedImage result = new BufferedImage(scaled.getWidth(null), scaled.getHeight(null), BufferedImage.TYPE_INT_ARGB);
+
+                Graphics g = result.getGraphics();
+                g.drawImage(scaled, 0, 0, null);
+                g.dispose();
+
+                ImageIO.write(result, "png", new File(directory, ".image_small.png"));
+            }  // Scaled image 20x20
         }
 
         if (new File(directory, "character.json").exists()) {
             Character character = new Character();
             character.file = directory;
 
-            if (new File(directory, "image_readme.png").exists()) {
-                character.image = new File(directory, "image_readme.png");
+            if (new File(directory, "image.png").exists()) {
+                character.image = directory;;
             } else {
-                character.image = new File(directory.getParentFile(), "image_readme.png");
+                character.image = directory.getParentFile();
             }
 
             String json = new BufferedReader(new FileReader(new File(directory, "character.json")))
@@ -104,7 +116,7 @@ public class Generator {
         }
 
         for (Character character : characterDirectory.characterList) {
-            bufferedWriter.write("## ![](" + character.image.getPath().substring(file.getPath().length() + 1).replace(" ", "%20").replace('\\', '/') + ") [" + character.file.getName() + "](" + character.file.getName().replace(" ", "%20").replace('\\', '/') + ")\n");
+            bufferedWriter.write("## ![](" + toPath(character.image, file) + "/.image_big.png) [" + character.file.getName() + "](" + character.file.getName().replace(" ", "%20").replace('\\', '/') + ")\n");
             bufferedWriter.write(character.ability + "\n");
             bufferedWriter.write("\n");
         }
@@ -117,14 +129,20 @@ public class Generator {
     }
 
     private static void generate(CharacterDirectory parent, CharacterDirectory characterDirectory, BufferedWriter bufferedWriter, int depth) throws IOException {
-        bufferedWriter.write("#".repeat(depth) + " [" + characterDirectory.file.getName() + "](" + characterDirectory.file.getPath().substring(parent.file.getPath().length() + 1).replace(" ", "%20").replace('\\', '/') + ") (" + characterDirectory.getCharacterCount() + ")\n");
+        bufferedWriter.write("#".repeat(depth) + " [" + characterDirectory.file.getName() + "](" + toPath(characterDirectory.file, parent.file) + ") (" + characterDirectory.getCharacterCount() + ")\n");
         for (Character character : characterDirectory.characterList) {
-            bufferedWriter.write("- ![](" + character.image.getPath().substring(parent.file.getPath().length() + 1).replace(" ", "%20").replace('\\', '/') + ") [" + character.file.getName() + "](" + character.file.getPath().substring(parent.file.getPath().length() + 1).replace(" ", "%20").replace('\\', '/') + ")\n");
+            bufferedWriter.write("- ![](" + toPath(character.image, parent.file) + "/.image_small.png) [" + character.file.getName() + "](" + toPath(character.file, parent.file) + ")\n");
         }
         for (CharacterDirectory dir : characterDirectory.directoryList) {
             generate(parent, dir, bufferedWriter, depth + 1);
         }
         bufferedWriter.write("\n");
+    }
+
+    private static String toPath(File pathToGenerate, File parent) {
+        String path = pathToGenerate.getPath().substring(parent.getPath().length());
+        if (path.startsWith("/")) path = path.substring(1);
+        return path.replace(" ", "%20").replace('\\', '/');
     }
 
     public static void main(String[] args) throws IOException {
