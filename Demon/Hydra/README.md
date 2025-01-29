@@ -1,14 +1,9 @@
 # Hydra
-
-<img src="https://raw.githubusercontent.com/yoyosource/BOTC-HomeBrew/master/Demon/Hydra/image.png" alt="drawing" width="200"/>
-
-### Authors
-- Coronas
-- Jonas
-- Marcus
+<img src="https://raw.githubusercontent.com/yoyosource/BOTC-HomeBrew/master/Demon/Hydra/image.png" alt="drawing" width="200"/>\
+Authors: Coronas, Jonas, Marcus
 
 ## Summary
-"Each night* choose a player; if picked by both Hydra they die, or else poisoned until dusk. Each day, a 2nd execution starts after the 1st. Then, if a Hydra was executed an alive player becomes an evil Hydra. You know all Hydra. Execution fails, if only Hydra voted. [+1 Hydra; No minions]"
+> Each night* choose a player; if picked by both Hydra they die, or else poisoned until dusk. Each day, a 2nd execution starts after the 1st. Then, if a Hydra was executed an alive player becomes an evil Hydra. You know all Hydra. Execution fails, if only Hydra voted. [+1 Hydra; No minions]
 
 The Hydra is a demon-type character with an ability inspired by its mythologic counterpart.
 The game starts with two Hydras in play, however there are no minions in play.

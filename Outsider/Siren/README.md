@@ -1,6 +1,6 @@
 # Siren
 <img src="https://raw.githubusercontent.com/yoyosource/BOTC-HomeBrew/master/Outsider/Siren/image.png" alt="drawing" width="200"/>\
-Created by Coronas and Jonas.
+Authors: Coronas and Jonas
 
 ## Summary
 > If you die, Demons act twice the next time they act.
