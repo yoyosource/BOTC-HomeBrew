@@ -41,11 +41,14 @@ public class Generator {
         if (new File(directory, "image.png").exists()) {
             BufferedImage image = ImageIO.read(new File(directory, "image.png"));
             image = cropSquare(image);
+
             Image image1 = image.getScaledInstance(20, 20, Image.SCALE_SMOOTH);
             image = new BufferedImage(image1.getWidth(null), image1.getHeight(null), BufferedImage.TYPE_INT_ARGB);
+
             Graphics g = image.getGraphics();
             g.drawImage(image1, 0, 0, null);
             g.dispose();
+
             ImageIO.write(image, "png", new File(directory, "image_readme.png"));
         }
 
