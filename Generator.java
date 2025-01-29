@@ -44,7 +44,7 @@ public class Generator {
             image = cropSquare(image);
 
             {
-                Image scaled = image.getScaledInstance(40, 40, Image.SCALE_SMOOTH);
+                Image scaled = image.getScaledInstance(40, 40, Image.SCALE_AREA_AVERAGING);
                 BufferedImage result = new BufferedImage(scaled.getWidth(null), scaled.getHeight(null), BufferedImage.TYPE_INT_ARGB);
 
                 Graphics g = result.getGraphics();
@@ -54,7 +54,7 @@ public class Generator {
                 ImageIO.write(result, "png", new File(directory, ".image_big.png"));
             } // Scaled image 30x30
             {
-                Image scaled = image.getScaledInstance(20, 20, Image.SCALE_SMOOTH);
+                Image scaled = image.getScaledInstance(20, 20, Image.SCALE_AREA_AVERAGING);
                 BufferedImage result = new BufferedImage(scaled.getWidth(null), scaled.getHeight(null), BufferedImage.TYPE_INT_ARGB);
 
                 Graphics g = result.getGraphics();
