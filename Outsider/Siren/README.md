@@ -1,6 +1,5 @@
-<img src="https://raw.githubusercontent.com/yoyosource/BOTC-HomeBrew/master/Outsider/Siren/image.png" alt="drawing" width="160" style="float: right"/>
-
 # Siren
+<img src="https://raw.githubusercontent.com/yoyosource/BOTC-HomeBrew/master/Outsider/Siren/image.png" alt="drawing" width="200"/>\
 Created by Coronas and Jonas.
 
 ## Summary
