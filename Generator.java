@@ -5,7 +5,6 @@ import java.awt.image.WritableRaster;
 import java.io.*;
 import java.nio.file.Files;
 import java.nio.file.Path;
-import java.nio.file.Paths;
 import java.util.Arrays;
 import java.util.Comparator;
 
@@ -51,7 +50,6 @@ public class Generator {
         }
 
         if (Arrays.stream(directory.listFiles()).anyMatch(t -> t.isFile() && t.getName().endsWith(".json"))) {
-            // - <img src="Townsfolk/Anthropomancer/image.png" alt="drawing" height="5" style="object-fit: cover; scale: 5" /> <a href="https://github.com/yoyosource/BOTC-HomeBrew/tree/master/Townsfolk/Anthropomancer">Anthropomancer</a>
             bufferedWriter.write("- ");
             if (new File(directory, "image.png").exists()) {
                 bufferedWriter.write("![](" + link.replace('\\', '/') + "/image_readme.png) ");
@@ -60,8 +58,6 @@ public class Generator {
                 linkCopy = linkCopy.substring(0, linkCopy.lastIndexOf('/'));
                 bufferedWriter.write("![](" + linkCopy + "/image_readme.png) ");
             }
-            // bufferedWriter.write("<a href=\"https://github.com/yoyosource/BOTC-HomeBrew/tree/master/" + link.replace('\\', '/') + "\">" + directory.getName() +"</a>");
-            // bufferedWriter.newLine();
 
             bufferedWriter.write("[" + directory.getName() + "](https://github.com/yoyosource/BOTC-HomeBrew/tree/master/" + link.replace('\\', '/') + ")");
             bufferedWriter.newLine();
