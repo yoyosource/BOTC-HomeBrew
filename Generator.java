@@ -116,7 +116,8 @@ public class Generator {
         }
 
         for (Character character : characterDirectory.characterList) {
-            bufferedWriter.write("## ![](" + toPath(character.image, file) + "/.image_big.png) [" + character.file.getName() + "](" + character.file.getName().replace(" ", "%20").replace('\\', '/') + ")\n");
+            String imageBaseLink = toPath(character.image, file);
+            bufferedWriter.write("## ![](" + imageBaseLink + (!imageBaseLink.isEmpty() ? "/" : "") + ".image_big.png) [" + character.file.getName() + "](" + character.file.getName().replace(" ", "%20").replace('\\', '/') + ")\n");
             bufferedWriter.write(character.ability + "\n");
             bufferedWriter.write("\n");
         }

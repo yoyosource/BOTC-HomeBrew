@@ -9,7 +9,7 @@ While you are holding a potion, each potion of that type is nullified.
 ## ![](Auric/.image_big.png) [Auric](Auric)
 Each night, choose 3 players and a unique character; you learn if any of them are that character.
 
-## ![](/.image_big.png) [Balloonist-OLD](Balloonist-OLD)
+## ![](.image_big.png) [Balloonist-OLD](Balloonist-OLD)
 Each night, you learn 1 player of each character type, until there are no more types to learn. [+1 Outsider]
 
 ## ![](Baptist/.image_big.png) [Baptist](Baptist)
@@ -21,13 +21,13 @@ Each night, choose another player; you learn if the demon is seated closer to yo
 ## ![](Distiller/.image_big.png) [Distiller](Distiller)
 Each night you are offered a new blue potion; once per game you may take it.
 
-## ![](/.image_big.png) [Enumerator](Enumerator)
+## ![](.image_big.png) [Enumerator](Enumerator)
 Each day you may publicly name 3 good characters. If you do, tonight you learn how many are part of evil bluffs.
 
 ## ![](Eternal%20Singer/.image_big.png) [Eternal Singer](Eternal%20Singer)
 Each night, choose a player; tonight, all information yielded about that player is true.
 
-## ![](/.image_big.png) [Huntsman-FIX](Huntsman-FIX)
+## ![](.image_big.png) [Huntsman-FIX](Huntsman-FIX)
 Once per game, at night, choose a living player: the Damsel, if chosen, becomes a not-in-play Townsfolk. [+the Damsel]
 
 ## ![](Master-at-Arms/.image_big.png) [Master-at-Arms](Master-at-Arms)

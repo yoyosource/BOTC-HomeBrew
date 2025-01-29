@@ -33,7 +33,7 @@ Players might register as the alignment of a potion they hold.
 ## ![](Phantom%20Thief/.image_big.png) [Phantom Thief](Phantom%20Thief)
 On your first night, choose a good player: you learn their character & have their ability instead of them
 
-## ![](/.image_big.png) [Psychopath-FIX](Psychopath-FIX)
+## ![](.image_big.png) [Psychopath-FIX](Psychopath-FIX)
 Each day, before nominations, you may publicly choose a player (not yourself): they die. If executed, you only die if you lose roshambo.
 
 ## ![](Reanimator/.image_big.png) [Reanimator](Reanimator)

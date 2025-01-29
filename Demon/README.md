@@ -9,7 +9,7 @@ Each night choose, 3 different players; they each receive a Potion. Each night* 
 ## ![](God%20Seeker/.image_big.png) [God Seeker](God%20Seeker)
 You have an off-script Demon ability. Once per game, a good player learns what Demon that is.
 
-## ![](/.image_big.png) [Griffin](Griffin)
+## ![](.image_big.png) [Griffin](Griffin)
 Each night* choose a player, they die. Once per game choose an additional player they might die at any time.
 
 ## ![](Hydra/.image_big.png) [Hydra](Hydra)
@@ -21,7 +21,7 @@ Each night* choose a player their vote gets inverted if at least 2 players votes
 ## ![](Lemures/.image_big.png) [Lemures](Lemures)
 Each night* choose a player; they die. The first time a Lemures gets executed by vote, the nominator becomes an Evil Lemures. [If 5 or more players are alive]
 
-## ![](/.image_big.png) [Mal](Mal)
+## ![](.image_big.png) [Mal](Mal)
 Each night choose if you want to change from human form to dragon or from dragon form to human or not. If you switch your form you can't do anything else that night, if you stay in the human form choose 2 players, 1 is mad that the 2nd is a minion. If the 1st player breaks the madness he or both might be executed. When you are in the dragon form choose a player they are poisoned, the previously poisoned player dies.
 
 ## ![](Megalomaniac/.image_big.png) [Megalomaniac](Megalomaniac)
