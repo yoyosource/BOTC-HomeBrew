@@ -62,7 +62,7 @@ public class Generator {
                 g.dispose();
 
                 ImageIO.write(result, "png", new File(directory, ".image_small.png"));
-            }  // Scaled image 20x20
+            } // Scaled image 20x20
         }
 
         if (new File(directory, "character.json").exists()) {
