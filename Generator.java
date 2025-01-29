@@ -94,8 +94,8 @@ public class Generator {
                     minY = Math.min(minY, y);
                     maxX = Math.max(maxX, x);
                     maxY = Math.max(maxY, y);
-                } else {
-                    value = true ? 0 : alpha.getPixel(x, y, new int[1])[0];
+                } else if (alpha != null) {
+                    value = alpha.getPixel(x, y, new int[1])[0];
                     if (value > 100) {
                         minX = Math.min(minX, x);
                         minY = Math.min(minY, y);
