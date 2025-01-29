@@ -1,13 +1,9 @@
 # Siren
-
-<img src="https://raw.githubusercontent.com/yoyosource/BOTC-HomeBrew/master/Outsider/Siren/image.png" alt="drawing" width="200"/>
-
-### Authors
-- Coronas
-- Jonas
+<img src="https://raw.githubusercontent.com/yoyosource/BOTC-HomeBrew/master/Outsider/Siren/image.png" alt="drawing" width="200"/>\
+Authors: Coronas and Jonas
 
 ## Summary
-"If you die, Demons act twice the next time they act."
+> If you die, Demons act twice the next time they act.
 
 The Siren is a outsider-type character with an ability inspired by its mythologic counterpart.
 The idea is the siren distracts everybody so the demon can act twice.
