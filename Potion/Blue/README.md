@@ -19,7 +19,7 @@ If you would die while holding this potion, it breaks instead.
 When this potion breaks, tonight you are woken to choose a player: you learn their alignment.
 
 ## ![](Potion%20of%20Love/.image_big.png) [Potion of Love](Potion%20of%20Love)
-When you receive this potion, a player of your alignment learns your character.
+When you receive this potion, tonight a player of your alignment learns your character.
 
 ## ![](Potion%20of%20Resolution/.image_big.png) [Potion of Resolution](Potion%20of%20Resolution)
 You are sober and healthy.
