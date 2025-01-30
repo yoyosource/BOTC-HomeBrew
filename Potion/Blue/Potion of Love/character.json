@@ -7,10 +7,11 @@
   "otherNightReminder": "",
   "reminders": [],
   "remindersGlobal": [
-    "Love"
+    "Love",
+    "In love"
   ],
   "setup": false,
   "name": "Love",
   "team": "traveler",
-  "ability": "When you receive this potion, a player of your alignment learns your character."
+  "ability": "When you receive this potion, tonight a player of your alignment learns your character."
 }

@@ -7,7 +7,8 @@
   "otherNightReminder": "Wake everyone with a broken Joy potion. Let them choose a player; tell them the chosen player's alignment.",
   "reminders": [],
   "remindersGlobal": [
-    "Joy"
+    "Joy",
+    "Joyous"
   ],
   "setup": false,
   "name": "Joy",

@@ -5,9 +5,10 @@
   "firstNightReminder": "",
   "otherNight": 0,
   "otherNightReminder": "",
-  "reminders": [],
-  "remindersGlobal": [
+  "reminders": [
+    "Died today"
   ],
+  "remindersGlobal": [],
   "setup": false,
   "name": "Butterfingers",
   "team": "outsider",
