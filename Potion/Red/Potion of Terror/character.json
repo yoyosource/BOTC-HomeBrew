@@ -15,6 +15,6 @@
   ],
   "setup": false,
   "name": "Terror",
-  "team": "potion",
+  "team": "potion red",
   "ability": "When this potion breaks, the storyteller announces it at dawn. When this happens for the 3rd time, evil wins."
 }
