@@ -5,12 +5,13 @@
   "firstNightReminder": "Announce how many Potion of Terror broke this night.",
   "otherNight": 83,
   "otherNightReminder": "Announce how many Potion of Terror broke this night.",
-  "reminders": [],
-  "remindersGlobal": [
-    "Terror",
+  "reminders": [
     "Terror 1",
     "Terror 2",
     "Terror 3"
+  ],
+  "remindersGlobal": [
+    "Terror"
   ],
   "setup": false,
   "name": "Terror",

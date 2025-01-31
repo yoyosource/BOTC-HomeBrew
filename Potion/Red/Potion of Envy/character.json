@@ -5,10 +5,11 @@
   "firstNightReminder": "",
   "otherNight": 0,
   "otherNightReminder": "",
-  "reminders": [],
-  "remindersGlobal": [
-    "Envy",
+  "reminders": [
     "Poisoned"
+  ],
+  "remindersGlobal": [
+    "Envy"
   ],
   "setup": false,
   "name": "Envy",

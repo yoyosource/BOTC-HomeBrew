@@ -5,10 +5,11 @@
   "firstNightReminder": "",
   "otherNight": 0,
   "otherNightReminder": "After dawn announce the player with the 'Dies' token to be dead.",
-  "reminders": [],
-  "remindersGlobal": [
-    "Hatred",
+  "reminders": [
     "Dies"
+  ],
+  "remindersGlobal": [
+    "Hatred"
   ],
   "setup": false,
   "name": "Hatred",

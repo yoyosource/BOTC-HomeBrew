@@ -5,10 +5,11 @@
   "firstNightReminder": "",
   "otherNight": 0,
   "otherNightReminder": "",
-  "reminders": [],
-  "remindersGlobal": [
-    "Self-Esteem",
+  "reminders": [
     "Self-Esteem - Nominated"
+  ],
+  "remindersGlobal": [
+    "Self-Esteem"
   ],
   "setup": false,
   "name": "Self-Esteem",

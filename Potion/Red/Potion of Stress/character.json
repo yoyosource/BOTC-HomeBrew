@@ -5,10 +5,11 @@
   "firstNightReminder": "",
   "otherNight": 0,
   "otherNightReminder": "",
-  "reminders": [],
-  "remindersGlobal": [
-    "Stress",
+  "reminders": [
     "Stressed"
+  ],
+  "remindersGlobal": [
+    "Stress"
   ],
   "setup": false,
   "name": "Stress",
