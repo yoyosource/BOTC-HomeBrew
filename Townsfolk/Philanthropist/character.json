@@ -10,5 +10,5 @@
   "setup": true,
   "name": "Philanthropist",
   "team": "townsfolk",
-  "ability": "Each time you would receive a Blue potion, you may choose to instead receive no potion. If you do, tonight choose a dead player; you learn their character. [+1 Outsider]"
+  "ability": "Each night*, choose either to receive a Blue Potion or to choose a dead player and learn their character. [+1 Outsider]"
 }
