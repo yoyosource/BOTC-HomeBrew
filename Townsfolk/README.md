@@ -49,7 +49,7 @@ Each night*, you may choose a unique dead player: You gain their ability until d
 Your neighbours are always healthy and uninfected.
 
 ## ![](Philanthropist/.image_big.png) [Philanthropist](Philanthropist)
-Each time you would receive a Blue potion, you may choose to instead receive no potion. If you do, tonight choose a dead player; you learn their character. [+1 Outsider]
+Each night*, choose either to receive a Blue Potion or to choose a dead player and learn their character. [+1 Outsider]
 
 ## ![](Proud%20Warrior/.image_big.png) [Proud Warrior](Proud%20Warrior)
 Each night, choose a player; if they are executed tomorrow, you learn their alignment the following night.

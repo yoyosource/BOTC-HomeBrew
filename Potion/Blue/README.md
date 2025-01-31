@@ -4,7 +4,7 @@
 Your vote count secretly increases by 1.
 
 ## ![](Potion%20of%20Curiosity/.image_big.png) [Potion of Curiosity](Potion%20of%20Curiosity)
-During the day you may break this potion in private. If you do, choose 3 players; you learn something they have in common or if they have nothing in common.
+During the day you may break this potion in private. If you do you learn a player which is either a good or bad execution for your team today.
 
 ## ![](Potion%20of%20Empathy/.image_big.png) [Potion of Empathy](Potion%20of%20Empathy)
 You know your alive neighbours potions. This potion may break at any time.
