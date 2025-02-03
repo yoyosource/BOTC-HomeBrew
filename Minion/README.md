@@ -1,7 +1,7 @@
 # Minion
 
 ## ![](Chemist/.image_big.png) [Chemist](Chemist)
-Each night, choose a player; you steal one of their potions, then they recieve a potion.
+Each night, choose a player; you steal one of their potions, then they receive a potion.
 
 ## ![](Contaminator/.image_big.png) [Contaminator](Contaminator)
 Once per game at night* choose a type of potion; each player holding that type of potion might die.
@@ -37,11 +37,11 @@ On your first night, choose a good player: you learn their character & have thei
 Each day, before nominations, you may publicly choose a player (not yourself): they die. If executed, you only die if you lose roshambo.
 
 ## ![](Reanimator/.image_big.png) [Reanimator](Reanimator)
-Once per game at night*, choose a non demon dead player; they are resurrected. If they are not mad that their team is winning, they and another player might be executed.
+Once per game at night*, choose a non demon dead player; they are resurrected. If they are not "mad" that their team is winning, they and another player might be executed.
 
 ## ![](Seer/.image_big.png) [Seer](Seer)
 Each night* chose a good player; they chose life or death. If they chose life, the demon learns who the Storyteller thinks is the best kill.
 
 ## ![](Thug/.image_big.png) [Thug](Thug)
-Each night, choose a player and a potion; they are “mad” that they are holding that type of potion or they might receive one.
+Each night, choose a player and a potion; they are "mad" that they are holding that type of potion or they might receive one.
 

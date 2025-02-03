@@ -1,7 +1,7 @@
 # Demon
 
 ## ![](Caetrum/.image_big.png) [Caetrum](Caetrum)
-When a potion breaks, another one might break as well. Each night*, choose a player; they die. [-0 or -1 Outsider]
+Each night*, choose a player; they die. When a potion breaks, another one might break as well. [-0 or -1 Outsider]
 
 ## ![](Commira/.image_big.png) [Commira](Commira)
 Each night choose, 3 different players; they each receive a Potion. Each night* choose a player; they die.
