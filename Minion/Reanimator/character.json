@@ -13,5 +13,5 @@
   "setup": false,
   "name": "Reanimator",
   "team": "minion",
-  "ability": "Once per game at night*, choose a non demon dead player; they are resurrected. If they are not mad that their team is winning, they and another player might be executed."
+  "ability": "Once per game at night*, choose a non demon dead player; they are resurrected. If they are not \"mad\" that their team is winning, they and another player might be executed."
 }

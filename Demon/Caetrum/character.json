@@ -12,5 +12,5 @@
   "setup": true,
   "name": "Caetrum",
   "team": "demon",
-  "ability": "When a potion breaks, another one might break as well. Each night*, choose a player; they die. [-0 or -1 Outsider]"
+  "ability": "Each night*, choose a player; they die. When a potion breaks, another one might break as well. [-0 or -1 Outsider]"
 }

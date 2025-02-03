@@ -80,7 +80,7 @@ public class Generator {
                     .collect(Collectors.joining(""));
             Matcher matcher = Pattern.compile("\"ability\" *: *\"([^\"]*)\"").matcher(json.replace("\\\"", "\\'"));
             matcher.results().forEach(matchResult -> {
-                character.ability = json.substring(matchResult.start(1), matchResult.end(1));
+                character.ability = json.substring(matchResult.start(1), matchResult.end(1)).replace("\\\"", "\"");
             });
 
             characterDirectory.characterList.add(character);
