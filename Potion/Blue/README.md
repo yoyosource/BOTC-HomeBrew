@@ -7,7 +7,7 @@ Your vote count secretly increases by 1.
 During the day you may break this potion in private. If you do you learn a player which is either a good or bad execution for your team today.
 
 ## ![](Potion%20of%20Empathy/.image_big.png) [Potion of Empathy](Potion%20of%20Empathy)
-You know your alive neighbours potions. This potion may break at any time.
+You know your alive neighbours potions.
 
 ## ![](Potion%20of%20Generosity/.image_big.png) [Potion of Generosity](Potion%20of%20Generosity)
 Each night you may break this potion and name another potion; If you are holding the named potion it is removed.
