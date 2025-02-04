@@ -16,7 +16,7 @@ Each night* you may choose a player (not yourself); All players learn their char
 Each night you learn a blue and a red potion. You chose to either; Choose which potion for a player to receive OR; choose which player to receive either potion.
 
 ## ![](Socialist/.image_big.png) [Socialist](Socialist)
-When a player receive a potion (not from the Socialist); another player receives a potion of the opposite alignment.
+Up to three times each night when a player receive a potion (not from the Socialist); another player receives a potion of the opposite alignment.
 
 ## ![](Toxicologist/.image_big.png) [Toxicologist](Toxicologist)
 Each night*, choose another player; you learn 2 potions, one they hold and one they don't. Choose one; it breaks.
