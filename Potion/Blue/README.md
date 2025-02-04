@@ -10,7 +10,7 @@ During the day you may break this potion in private. If you do you learn a playe
 You know your alive neighbours potions.
 
 ## ![](Potion%20of%20Generosity/.image_big.png) [Potion of Generosity](Potion%20of%20Generosity)
-Each night you may break this potion and name another potion; If you are holding the named potion it is removed.
+Each night you may break this potion and name another potion; If you are holding the named potion it is nullified and breaks.
 
 ## ![](Potion%20of%20Hope/.image_big.png) [Potion of Hope](Potion%20of%20Hope)
 If you would die while holding this potion, it breaks instead.
