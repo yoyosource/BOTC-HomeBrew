@@ -73,7 +73,7 @@
 - ![](Demon/Wraith/.image_small.png) [Wraith](Demon/Wraith)
 
 ## [Fabled](Fabled) (4)
-- ![](Fabled/Doppelgänger/.image_small.png) [Doppelgänger](Fabled/Doppelgänger)
+- ![](Fabled/Doppelgaenger/.image_small.png) [Doppelgaenger](Fabled/Doppelgaenger)
 - ![](Fabled/Glassblower/.image_small.png) [Glassblower](Fabled/Glassblower)
 - ![](Fabled/Igor/.image_small.png) [Igor](Fabled/Igor)
 - ![](Fabled/Potion%20Instructions/.image_small.png) [Potion Instructions](Fabled/Potion%20Instructions)

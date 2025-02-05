@@ -1,6 +1,6 @@
 # Fabled
 
-## ![](Doppelgänger/.image_big.png) [Doppelgänger](Doppelgänger)
+## ![](Doppelgaenger/.image_big.png) [Doppelgaenger](Doppelgaenger)
 Players may hold duplicates of the same potion.
 
 ## ![](Glassblower/.image_big.png) [Glassblower](Glassblower)
