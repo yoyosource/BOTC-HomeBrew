@@ -10,5 +10,5 @@
   "setup": false,
   "name": "Chemist",
   "team": "minion",
-  "ability": "Each night, choose a player; you steal one of their potions, then they receive a potion."
+  "ability": "Each night, choose a player; receive one of their potions. They receive a different potion."
 }

@@ -10,5 +10,5 @@
   "setup": false,
   "name": "Toll Inspector",
   "team": "townsfolk",
-  "ability": "Each night you learn how many potions of each color has been received since dawn."
+  "ability": "Each night, you learn how many potions of each alignment have been received since dawn."
 }

@@ -10,5 +10,5 @@
   "setup": false,
   "name": "Meddler",
   "team": "minion",
-  "ability": "When good players receive potions, they might learn a different type of the same color."
+  "ability": "When good players receive potions, they might learn a different type of the same alignment."
 }

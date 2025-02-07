@@ -11,5 +11,5 @@
   "setup": false,
   "name": "Sommelier",
   "team": "outsider",
-  "ability": "Once each night when a player would receive a potion they might receive a potion of the opposite color instead."
+  "ability": "Each night one player who would receive a potion might receive one of the opposite alignment instead."
 }

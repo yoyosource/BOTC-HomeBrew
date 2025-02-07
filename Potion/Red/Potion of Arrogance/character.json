@@ -12,5 +12,5 @@
   "setup": false,
   "name": "Arrogance",
   "team": "potion red",
-  "ability": "The holder thinks this is another potion of any color but it is not."
+  "ability": "The holder thinks this is another potion of any alignment but it is not."
 }
