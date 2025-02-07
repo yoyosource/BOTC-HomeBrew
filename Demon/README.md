@@ -4,7 +4,7 @@
 Each night*, choose a player; they die. When a potion breaks, another one might break as well. [-0 or -1 Outsider]
 
 ## ![](Commira/.image_big.png) [Commira](Commira)
-Each night choose, 3 different players; they each receive a Potion. Each night* choose a player; they die.
+Each night, choose 3 different players; they receive a Potion. Each night* choose a player; they die.
 
 ## ![](God%20Seeker/.image_big.png) [God Seeker](God%20Seeker)
 You have an off-script Demon ability. Once per game, a good player learns what Demon that is.
@@ -25,7 +25,7 @@ Each night* choose a player; they die. The first time a Lemures gets executed by
 Each night choose if you want to change from human form to dragon or from dragon form to human or not. If you switch your form you can't do anything else that night, if you stay in the human form choose 2 players, 1 is mad that the 2nd is a minion. If the 1st player breaks the madness he or both might be executed. When you are in the dragon form choose a player they are poisoned, the previously poisoned player dies.
 
 ## ![](Megalomaniac/.image_big.png) [Megalomaniac](Megalomaniac)
-Each night*, choose a player; they die. On your first night 3 players receive a Potion of Terror.
+Each night*, choose a player; they die. On your first night, 3 players receive a Potion of Terror.
 
 ## ![](Polterghast/.image_big.png) [Polterghast](Polterghast)
 Each night*, choose a player: they die. Their good neighbors' abilities yield false info until you act again.

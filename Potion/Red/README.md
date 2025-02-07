@@ -1,7 +1,7 @@
 # Red
 
 ## ![](Potion%20of%20Arrogance/.image_big.png) [Potion of Arrogance](Potion%20of%20Arrogance)
-The holder thinks this is another potion of any color but it is not.
+The holder thinks this is another potion of any alignment but it is not.
 
 ## ![](Potion%20of%20Disdain/.image_big.png) [Potion of Disdain](Potion%20of%20Disdain)
 When this potion breaks the Demon learns a not in play Character. If you nominate this potion breaks. At dusk this potion is nullified and breaks.

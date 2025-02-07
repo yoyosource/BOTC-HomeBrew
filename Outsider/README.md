@@ -4,7 +4,7 @@
 If you die by execution, tonight all Townsfolk are drunk.
 
 ## ![](Butterfingers/.image_big.png) [Butterfingers](Butterfingers)
-When you are executed, tonight each blue potion is replaced with a red potion.
+When you are executed, tonight each good potion is replaced with a evil potion.
 
 ## ![](Cartographer/.image_big.png) [Cartographer](Cartographer)
 When you die, the following night the Demon sees the Grimoire.
@@ -25,10 +25,10 @@ If you die by execution and at least 3 vote tokens are spent on your nomination,
 If you die, Demons act twice the next time they act.
 
 ## ![](Sommelier/.image_big.png) [Sommelier](Sommelier)
-Once each night when a player would receive a potion they might receive a potion of the opposite color instead.
+Each night one player who would receive a potion might receive one of the opposite alignment instead.
 
 ## ![](Student/.image_big.png) [Student](Student)
-You may only nominate if you hold a red potion. You may only vote if you hold a blue potion. You know which potions you are holding.
+You may only nominate if you hold a evil potion. You may only vote if you hold a good potion. You know which potions you are holding.
 
 ## ![](Weeping%20Angel/.image_big.png) [Weeping Angel](Weeping%20Angel)
 Once per game at night, a good player that talked to you in private today dies.

@@ -13,10 +13,10 @@ Each day, you may only repeat words that the Storyteller has said today, or you 
 Each night* you may choose a player (not yourself); All players learn their character. The character announced if an evil player is chosen is arbitrary.
 
 ## ![](Snake%20Oil%20Seller/.image_big.png) [Snake Oil Seller](Snake%20Oil%20Seller)
-Each night you learn a blue and a red potion. You chose to either; Choose which potion for a player to receive OR; choose which player to receive either potion.
+Each night you learn a good and an evil potion. Choose either 1) which potion for a player to receive, or 2) which player to receive either potion.
 
 ## ![](Socialist/.image_big.png) [Socialist](Socialist)
-Up to three times each night when a player receive a potion (not from the Socialist); another player receives a potion of the opposite alignment.
+Up to three times each night when a player receives a potion (not from the Socialist); another player receives a potion of the opposite alignment.
 
 ## ![](Toxicologist/.image_big.png) [Toxicologist](Toxicologist)
 Each night*, choose another player; you learn 2 potions, one they hold and one they don't. Choose one; it breaks.

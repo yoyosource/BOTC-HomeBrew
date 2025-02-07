@@ -1,7 +1,7 @@
 # Minion
 
 ## ![](Chemist/.image_big.png) [Chemist](Chemist)
-Each night, choose a player; you steal one of their potions, then they receive a potion.
+Each night, choose a player; receive one of their potions. They receive a different potion.
 
 ## ![](Contaminator/.image_big.png) [Contaminator](Contaminator)
 Once per game at night* choose a type of potion; each player holding that type of potion might die.
@@ -22,7 +22,7 @@ Each night choose a Townsfolk character; today each Outsider is mad that they ar
 Once per game choose a player; they register as the opposite as there alignment.
 
 ## ![](Meddler/.image_big.png) [Meddler](Meddler)
-When good players receive potions, they might learn a different type of the same color.
+When good players receive potions, they might learn a different type of the same alignment.
 
 ## ![](Nostalgic%20Elder/.image_big.png) [Nostalgic Elder](Nostalgic%20Elder)
 Once per game, at night, choose for all Townsfolk to yield the same info as the last time they acted if they would normally receive info tonight.
@@ -37,11 +37,11 @@ On your first night, choose a good player: you learn their character & have thei
 Each day, before nominations, you may publicly choose a player (not yourself): they die. If executed, you only die if you lose roshambo.
 
 ## ![](Reanimator/.image_big.png) [Reanimator](Reanimator)
-Once per game at night*, choose a non demon dead player; they are resurrected. If they are not "mad" that their team is winning, they and another player might be executed.
+Once per game at night*, choose a dead player (not a Demon); they are resurrected. While alive, if they are not "mad" that their team is winning, or they and another player might be executed.
 
 ## ![](Seer/.image_big.png) [Seer](Seer)
 Each night* chose a good player; they chose life or death. If they chose life, the demon learns who the Storyteller thinks is the best kill.
 
 ## ![](Thug/.image_big.png) [Thug](Thug)
-Each night, choose a player and a potion; they are "mad" that they are holding that type of potion or they might receive one.
+Each night, choose a player and a potion; tomorrow they are "mad" that they are holding it or they might receive it.
 

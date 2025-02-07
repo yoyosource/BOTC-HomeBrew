@@ -13,13 +13,13 @@ Each night, choose 3 players and a unique character; you learn if any of them ar
 Each night, you learn 1 player of each character type, until there are no more types to learn. [+1 Outsider]
 
 ## ![](Baptist/.image_big.png) [Baptist](Baptist)
-Each night, choose 2 players (not yourself); they each receive a Blue potion and one can’t die tonight.
+Each night, choose 2 players (not yourself); they each receive a good potion and one can’t die tonight.
 
 ## ![](Confessor/.image_big.png) [Confessor](Confessor)
 Each night, choose another player; you learn if the demon is seated closer to you than them.
 
 ## ![](Distiller/.image_big.png) [Distiller](Distiller)
-Each night you are offered a new blue potion; once per game you may take it.
+Each night, you are offered a new good potion; once per game, choose to keep it & loose this ability.
 
 ## ![](.image_big.png) [Enumerator](Enumerator)
 Each day you may publicly name 3 good characters. If you do, tonight you learn how many are part of evil bluffs.
@@ -34,7 +34,7 @@ Once per game, at night, choose a living player: the Damsel, if chosen, becomes 
 You start knowing an in-play Townsfolk, and have their ability. Either you or they are drunk.
 
 ## ![](Merchant/.image_big.png) [Merchant](Merchant)
-Once per game during the day you may publicly declare a Market Day. If you do, each player may put their hand up, and tonight each player who did receives a potion that another player is holding.
+Once per game, during the day, publicly declare a Market Day. Each player may publicly choose to attend. Tonight, all who did receive a new potion that another player is holding.
 
 ## ![](Mourner/.image_big.png) [Mourner](Mourner)
 Each night*, choose a player: if the Demon kills them, you learn a character they neighbor.
@@ -49,7 +49,7 @@ Each night*, you may choose a unique dead player: You gain their ability until d
 Your neighbours are always healthy and uninfected.
 
 ## ![](Philanthropist/.image_big.png) [Philanthropist](Philanthropist)
-Each night*, choose either to receive a Blue Potion or to choose a dead player and learn their character. [+1 Outsider]
+Each night*, choose either 1) receive a good potion, or 2) choose a dead player and learn their character. [+1 Outsider]
 
 ## ![](Proud%20Warrior/.image_big.png) [Proud Warrior](Proud%20Warrior)
 Each night, choose a player; if they are executed tomorrow, you learn their alignment the following night.
@@ -64,7 +64,7 @@ At the beginning of the 1st day you may publicly name a future day. That day you
 You start knowing what demon is in-play. You are safe from minions.
 
 ## ![](Toll%20Inspector/.image_big.png) [Toll Inspector](Toll%20Inspector)
-Each night you learn how many potions of each color has been received since dawn.
+Each night, you learn how many potions of each alignment have been received since dawn.
 
 ## ![](Wanderer/.image_big.png) [Wanderer](Wanderer)
 You start knowing how many Outsiders have an evil neighbour [at least 1 Outsider]
