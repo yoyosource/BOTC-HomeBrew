@@ -12,5 +12,5 @@
   "setup": false,
   "name": "Merchant",
   "team": "townsfolk",
-  "ability": "Once per game, during the day, publicly declare a Market Day. Each player may publicly choose to attend. Tonight, all who did receive a new potion that another player is holding.",
+  "ability": "Each night, choose a player and a potion you are holding; they receive it. On your first night you receive 2 potions."
 }
