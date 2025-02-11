@@ -13,5 +13,6 @@
   "setup": false,
   "name": "Reanimator",
   "team": "minion",
-  "ability": "Once per game at night*, choose a dead player (not a Demon); they are resurrected. While alive, if they are not \"mad\" that their team is winning, or they and another player might be executed."
+  "ability": "Once per game at night*, choose a dead player (not a Demon); they are resurrected. While alive, if they are not \"mad\" that their team is winning, or they and another player might be executed.",
+  "flavor": "His chief delights were of a less public and philanthropic kind, requiring many explanations of sounds which seemed peculiar even amidst that babel of the damned. Among these sounds were frequent revolver-shots—surely not uncommon on a battlefield, but distinctly uncommon in an hospital."
 }

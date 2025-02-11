@@ -11,5 +11,6 @@
   "setup": false,
   "name": "Sommelier",
   "team": "outsider",
-  "ability": "Each night one player who would receive a potion might receive one of the opposite alignment instead."
+  "ability": "Each night one player who would receive a potion might receive one of the opposite alignment instead.",
+  "flavor": "The discovery of a wine is of greater moment than the discovery of a constellation. The universe is too full of stars."
 }

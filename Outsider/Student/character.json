@@ -11,5 +11,6 @@
   "setup": false,
   "name": "Student",
   "team": "outsider",
-  "ability": "You may only nominate if you hold a evil potion. You may only vote if you hold a good potion. You know which potions you are holding."
+  "ability": "You may only nominate if you hold a evil potion. You may only vote if you hold a good potion. You know which potions you are holding.",
+  "flavor": "Education is not the filling of a pail, but the lighting of a fire."
 }

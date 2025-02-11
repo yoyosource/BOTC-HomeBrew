@@ -12,5 +12,6 @@
   "setup": true,
   "name": "Megalomaniac",
   "team": "demon",
-  "ability": "Each night*, choose a player; they die. On your first night, 3 players receive a Potion of Terror."
+  "ability": "Each night*, choose a player; they die. On your first night, 3 players receive a Potion of Terror.",
+  "flavor": "I believe you find life such a problem because you think there are the good people and the bad people. You're wrong, of course. There are, always and only, the bad people, but some of them are on opposite sides."
 }

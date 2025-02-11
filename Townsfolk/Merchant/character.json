@@ -12,5 +12,6 @@
   "setup": false,
   "name": "Merchant",
   "team": "townsfolk",
-  "ability": "Each night, choose a player and a potion you are holding; they receive it. On your first night you receive 2 potions."
+  "ability": "Each night, choose a player and a potion you are holding; they receive it. On your first night you receive 2 potions.",
+  "flavor": "I will buy with you, sell with you, talk with you, walk with you, and so following, but I will not eat with you, drink with you, nor pray with you."
 }

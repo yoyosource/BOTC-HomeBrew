@@ -12,5 +12,6 @@
   "setup": false,
   "name": "Thug",
   "team": "minion",
-  "ability": "Each night, choose a player and a potion; tomorrow they are \"mad\" that they are holding it or they might receive it."
+  "ability": "Each night, choose a player and a potion; tomorrow they are \"mad\" that they are holding it or they might receive it.",
+  "flavor": "You're humming, Sam. That means that something awful is going to happen to somebody."
 }

@@ -11,5 +11,6 @@
   "setup": false,
   "name": "Toxicologist",
   "team": "traveler",
-  "ability": "Each night*, choose another player; you learn 2 potions, one they hold and one they don't. Choose one; it breaks."
+  "ability": "Each night*, choose another player; you learn 2 potions, one they hold and one they don't. Choose one; it breaks.",
+  "flavor": "Exposure to toxins in our environment can have serious health consequences, so it’s important to take steps to minimize our exposure."
 }
