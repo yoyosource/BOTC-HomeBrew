@@ -34,7 +34,7 @@ Once per game, at night, choose a living player: the Damsel, if chosen, becomes 
 You start knowing an in-play Townsfolk, and have their ability. Either you or they are drunk.
 
 ## ![](Merchant/.image_big.png) [Merchant](Merchant)
-Once per game, during the day, publicly declare a Market Day. Each player may publicly choose to attend. Tonight, all who did receive a new potion that another player is holding.
+Each night, choose a player and a potion you are holding; they receive it. On your first night you receive 2 potions.
 
 ## ![](Mourner/.image_big.png) [Mourner](Mourner)
 Each night*, choose a player: if the Demon kills them, you learn a character they neighbor.
