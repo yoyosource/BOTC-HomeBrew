@@ -10,6 +10,6 @@
   "setup": false,
   "name": "Connoisseur",
   "team": "townsfolk",
-  "ability": "Each night you receive a Potion of Curiosity. You may hold multiple Potion of Curiosity at once.",
+  "ability": "Each night, you receive a Potion of Curiosity. You may hold multiple Potion of Curiosity at once.",
   "flavor": "Everything in life that’s any fun, as somebody wisely observed, is either immoral, illegal or fattening."
 }
