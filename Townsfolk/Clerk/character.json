@@ -1,0 +1,15 @@
+{
+  "id": "clerk",
+  "edition": "custom",
+  "firstNight": 0,
+  "firstNightReminder": "",
+  "otherNight": 0,
+  "otherNightReminder": "",
+  "reminders": [],
+  "remindersGlobal": [],
+  "setup": false,
+  "name": "Clerk",
+  "team": "townsfolk",
+  "ability": "Each night you learn a type of potion that an evil player has received tonight.",
+  "flavor": "Employers are like horses — they require management."
+}

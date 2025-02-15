@@ -10,5 +10,6 @@
   "setup": false,
   "name": "Contaminator",
   "team": "minion",
-  "ability": "Once per game at night* choose a type of potion; each player holding that type of potion might die."
+  "ability": "Once per game at night* choose a type of potion; each player holding that type of potion might die.",
+  "abilityAlt": "Each night choose a Type of Potion, each player holding or receiving that type of Potion tonight is poisoned until dusk and the potions might malfunction."
 }

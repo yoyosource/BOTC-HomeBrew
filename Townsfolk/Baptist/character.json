@@ -12,6 +12,6 @@
   "setup": false,
   "name": "Baptist",
   "team": "townsfolk",
-  "ability": "Each night, choose 2 players (not yourself); they each receive a good potion and one can’t die tonight.",
+  "ability": "Each night*, choose 2 living players (not yourself); they each receive a good potion and one can’t die tonight.",
   "flavor": "It's never too soon to contemplate eternal damnation, sir!"
 }

@@ -14,5 +14,5 @@
   "setup": false,
   "name": "Stress",
   "team": "potion red",
-  "ability": "Each night choose another player OR break this potion; a chosen player receives this potion. When this potion breaks, it's holder no longer learns potions they receive."
+  "ability": "Each night choose either 1) another alive player to receive this potion, or 2) break this potion; you no longer learn potions you receive."
 }

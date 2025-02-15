@@ -12,6 +12,6 @@
   "setup": true,
   "name": "Caetrum",
   "team": "demon",
-  "ability": "Each night*, choose a player; they die. When a potion breaks, another one might break as well. [-0 or -1 Outsider]",
+  "ability": "Each night*, choose a player; they die. When a potion breaks, tonight another one might break as well. [-0 or -1 Outsider]",
   "flavor": "Guaranteed to solve any minor problem by turning it into a major desaster."
 }

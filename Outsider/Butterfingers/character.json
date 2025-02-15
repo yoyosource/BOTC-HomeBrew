@@ -12,6 +12,6 @@
   "setup": false,
   "name": "Butterfingers",
   "team": "outsider",
-  "ability": "When you are executed, tonight each good potion is replaced with a evil potion.",
+  "ability": "When you are executed, tonight each player holding good potions receive the same number of evil potions and all good potions break.",
   "flavor": "It took a special kind of man to cut his sword hand with his own sword."
 }

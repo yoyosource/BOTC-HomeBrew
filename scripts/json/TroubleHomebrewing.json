@@ -1,0 +1,123 @@
+[
+  {
+    "id": "_meta",
+    "name": "Trouble Homebrewing",
+    "author": "YoyoNow & Grumbletok",
+    "logo": "https://raw.githubusercontent.com/yoyosource/BOTC-HomeBrew/master/scripts/logo/TROUBLE_HOMEBREWING.png",
+    "firstNight": [
+      "DUSK",
+      "glassblower",
+      "MINIONINFO",
+      "DEMONINFO",
+      "megalomaniac",
+      "thug",
+      "snakeoilseller",
+      "noble",
+      "connoisseur",
+      "distiller",
+      "chemist",
+      "clerk",
+      "potionofstress",
+      "tasseograph",
+      "potionofgenerosity",
+      "potionofempathy",
+      "student",
+      "tollinspector",
+      "DAWN",
+      "potionofterror"
+    ],
+    "otherNight": [
+      "DUSK",
+      "caetrum",
+      "potionofobsession",
+      "harlot",
+      "butterfingers",
+      "thug",
+      "snakeoilseller",
+      "baptist",
+      "commira",
+      "megalomaniac",
+      "caetrum",
+      "fanggu",
+      "toxicologist",
+      "potionofjoy",
+      "reanimator",
+      "professor",
+      "connoisseur",
+      "distiller",
+      "philanthropist",
+      "chemist",
+      "merchant",
+      "clerk",
+      "potionofstress",
+      "tasseograph",
+      "potionofgenerosity",
+      "potionofempathy",
+      "student",
+      "tollinspector",
+      "DAWN",
+      "potionofterror"
+    ],
+    "characterTypes": {
+      "potion blue": {
+        "color": "#1f65ff",
+        "assignable": false,
+        "showRemindersOnGlobal": true
+      },
+      "potion red": {
+        "color": "#ce0100",
+        "assignable": false,
+        "showRemindersOnGlobal": true
+      }
+    }
+  },
+
+  "apothecary",
+  "baptist",
+  "tollinspector",
+  "distiller",
+  "philanthropist",
+  "merchant",
+  "noble",
+  "professor",
+  "savant",
+  "connoisseur",
+  "tasseograph",
+  "clerk",
+
+  "butterfingers",
+  "student",
+  "sommelier",
+  "puzzlemaster",
+
+  "chemist",
+  "thug",
+  "reanimator",
+  "poisoner",
+
+  "commira",
+  "megalomaniac",
+  "caetrum",
+  "fanggu",
+
+  "snakeoilseller",
+  "toxicologist",
+  "socialist",
+  "harlot",
+  "apprentice",
+
+  "potionofterror",
+  "potionofobsession",
+  "potionofdisillusionment",
+  "potionofdisdain",
+  "potionofstress",
+
+  "potionofcuriosity",
+  "potionofjoy",
+  "potionofconviction",
+  "potionofgenerosity",
+  "potionofempathy",
+
+  "potioninstructions",
+  "glassblower"
+]
