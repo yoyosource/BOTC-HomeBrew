@@ -1,12 +1,14 @@
 # Homebrew
 
-## [Townsfolk](Townsfolk) (24)
+## [Townsfolk](Townsfolk) (27)
 - ![](Townsfolk/Anthropomancer/.image_small.png) [Anthropomancer](Townsfolk/Anthropomancer)
 - ![](Townsfolk/Apothecary/.image_small.png) [Apothecary](Townsfolk/Apothecary)
 - ![](Townsfolk/Auric/.image_small.png) [Auric](Townsfolk/Auric)
 - ![](Townsfolk/.image_small.png) [Balloonist-OLD](Townsfolk/Balloonist-OLD)
 - ![](Townsfolk/Baptist/.image_small.png) [Baptist](Townsfolk/Baptist)
+- ![](Townsfolk/Clerk/.image_small.png) [Clerk](Townsfolk/Clerk)
 - ![](Townsfolk/Confessor/.image_small.png) [Confessor](Townsfolk/Confessor)
+- ![](Townsfolk/Connoisseur/.image_small.png) [Connoisseur](Townsfolk/Connoisseur)
 - ![](Townsfolk/Distiller/.image_small.png) [Distiller](Townsfolk/Distiller)
 - ![](Townsfolk/.image_small.png) [Enumerator](Townsfolk/Enumerator)
 - ![](Townsfolk/Eternal%20Singer/.image_small.png) [Eternal Singer](Townsfolk/Eternal%20Singer)
@@ -22,6 +24,7 @@
 - ![](Townsfolk/Shopkeeper/.image_small.png) [Shopkeeper](Townsfolk/Shopkeeper)
 - ![](Townsfolk/Spirited%20Youth/.image_small.png) [Spirited Youth](Townsfolk/Spirited%20Youth)
 - ![](Townsfolk/Sworn%20Protector/.image_small.png) [Sworn Protector](Townsfolk/Sworn%20Protector)
+- ![](Townsfolk/Tasseograph/.image_small.png) [Tasseograph](Townsfolk/Tasseograph)
 - ![](Townsfolk/Toll%20Inspector/.image_small.png) [Toll Inspector](Townsfolk/Toll%20Inspector)
 - ![](Townsfolk/Wanderer/.image_small.png) [Wanderer](Townsfolk/Wanderer)
 - ![](Townsfolk/Weaver/.image_small.png) [Weaver](Townsfolk/Weaver)

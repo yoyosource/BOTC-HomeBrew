@@ -4,7 +4,7 @@
 If you die by execution, tonight all Townsfolk are drunk.
 
 ## ![](Butterfingers/.image_big.png) [Butterfingers](Butterfingers)
-When you are executed, tonight each good potion is replaced with a evil potion.
+When you are executed, tonight each player holding good potions receive the same number of evil potions and all good potions break.
 
 ## ![](Cartographer/.image_big.png) [Cartographer](Cartographer)
 When you die, the following night the Demon sees the Grimoire.

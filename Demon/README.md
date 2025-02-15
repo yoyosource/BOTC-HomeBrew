@@ -1,10 +1,10 @@
 # Demon
 
 ## ![](Caetrum/.image_big.png) [Caetrum](Caetrum)
-Each night*, choose a player; they die. When a potion breaks, another one might break as well. [-0 or -1 Outsider]
+Each night*, choose a player; they die. When a potion breaks, tonight another one might break as well. [-0 or -1 Outsider]
 
 ## ![](Commira/.image_big.png) [Commira](Commira)
-Each night, choose 3 different players; they receive a Potion. Each night* choose a player; they die.
+Each night*, choose 3 different living players; they receive a Potion, then choose a player; they die.
 
 ## ![](God%20Seeker/.image_big.png) [God Seeker](God%20Seeker)
 You have an off-script Demon ability. Once per game, a good player learns what Demon that is.
