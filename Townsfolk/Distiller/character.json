@@ -12,6 +12,6 @@
   "setup": false,
   "name": "Distiller",
   "team": "townsfolk",
-  "ability": "Each night, you are offered a new good potion; once per game, choose to keep it & loose this ability.",
+  "ability": "Once per game at night, you may name a type of Potion; you learn each player that holds that type of potion.",
   "flavor": "Ein Glas ist fabelhaft, zwei sind zu viel, und drei zu wenig."
 }
