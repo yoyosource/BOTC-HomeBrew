@@ -25,7 +25,7 @@ Each night, choose another player; you learn if the demon is seated closer to yo
 Each night, you receive a Potion of Curiosity. You may hold multiple Potion of Curiosity at once.
 
 ## ![](Distiller/.image_big.png) [Distiller](Distiller)
-Each night, you are offered a new good potion; once per game, choose to keep it & loose this ability.
+Once per game at night, you may name a type of Potion; you learn each player that holds that type of potion.
 
 ## ![](.image_big.png) [Enumerator](Enumerator)
 Each day you may publicly name 3 good characters. If you do, tonight you learn how many are part of evil bluffs.
