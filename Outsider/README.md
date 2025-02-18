@@ -28,7 +28,7 @@ If you die, Demons act twice the next time they act.
 Each night one player who would receive a potion might receive one of the opposite alignment instead.
 
 ## ![](Student/.image_big.png) [Student](Student)
-You may only nominate if you hold a evil potion. You may only vote if you hold a good potion. You know which potions you are holding.
+You may only nominate if you hold an evil potion. You may only vote if you hold a good potion. You know which potions you are holding.
 
 ## ![](Weeping%20Angel/.image_big.png) [Weeping Angel](Weeping%20Angel)
 Once per game at night, a good player that talked to you in private today dies.
