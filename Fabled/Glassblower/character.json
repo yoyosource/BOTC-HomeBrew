@@ -5,7 +5,9 @@
   "firstNightReminder": "",
   "otherNight": 0,
   "otherNightReminder": "",
-  "reminders": [],
+  "reminders": [
+    "Glassblower"
+  ],
   "remindersGlobal": [],
   "setup": false,
   "name": "Glassblower",
