@@ -63,12 +63,14 @@
       "potion blue": {
         "color": "#1f65ff",
         "assignable": false,
-        "showRemindersOnGlobal": true
+        "showRemindersOnGlobal": true,
+        "showRemindersInNightOrder": true
       },
       "potion red": {
         "color": "#ce0100",
         "assignable": false,
-        "showRemindersOnGlobal": true
+        "showRemindersOnGlobal": true,
+        "showRemindersInNightOrder": true
       }
     }
   },
