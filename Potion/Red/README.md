@@ -22,5 +22,5 @@ If you are "mad" that you are a townsfolk, this potion might break and tonight a
 Each night choose either 1) another alive player to receive this potion, or 2) break this potion; you might register as any character type or alignment and your potions as any other potion until dusk.
 
 ## ![](Potion%20of%20Terror/.image_big.png) [Potion of Terror](Potion%20of%20Terror)
-When this potion breaks, the storyteller announces it at dawn. When this happens for the 3rd time, evil wins.
+When this potion breaks, the storyteller announces it at dawn. When this happens for the 3rd time, evil wins at dusk.
 

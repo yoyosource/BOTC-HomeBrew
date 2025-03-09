@@ -4,7 +4,7 @@
 Players may hold duplicates of the same potion.
 
 ## ![](Glassblower/.image_big.png) [Glassblower](Glassblower)
-When Glassblower enters play, tonight each player receives a potion.
+On each player's first night, they receive a potion.
 
 ## ![](Igor/.image_big.png) [Igor](Igor)
 Once per game the storyteller may break any one potion at any time.

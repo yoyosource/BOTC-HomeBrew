@@ -25,7 +25,7 @@ Each night* choose a player; they die. The first time a Lemures gets executed by
 Each night choose if you want to change from human form to dragon or from dragon form to human or not. If you switch your form you can't do anything else that night, if you stay in the human form choose 2 players, 1 is mad that the 2nd is a minion. If the 1st player breaks the madness he or both might be executed. When you are in the dragon form choose a player they are poisoned, the previously poisoned player dies.
 
 ## ![](Megalomaniac/.image_big.png) [Megalomaniac](Megalomaniac)
-Each night*, choose a player; they die. On your first night, 3 players receive a Potion of Terror.
+Each night*, choose a player; they die. Then, if no player is holding a Potion of Terror, a player receives a Potion of Terror. [+2 Potion of Terror]
 
 ## ![](Polterghast/.image_big.png) [Polterghast](Polterghast)
 Each night*, choose a player: they die. Their good neighbors' abilities yield false info until you act again.

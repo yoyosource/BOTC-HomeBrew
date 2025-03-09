@@ -4,7 +4,7 @@
 Each night* you learn if a player that died by execution today is a character type you have not learned yet.
 
 ## ![](Apothecary/.image_big.png) [Apothecary](Apothecary)
-While you are holding a potion, each potion of that type is nullified.
+While you are holding any potions, all potions of those types are nullified.
 
 ## ![](Auric/.image_big.png) [Auric](Auric)
 Each night, choose 3 players and a unique character; you learn if any of them are that character.
@@ -22,7 +22,7 @@ Each night, you learn a type of potion that an evil player has received tonight.
 Each night, choose another player; you learn if the demon is seated closer to you than them.
 
 ## ![](Connoisseur/.image_big.png) [Connoisseur](Connoisseur)
-Each night, you receive a Potion of Curiosity. You may hold multiple Potion of Curiosity at once.
+Each night, you receive a Potion of Curiosity. You may hold multiple Potion of Curiosity at once even if drunk or poisoned.
 
 ## ![](Distiller/.image_big.png) [Distiller](Distiller)
 Once per game at night, you may name a type of Potion; you learn each player that holds that type of potion.
@@ -70,7 +70,7 @@ At the beginning of the 1st day you may publicly name a future day. That day you
 You start knowing what demon is in-play. You are safe from minions.
 
 ## ![](Tasseograph/.image_big.png) [Tasseograph](Tasseograph)
-Each night, you learn if a Demon or a player holding a Potion of Terror was choosen by a player tonight.
+Each night, you learn if a Demon was chosen by a good player tonight.
 
 ## ![](Toll%20Inspector/.image_big.png) [Toll Inspector](Toll%20Inspector)
 Each night, you learn how many potions of each alignment have been received since dawn.
