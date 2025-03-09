@@ -5,8 +5,16 @@
   "firstNightReminder": "",
   "otherNight": 0,
   "otherNightReminder": "",
-  "reminders": [],
-  "remindersGlobal": [],
+  "reminders": [
+    "Trade 1",
+    "Trade 2",
+    "Trade 3"
+  ],
+  "remindersGlobal": [
+    "Trade 1",
+    "Trade 2",
+    "Trade 3"
+  ],
   "setup": false,
   "name": "Instructions",
   "team": "fabled",

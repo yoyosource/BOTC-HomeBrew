@@ -12,6 +12,6 @@
   "setup": false,
   "name": "Glassblower",
   "team": "fabled",
-  "ability": "When Glassblower enters play, tonight each player receives a potion.",
+  "ability": "On each player's first night, they receive a potion.",
   "flavor": "Sometimes, the most beautiful creations are born from shattered dreams."
 }

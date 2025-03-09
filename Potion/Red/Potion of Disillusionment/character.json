@@ -12,5 +12,6 @@
   "setup": false,
   "name": "Disillusionment",
   "team": "potion red",
-  "ability": "This potion breaks when an evil player targets you and does not break on death. When this potion breaks the last evil player that targeted you tonight may change to an out of play character of the same type."
+  "ability": "This potion breaks when an evil player targets you and does not break on death. When this potion breaks the last evil player that targeted you tonight may change to an out of play character of the same type.",
+  "howtorun": "Demons breaking Disillusionment themselves cannot kill a second time in a the night."
 }

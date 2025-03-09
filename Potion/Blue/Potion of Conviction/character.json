@@ -5,12 +5,14 @@
   "firstNightReminder": "",
   "otherNight": 0,
   "otherNightReminder": "",
-  "reminders": [],
+  "reminders": [
+    "+1 vote"
+  ],
   "remindersGlobal": [
     "Conviction"
   ],
   "setup": false,
   "name": "Conviction",
   "team": "potion blue",
-  "ability": "Your vote count secretly increases by 1."
+  "ability": "During the day you may tell the storyteller (publicly or privately) that you want to break this potion; your vote count secretly increases by 1 till dusk."
 }
