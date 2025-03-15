@@ -35,6 +35,7 @@ public class Generator {
             "Demon",
             "Fabled",
             "Traveller",
+            "Special",
             "Potion"
     };
 
