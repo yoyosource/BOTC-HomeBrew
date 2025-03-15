@@ -12,5 +12,5 @@
   "setup": false,
   "name": "Empathy",
   "team": "potion blue",
-  "ability": "Each night you learn the types of potions your neighbors are holding combined."
+  "ability": "Each night you learn the types of potions your alive neighbors are holding combined."
 }
