@@ -90,6 +90,8 @@
 - ![](Traveller/Socialist/.image_small.png) [Socialist](Traveller/Socialist)
 - ![](Traveller/Toxicologist/.image_small.png) [Toxicologist](Traveller/Toxicologist)
 
+## [Special](Special) (0)
+
 ## [Potion](Potion) (17)
 ### [Blue](Potion/Blue) (9)
 - ![](Potion/Blue/Potion%20of%20Conviction/.image_small.png) [Potion of Conviction](Potion/Blue/Potion%20of%20Conviction)
