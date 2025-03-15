@@ -16,7 +16,7 @@ Each night, you learn 1 player of each character type, until there are no more t
 Each night*, choose 2 living players (not yourself); they each receive a good potion and one can’t die tonight.
 
 ## ![](Clerk/.image_big.png) [Clerk](Clerk)
-Each night, you learn a type of potion that an evil player has received tonight.
+Each night, you learn a type of potion that an evil player (not a traveller) has received tonight.
 
 ## ![](Confessor/.image_big.png) [Confessor](Confessor)
 Each night, choose another player; you learn if the demon is seated closer to you than them.
@@ -55,7 +55,7 @@ Each night*, you may choose a unique dead player: You gain their ability until d
 Your neighbours are always healthy and uninfected.
 
 ## ![](Philanthropist/.image_big.png) [Philanthropist](Philanthropist)
-Each night*, choose either 1) receive a good potion, or 2) break one of your good potions to choose a dead player and learn their character. [+1 Outsider]
+Each night*, choose either 1) receive a good potion, or 2) break one of your good potions to choose a dead player and learn their character. [+0 or +1 Outsiders]
 
 ## ![](Proud%20Warrior/.image_big.png) [Proud Warrior](Proud%20Warrior)
 Each night, choose a player; if they are executed tomorrow, you learn their alignment the following night.
