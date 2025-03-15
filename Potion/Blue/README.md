@@ -7,7 +7,7 @@ During the day you may tell the storyteller (publicly or privately) that you wan
 During the day you may visit the storyteller and break this potion, to learn a player that is either a good or bad execution for your team today.
 
 ## ![](Potion%20of%20Empathy/.image_big.png) [Potion of Empathy](Potion%20of%20Empathy)
-Each night you learn the types of potions your neighbors are holding combined.
+Each night you learn the types of potions your alive neighbors are holding combined.
 
 ## ![](Potion%20of%20Generosity/.image_big.png) [Potion of Generosity](Potion%20of%20Generosity)
 Each night you may break this potion and name another potion; If you are holding the named potion it is nullified and breaks.
