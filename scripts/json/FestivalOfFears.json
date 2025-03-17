@@ -70,19 +70,22 @@
         "color": "#1f65ff",
         "assignable": false,
         "showRemindersOnGlobal": true,
-        "showRemindersInNightOrder": true
+        "showRemindersInNightOrder": true,
+        "goodAndEvilImages": false
       },
       "potion red": {
         "color": "#ce0100",
         "assignable": false,
         "showRemindersOnGlobal": true,
-        "showRemindersInNightOrder": true
+        "showRemindersInNightOrder": true,
+        "goodAndEvilImages": false
       },
       "special": {
         "color": "#ffffff",
         "assignable": true,
         "showRemindersOnGlobal": false,
-        "showRemindersInNightOrder": false
+        "showRemindersInNightOrder": false,
+        "goodAndEvilImages": true
       }
     },
     "rooms": [
