@@ -1,0 +1,14 @@
+{
+  "id": "unliving",
+  "edition": "custom",
+  "firstNight": 0,
+  "firstNightReminder": "",
+  "otherNight": 0,
+  "otherNightReminder": "",
+  "reminders": [],
+  "remindersGlobal": [],
+  "setup": false,
+  "name": "Unliving",
+  "team": "special",
+  "ability": "Potions you receive break, and you don't learn what they were."
+}
