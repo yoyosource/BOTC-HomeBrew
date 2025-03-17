@@ -32,7 +32,8 @@ jobs:
           if git status | grep -E 'add|modified'
           then
             set -e
-            git add *
+            git add **/*.png
+            git add **/README.md
             git commit -am "Automatic README.md generation"
             git push
           else
