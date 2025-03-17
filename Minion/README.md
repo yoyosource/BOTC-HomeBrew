@@ -37,7 +37,7 @@ On your first night, choose a good player: you learn their character & have thei
 Each day, before nominations, you may publicly choose a player (not yourself): they die. If executed, you only die if you lose roshambo.
 
 ## ![](Reanimator/.image_big.png) [Reanimator](Reanimator)
-Once per game at night*, choose a dead player (not a Demon); they are resurrected. While alive, if they are not "mad" that their team is winning, they and another player might be executed.
+Once per game at night*, choose a dead player; they are resurrected as an evil Unliving.
 
 ## ![](Seer/.image_big.png) [Seer](Seer)
 Each night* chose a good player; they chose life or death. If they chose life, the demon learns who the Storyteller thinks is the best kill.

@@ -90,7 +90,8 @@
 - ![](Traveller/Socialist/.image_small.png) [Socialist](Traveller/Socialist)
 - ![](Traveller/Toxicologist/.image_small.png) [Toxicologist](Traveller/Toxicologist)
 
-## [Special](Special) (0)
+## [Special](Special) (1)
+- ![](Special/Unliving/.image_small.png) [Unliving](Special/Unliving)
 
 ## [Potion](Potion) (17)
 ### [Blue](Potion/Blue) (9)
