@@ -10,6 +10,6 @@
   "setup": true,
   "name": "Philanthropist",
   "team": "townsfolk",
-  "ability": "Each night*, choose either 1) receive a good potion, or 2) break one of your good potions to choose a dead player and learn their character. [+0 or +1 Outsiders]",
+  "ability": "Each night* you may choose a dead player; learn their character and receive an evil potion. [+0 or +1 Outsiders]",
   "flavor": "The great use of life is to spend it for something that will outlast it."
 }
