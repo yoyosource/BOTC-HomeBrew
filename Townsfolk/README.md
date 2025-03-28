@@ -13,7 +13,7 @@ Each night, choose 3 players and a unique character; you learn if any of them ar
 Each night, you learn 1 player of each character type, until there are no more types to learn. [+1 Outsider]
 
 ## ![](Baptist/.image_big.png) [Baptist](Baptist)
-Each night*, choose 2 living players (not yourself); they each receive a good potion and one can’t die tonight.
+Each night*, choose 2 living players (not yourself); one receives a good potion the other an evil potion and can’t die tonight.
 
 ## ![](Clerk/.image_big.png) [Clerk](Clerk)
 Each night, you learn a type of potion that an evil player (not a traveller) has received tonight.
@@ -40,7 +40,7 @@ Once per game, at night, choose a living player: the Damsel, if chosen, becomes 
 You start knowing an in-play Townsfolk, and have their ability. Either you or they are drunk.
 
 ## ![](Merchant/.image_big.png) [Merchant](Merchant)
-Each night*, choose an alive player and a potion you are holding; they receive it. On your first night you receive 2 potions.
+Each night* you may choose another, alive player and a potion you are holding; they receive it. [You receive 2 Potions]
 
 ## ![](Mourner/.image_big.png) [Mourner](Mourner)
 Each night*, choose a player: if the Demon kills them, you learn a character they neighbor.
@@ -55,7 +55,7 @@ Each night*, you may choose a unique dead player: You gain their ability until d
 Your neighbours are always healthy and uninfected.
 
 ## ![](Philanthropist/.image_big.png) [Philanthropist](Philanthropist)
-Each night*, choose either 1) receive a good potion, or 2) break one of your good potions to choose a dead player and learn their character. [+0 or +1 Outsiders]
+Each night* you may choose a dead player; learn their character and receive an evil potion. [+0 or +1 Outsiders]
 
 ## ![](Proud%20Warrior/.image_big.png) [Proud Warrior](Proud%20Warrior)
 Each night, choose a player; if they are executed tomorrow, you learn their alignment the following night.
