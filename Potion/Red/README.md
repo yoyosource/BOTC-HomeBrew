@@ -16,7 +16,7 @@ You may break this potion in private and choose another player. If you do they a
 When this potion breaks, a player dies tonight*.
 
 ## ![](Potion%20of%20Obsession/.image_big.png) [Potion of Obsession](Potion%20of%20Obsession)
-If you are "mad" that you are a townsfolk, this potion might break and tonight another player receives a potion.
+If you are \"mad\" that you are a townsfolk, this potion might break and tonight another player receives a potion.
 
 ## ![](Potion%20of%20Stress/.image_big.png) [Potion of Stress](Potion%20of%20Stress)
 Each night choose either 1) another alive player to receive this potion, or 2) break this potion; you might register as any character type or alignment and potions you hold register as any other potion type until dusk.
