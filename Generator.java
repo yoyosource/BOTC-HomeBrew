@@ -144,7 +144,7 @@ public class Generator {
         if (file.exists()) {
             if (true) return; // TODO: Implement it properly!
             BufferedReader bufferedReader = new BufferedReader(new FileReader(file));
-            List<String> data = new ArrayList<>(bufferedReader.lines().toList());
+            List<String> data = new ArrayList<>(bufferedReader.lines().collect(Collectors.toList()));
             bufferedReader.close();
 
             int summaryLine = 0;
