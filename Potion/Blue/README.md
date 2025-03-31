@@ -4,7 +4,7 @@
 During the day you may tell the storyteller (publicly or privately) that you want to break this potion; your vote count secretly increases by 1 till dusk.
 
 ## ![](Potion%20of%20Curiosity/.image_big.png) [Potion of Curiosity](Potion%20of%20Curiosity)
-During the day you may visit the storyteller and break this potion, to learn a player that is either a good or bad execution for your team today.
+During the day, visit the storyteller and break this potion; you learn a player that is a non-neutral execution for your team today.
 
 ## ![](Potion%20of%20Empathy/.image_big.png) [Potion of Empathy](Potion%20of%20Empathy)
 Each night you learn the types of potions your alive neighbors are holding combined.
