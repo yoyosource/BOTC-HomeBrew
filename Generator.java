@@ -3,10 +3,8 @@ import java.awt.*;
 import java.awt.image.BufferedImage;
 import java.awt.image.WritableRaster;
 import java.io.*;
-import java.util.ArrayList;
-import java.util.Comparator;
+import java.util.*;
 import java.util.List;
-import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 import java.util.stream.Collectors;
 
@@ -26,6 +24,7 @@ public class Generator {
         private File file;
         private String ability;
         private File image;
+        private Map<String, String> jinxes = new HashMap<>();
     }
 
     private static String[] order = {
@@ -71,7 +70,7 @@ public class Generator {
             character.file = directory;
 
             if (new File(directory, "image.png").exists()) {
-                character.image = directory;;
+                character.image = directory;
             } else {
                 character.image = directory.getParentFile();
             }
@@ -79,10 +78,18 @@ public class Generator {
             String json = new BufferedReader(new FileReader(new File(directory, "character.json")))
                     .lines()
                     .collect(Collectors.joining(""));
-            Matcher matcher = Pattern.compile("\"ability\" *: *\"([^\"]*)\"").matcher(json.replace("\\\"", "\\'"));
-            matcher.results().forEach(matchResult -> {
-                character.ability = json.substring(matchResult.start(1), matchResult.end(1)).replace("\\\"", "\"");
-            });
+            Pattern.compile("\"ability\" *: *\"([^\"]*)\"").matcher(json.replace("\\\"", "\\'"))
+                    .results().forEach(matchResult -> {
+                        character.ability = json.substring(matchResult.start(1), matchResult.end(1));
+                    });
+
+            Pattern.compile("\\{\\s*\"id\" *: *\"([^\"]+)\",\\s*\"reason\" *: *\"([^\"]+)\"}")
+                    .matcher(json.replace("\\\"", "\\'"))
+                    .results().forEach(matchResult -> {
+                        String jinxWith = json.substring(matchResult.start(1), matchResult.end(1));
+                        String reason = json.substring(matchResult.start(2), matchResult.end(2));
+                        character.jinxes.put(jinxWith, reason);
+                    });
 
             characterDirectory.characterList.add(character);
         } else {
@@ -121,6 +128,8 @@ public class Generator {
             bufferedWriter.write("## ![](" + imageBaseLink + (!imageBaseLink.isEmpty() ? "/" : "") + ".image_big.png) [" + character.file.getName() + "](" + character.file.getName().replace(" ", "%20").replace('\\', '/') + ")\n");
             bufferedWriter.write(character.ability + "\n");
             bufferedWriter.write("\n");
+
+            generateCharacterReadme(character);
         }
 
         bufferedWriter.close();
@@ -128,6 +137,76 @@ public class Generator {
         for (CharacterDirectory directory : characterDirectory.directoryList) {
             generate(directory, new File(file, directory.file.getName()));
         }
+    }
+
+    private static void generateCharacterReadme(Character character) throws IOException {
+        File file = new File(character.file, "README.md");
+        if (file.exists()) {
+            if (true) return; // TODO: Implement it properly!
+            BufferedReader bufferedReader = new BufferedReader(new FileReader(file));
+            List<String> data = new ArrayList<>(bufferedReader.lines().toList());
+            bufferedReader.close();
+
+            int summaryLine = 0;
+            int jinxLine = 0;
+            for (int i = 0; i < data.size(); i++) {
+                String line = data.get(i);
+
+                if (line.equals("## Summary")) {
+                    summaryLine = i;
+                }
+                if (i == summaryLine + 1 && line.startsWith("> ")) {
+                    data.set(i, "> " + character.ability);
+                }
+
+                if (line.equals("## Jinxes")) {
+                    jinxLine = i;
+                }
+                if (i > jinxLine && jinxLine != 0) {
+                    if (line.startsWith("## ")) {
+                        if (character.jinxes.isEmpty()) {
+                            data.remove(jinxLine);
+                            i--;
+                        }
+                        jinxLine = 0;
+                        continue;
+                    }
+                    data.remove(jinxLine + 1);
+                }
+            }
+
+            if (!character.jinxes.isEmpty()) {
+                for (Map.Entry<String, String> entry : character.jinxes.entrySet()) {
+                    data.add("### " + entry.getKey());
+                    data.add(entry.getValue());
+                }
+            }
+
+            BufferedWriter bufferedWriter = new BufferedWriter(new FileWriter(file));
+            for (String line : data) {
+                bufferedWriter.write(line);
+                bufferedWriter.newLine();
+            }
+            bufferedWriter.close();
+            return;
+        }
+
+        BufferedWriter bufferedWriter = new BufferedWriter(new FileWriter(file));
+        bufferedWriter.write("# " + character.file.getName() + "\n");
+        bufferedWriter.write("<img src=\"https://raw.githubusercontent.com/yoyosource/BOTC-HomeBrew/master/" + character.image.getPath().substring(2) + "/image.png\" alt=\"drawing\" width=\"200\"/>\\\n");
+        bufferedWriter.write("Authors: \n");
+        bufferedWriter.write("\n");
+        bufferedWriter.write("## Summary\n");
+        bufferedWriter.write("> " + character.ability + "\n");
+        bufferedWriter.write("\n");
+        if (!character.jinxes.isEmpty()) {
+            bufferedWriter.write("## Jinxes\n");
+            for (Map.Entry<String, String> entry : character.jinxes.entrySet()) {
+                bufferedWriter.write("### " + entry.getKey() + "\n");
+                bufferedWriter.write(entry.getValue() + "\n");
+            }
+        }
+        bufferedWriter.close();
     }
 
     private static void generate(CharacterDirectory parent, CharacterDirectory characterDirectory, BufferedWriter bufferedWriter, int depth) throws IOException {
