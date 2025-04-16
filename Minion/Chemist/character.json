@@ -10,6 +10,6 @@
   "setup": false,
   "name": "Chemist",
   "team": "minion",
-  "ability": "Each night, choose a player; receive one of their potions. They receive a different potion.",
+  "ability": "Each night, choose a player; receive a copy of one their potion. Theirs becomes a different potion.",
   "flavor": "Life is just chemicals. A drop here, a drip there, everything's changed."
 }

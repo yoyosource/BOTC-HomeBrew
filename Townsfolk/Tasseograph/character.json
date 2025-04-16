@@ -12,6 +12,6 @@
   "setup": false,
   "name": "Tasseograph",
   "team": "townsfolk",
-  "ability": "Each night, you learn if a Demon was chosen by a good player tonight.",
+  "ability": "Each night*, you learn if a Demon was chosen by a good player tonight.",
   "flavor": "I enjoy a quiet evening of reading a book and a cup of tea."
 }
