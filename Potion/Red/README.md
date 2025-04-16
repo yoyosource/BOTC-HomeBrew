@@ -7,7 +7,7 @@ The holder thinks this is another potion of any alignment but it is not.
 When this potion breaks the Demon learns a not in play Character. If you nominate this potion breaks. At dusk this potion is nullified and breaks.
 
 ## ![](Potion%20of%20Disillusionment/.image_big.png) [Potion of Disillusionment](Potion%20of%20Disillusionment)
-This potion breaks when an evil player targets you and does not break on death. When this potion breaks the last evil player that targeted you tonight may change to an out of play character of the same type.
+When you are targeted by an evil player, if you are good, this potion breaks; they learn your character.
 
 ## ![](Potion%20of%20Envy/.image_big.png) [Potion of Envy](Potion%20of%20Envy)
 You may break this potion in private and choose another player. If you do they are poisoned until dawn.

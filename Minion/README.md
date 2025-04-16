@@ -1,7 +1,7 @@
 # Minion
 
 ## ![](Chemist/.image_big.png) [Chemist](Chemist)
-Each night, choose a player; receive one of their potions. They receive a different potion.
+Each night, choose a player; receive a copy of one their potion. Theirs becomes a different potion.
 
 ## ![](Contaminator/.image_big.png) [Contaminator](Contaminator)
 Once per game at night* choose a type of potion; each player holding that type of potion might die.
@@ -43,5 +43,5 @@ Once per game at night*, choose a dead player; they are resurrected as an evil U
 Each night* chose a good player; they chose life or death. If they chose life, the demon learns who the Storyteller thinks is the best kill.
 
 ## ![](Thug/.image_big.png) [Thug](Thug)
-Each night, choose a player and a potion; tomorrow they are \"mad\" that they are holding it or they might receive it.
+Each night, choose a living player and a potion; tomorrow they are \"mad\" that they are holding it or they might receive it.
 

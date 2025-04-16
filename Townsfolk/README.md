@@ -70,7 +70,7 @@ At the beginning of the 1st day you may publicly name a future day. That day you
 You start knowing what demon is in-play. You are safe from minions.
 
 ## ![](Tasseograph/.image_big.png) [Tasseograph](Tasseograph)
-Each night, you learn if a Demon was chosen by a good player tonight.
+Each night*, you learn if a Demon was chosen by a good player tonight.
 
 ## ![](Toll%20Inspector/.image_big.png) [Toll Inspector](Toll%20Inspector)
 Each night, you learn how many potions of each alignment have been received since dawn.

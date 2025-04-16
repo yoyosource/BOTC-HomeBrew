@@ -1,7 +1,7 @@
 # Blue
 
 ## ![](Potion%20of%20Conviction/.image_big.png) [Potion of Conviction](Potion%20of%20Conviction)
-During the day you may tell the storyteller (publicly or privately) that you want to break this potion; your vote count secretly increases by 1 till dusk.
+During the day you may tell the storyteller privately that you want to break this potion and name a living player; you learn all potions they hold.
 
 ## ![](Potion%20of%20Curiosity/.image_big.png) [Potion of Curiosity](Potion%20of%20Curiosity)
 During the day, visit the storyteller and break this potion; you learn a player that is a non-neutral execution for your team today.
@@ -10,7 +10,7 @@ During the day, visit the storyteller and break this potion; you learn a player 
 Each night you learn the types of potions your alive neighbors are holding combined.
 
 ## ![](Potion%20of%20Generosity/.image_big.png) [Potion of Generosity](Potion%20of%20Generosity)
-Each night you may break this potion and name another potion; If you are holding the named potion it is nullified and breaks.
+Each night you may break this potion and name another potion; If you are holding that type of potion it becomes a potion of the opposite alignment.
 
 ## ![](Potion%20of%20Hope/.image_big.png) [Potion of Hope](Potion%20of%20Hope)
 If you would die while holding this potion, it breaks instead.
