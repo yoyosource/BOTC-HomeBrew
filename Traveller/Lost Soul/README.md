@@ -4,10 +4,9 @@
 - Marcus
 
 ## Summary
+> "Each night* you may choose a player (not yourself); their character is announced. If you choose an Evil player the character announced is arbitrary."
 
-"Each night* you may choose a player (not yourself); their character is announced. If you choose an Evil player the character announced is arbitrary."
-
-Each night* the Lost Soul may choose a player which character will be announced loudly. If they choose an Evil player the character which will be announced is gonna be arbitrary.
+Each night except the first the Lost Soul may choose a player which character will be announced loudly. If they choose an Evil player the character which will be announced is gonna be arbitrary.
 
 ## How to run
 
