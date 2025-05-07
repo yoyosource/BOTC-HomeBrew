@@ -27,6 +27,9 @@ Each night, you receive a Potion of Curiosity. You may hold multiple Potion of C
 ## ![](Distiller/.image_big.png) [Distiller](Distiller)
 Once per game at night, you may name a type of Potion; you learn each player that holds that type of potion.
 
+## ![](Druid/.image_big.png) [Druid](Druid)
+Each night* you may choose a dead player; learn their character and receive an evil potion. [+0 or +1 Outsiders]
+
 ## ![](.image_big.png) [Enumerator](Enumerator)
 Each day you may publicly name 3 good characters. If you do, tonight you learn how many are part of evil bluffs.
 
@@ -53,9 +56,6 @@ Each night*, you may choose a unique dead player: You gain their ability until d
 
 ## ![](Pale%20Knight/.image_big.png) [Pale Knight](Pale%20Knight)
 Your neighbours are always healthy and uninfected.
-
-## ![](Druid/.image_big.png) [Philanthropist](Druid)
-Each night* you may choose a dead player; learn their character and receive an evil potion. [+0 or +1 Outsiders]
 
 ## ![](Proud%20Warrior/.image_big.png) [Proud Warrior](Proud%20Warrior)
 Each night, choose a player; if they are executed tomorrow, you learn their alignment the following night.
