@@ -5,14 +5,10 @@
   "firstNightReminder": "",
   "otherNight": 0,
   "otherNightReminder": "",
-  "reminders": [
-    "Trade 1",
-    "Trade 2",
-    "Trade 3"
-  ],
+  "reminders": [],
   "remindersGlobal": [],
   "setup": false,
   "name": "Instructions",
   "team": "fabled",
-  "ability": "When a player is about to die all their potions break before death. Every player knows which potion they receive. 2 living players may choose to trade all potions, and Townsfolk that do lose their ability till dawn. A drunk/poisoned player might still receive potions from the ability they believe they have, but those potions malfunction. [+0/+1 Storyteller]"
+  "ability": "When a player is about to die or be exiled all their potions break before death. Every player knows which potion they receive. A drunk/poisoned player might still receive potions from the ability they believe they have, but those potions malfunction. [+0/+1 Storyteller]"
 }

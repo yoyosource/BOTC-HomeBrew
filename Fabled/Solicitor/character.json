@@ -1,0 +1,18 @@
+{
+  "id": "solicitor",
+  "edition": "custom",
+  "firstNight": 0,
+  "firstNightReminder": "",
+  "otherNight": 0,
+  "otherNightReminder": "",
+  "reminders": [
+    "Trade 1",
+    "Trade 2",
+    "Trade 3"
+  ],
+  "remindersGlobal": [],
+  "setup": false,
+  "name": "Solicitor",
+  "team": "fabled",
+  "ability": "2 living players may choose to trade all potions, and Townsfolk that do lose their ability till dawn. If either player is dead when the trade would happen, no trade occurs and no player loses their ability."
+}

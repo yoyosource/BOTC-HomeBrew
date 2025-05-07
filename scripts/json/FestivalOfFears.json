@@ -34,7 +34,7 @@
       "glassblower",
       "caetrum",
       "potionofobsession",
-      "potioninstructions",
+      "solicitor",
       "harlot",
       "poisoner",
       "butterfingers",
@@ -147,6 +147,7 @@
 
   "potioninstructions",
   "glassblower",
+  "solicitor",
 
   "unliving"
 ]
