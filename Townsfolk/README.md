@@ -54,7 +54,7 @@ Each night*, you may choose a unique dead player: You gain their ability until d
 ## ![](Pale%20Knight/.image_big.png) [Pale Knight](Pale%20Knight)
 Your neighbours are always healthy and uninfected.
 
-## ![](Philanthropist/.image_big.png) [Philanthropist](Philanthropist)
+## ![](Druid/.image_big.png) [Philanthropist](Druid)
 Each night* you may choose a dead player; learn their character and receive an evil potion. [+0 or +1 Outsiders]
 
 ## ![](Proud%20Warrior/.image_big.png) [Proud Warrior](Proud%20Warrior)

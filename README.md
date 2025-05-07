@@ -19,7 +19,7 @@
 - ![](Townsfolk/Night%20Guardian/.image_small.png) [Night Guardian](Townsfolk/Night%20Guardian)
 - ![](Townsfolk/Obatala/.image_small.png) [Obatala](Townsfolk/Obatala)
 - ![](Townsfolk/Pale%20Knight/.image_small.png) [Pale Knight](Townsfolk/Pale%20Knight)
-- ![](Townsfolk/Philanthropist/.image_small.png) [Philanthropist](Townsfolk/Philanthropist)
+- ![](Townsfolk/Druid/.image_small.png) [Philanthropist](Townsfolk/Druid)
 - ![](Townsfolk/Proud%20Warrior/.image_small.png) [Proud Warrior](Townsfolk/Proud%20Warrior)
 - ![](Townsfolk/Shopkeeper/.image_small.png) [Shopkeeper](Townsfolk/Shopkeeper)
 - ![](Townsfolk/Spirited%20Youth/.image_small.png) [Spirited Youth](Townsfolk/Spirited%20Youth)

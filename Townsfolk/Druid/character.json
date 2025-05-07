@@ -1,0 +1,15 @@
+{
+  "id": "druid",
+  "edition": "custom",
+  "firstNight": 0,
+  "firstNightReminder": "",
+  "otherNight": 0,
+  "otherNightReminder": "",
+  "reminders": [],
+  "remindersGlobal": [],
+  "setup": true,
+  "name": "Druid",
+  "team": "townsfolk",
+  "ability": "Each night* you may choose a dead player; learn their character and receive an evil potion. [+0 or +1 Outsiders]",
+  "flavor": "The great use of life is to spend it for something that will outlast it."
+}
