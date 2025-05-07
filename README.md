@@ -75,11 +75,12 @@
 - ![](Demon/Troupe%20Master/.image_small.png) [Troupe Master](Demon/Troupe%20Master)
 - ![](Demon/Wraith/.image_small.png) [Wraith](Demon/Wraith)
 
-## [Fabled](Fabled) (4)
+## [Fabled](Fabled) (5)
 - ![](Fabled/Doppelgaenger/.image_small.png) [Doppelgaenger](Fabled/Doppelgaenger)
 - ![](Fabled/Glassblower/.image_small.png) [Glassblower](Fabled/Glassblower)
 - ![](Fabled/Igor/.image_small.png) [Igor](Fabled/Igor)
 - ![](Fabled/Potion%20Instructions/.image_small.png) [Potion Instructions](Fabled/Potion%20Instructions)
+- ![](Fabled/Solicitor/.image_small.png) [Solicitor](Fabled/Solicitor)
 
 ## [Traveller](Traveller) (7)
 - ![](Traveller/Arsonist/.image_small.png) [Arsonist](Traveller/Arsonist)
