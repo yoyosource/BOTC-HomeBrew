@@ -16,7 +16,7 @@ Each night you may break this potion and name another potion; If you are holding
 If you would die while holding this potion, it breaks instead.
 
 ## ![](Potion%20of%20Joy/.image_big.png) [Potion of Joy](Potion%20of%20Joy)
-When you die, tonight you are woken to choose a player: you learn their alignment.
+When you die at night, tonight you are woken to choose a player: you learn their alignment.
 
 ## ![](Potion%20of%20Love/.image_big.png) [Potion of Love](Potion%20of%20Love)
 When you receive this potion, tonight a player of your alignment learns your character.

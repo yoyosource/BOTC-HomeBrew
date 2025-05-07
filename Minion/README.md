@@ -1,7 +1,7 @@
 # Minion
 
 ## ![](Chemist/.image_big.png) [Chemist](Chemist)
-Each night, choose a player; receive a copy of one their potion. Theirs becomes a different potion.
+Each night, choose a player; receive a copy of one of their potions. Theirs become a different potion.
 
 ## ![](Contaminator/.image_big.png) [Contaminator](Contaminator)
 Once per game at night* choose a type of potion; each player holding that type of potion might die.
