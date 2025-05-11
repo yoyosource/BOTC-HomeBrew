@@ -10,6 +10,6 @@
   "setup": false,
   "name": "Botanist",
   "team": "townsfolk",
-  "ability": "You start the game knowing 2 good characters; 1 is in play and 1 is a demon bluff.",
+  "ability": "You start knowing 2 good characters; 1 is in play and 1 is a demon bluff.",
   "flavor": ""
 }
