@@ -46,7 +46,7 @@ Once per game, at night, choose a living player: the Damsel, if chosen, becomes 
 You start knowing an in-play Townsfolk, and have their ability. Either you or they are drunk.
 
 ## ![](Merchant/.image_big.png) [Merchant](Merchant)
-Each night* you may choose a potion you are holding, and a living player (not yourself); they receive it. [You receive 2 Potions]
+Each night* you may choose a potion you think you are holding, and a living player (not yourself); they receive it. [You receive 2 Potions]
 
 ## ![](Mourner/.image_big.png) [Mourner](Mourner)
 Each night*, choose a player: if the Demon kills them, you learn a character they neighbor.
