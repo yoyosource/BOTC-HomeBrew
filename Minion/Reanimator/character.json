@@ -4,7 +4,7 @@
   "firstNight": 0,
   "firstNightReminder": "",
   "otherNight": 0,
-  "otherNightReminder": "",
+  "otherNightReminder": "If the Reanimator does not have the 'Used' Reminder token on them. Ask them if they wish to choose a dead player. Put them to sleep. Wake the chosen player and show them the 'You are' card and the chosen character token and the thumbs down evil signal.",
   "reminders": [
     "Used"
   ],

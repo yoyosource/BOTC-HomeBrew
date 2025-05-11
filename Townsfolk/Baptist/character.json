@@ -2,9 +2,9 @@
   "id": "baptist",
   "edition": "custom",
   "firstNight": 0,
-  "firstNightReminder": "",
+  "firstNightReminder": "Ask the Baptist to choose 2 players (not themselves). Then, put the Baptist to sleep. Decide on which player receives which kind of potion. Put the 'cannot die' reminder on the player receiving the evil potion. Wake each player receiving a potion and tell them which one they received.",
   "otherNight": 0,
-  "otherNightReminder": "",
+  "otherNightReminder": "Ask the Baptist to choose 2 players (not themselves). Then, put the Baptist to sleep. Decide on which player receives which kind of potion. Put the 'cannot die' reminder on the player receiving the evil potion. Wake each player receiving a potion and tell them which one they received.",
   "reminders": [
     "Cannot die"
   ],

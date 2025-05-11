@@ -2,9 +2,9 @@
   "id": "potionofstress",
   "edition": "custom",
   "firstNight": 0,
-  "firstNightReminder": "",
+  "firstNightReminder": "Ask them to choose another player or themselves. If they choose another player put them back to sleep and wake the chosen player then point towards the Potion of Stress. If the holder choose themselves remove the Potion of Stress from them and add the 'Stressed' Reminder token on them.",
   "otherNight": 0,
-  "otherNightReminder": "",
+  "otherNightReminder": "Ask them to choose another player or themselves. If they choose another player put them back to sleep and wake the chosen player then point towards the Potion of Stress. If the holder choose themselves remove the Potion of Stress from them and add the 'Stressed' Reminder token on them.",
   "reminders": [
     "Stressed"
   ],

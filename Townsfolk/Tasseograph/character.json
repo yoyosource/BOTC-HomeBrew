@@ -4,7 +4,7 @@
   "firstNight": 0,
   "firstNightReminder": "",
   "otherNight": 0,
-  "otherNightReminder": "",
+  "otherNightReminder": "If the Demon was chosen by any good player tonight, show the Tasseograph a thumbs up otherwise show them a thumbs down.",
   "reminders": [
     "Targeted"
   ],

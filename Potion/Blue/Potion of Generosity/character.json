@@ -2,9 +2,9 @@
   "id": "potionofgenerosity",
   "edition": "custom",
   "firstNight": 0,
-  "firstNightReminder": "",
+  "firstNightReminder": "Ask them if they wish to name another Potion. If they do remove the Potion of Generosity. If they are holding the named potion remove it and tell them a Potion of the opposite alignment they receive.",
   "otherNight": 0,
-  "otherNightReminder": "",
+  "otherNightReminder": "Ask them if they wish to name another Potion. If they do remove the Potion of Generosity. If they are holding the named potion remove it and tell them a Potion of the opposite alignment they receive.",
   "reminders": [],
   "remindersGlobal": [
     "Generosity"

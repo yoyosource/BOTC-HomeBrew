@@ -4,7 +4,7 @@
   "firstNight": 0,
   "firstNightReminder": "",
   "otherNight": 0,
-  "otherNightReminder": "",
+  "otherNightReminder": "Ask them if they wish to choose a dead player. If they do tell them that players character and tell them an evil Potion they receive.",
   "reminders": [],
   "remindersGlobal": [],
   "setup": true,

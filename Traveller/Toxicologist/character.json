@@ -4,10 +4,9 @@
   "firstNight": 0,
   "firstNightReminder": "",
   "otherNight": 0,
-  "otherNightReminder": "",
+  "otherNightReminder": "Ask them to choose a player. Point to 2 Potions on the Potion Sheet, one of them the chosen player holds. Let them choose one of them and break the chosen Potion.",
   "reminders": [],
-  "remindersGlobal": [
-  ],
+  "remindersGlobal": [],
   "setup": false,
   "name": "Toxicologist",
   "team": "traveler",

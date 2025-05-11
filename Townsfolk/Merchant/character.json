@@ -4,12 +4,12 @@
   "firstNight": 0,
   "firstNightReminder": "",
   "otherNight": 0,
-  "otherNightReminder": "",
+  "otherNightReminder": "Ask them if they want to choose a potion they are currently holding, and a player. Put them back to sleep. If they choose a Potion they hold wake the chosen player and tell them that they received that potion and remove the Potion from the Merchant.",
   "reminders": [],
   "remindersGlobal": [],
   "setup": false,
   "name": "Merchant",
   "team": "townsfolk",
-  "ability": "Each night* you may choose a potion you are holding, and a living player (not yourself); they receive it. [You receive 2 Potions]",
+  "ability": "Each night* you may choose a potion you think you are holding, and a living player (not yourself); they receive it. [You receive 2 Potions]",
   "flavor": "I will buy with you, sell with you, talk with you, walk with you, and so following, but I will not eat with you, drink with you, nor pray with you."
 }

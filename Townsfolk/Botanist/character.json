@@ -2,7 +2,7 @@
   "id": "botanist",
   "edition": "custom",
   "firstNight": 0,
-  "firstNightReminder": "",
+  "firstNightReminder": "Show them the tokens of 2 good characters. One which is in play and one which is a Demon bluff.",
   "otherNight": 0,
   "otherNightReminder": "",
   "reminders": [],

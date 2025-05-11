@@ -2,9 +2,9 @@
   "id": "distiller",
   "edition": "custom",
   "firstNight": 0,
-  "firstNightReminder": "",
+  "firstNightReminder": "Ask if the Distiller wants to use their ability. If they do ask them to choose a type of Potion. Point to every player holding that Type of Potion and put down the Reminder 'Used' on them.",
   "otherNight": 0,
-  "otherNightReminder": "",
+  "otherNightReminder": "If the Distiller does not have the 'Used' Reminder token on them. Ask if the Distiller wants to use their ability. If they do ask them to choose a type of Potion. Point to every player holding that Type of Potion and put down the Reminder 'Used' on them.",
   "reminders": [
     "Used"
   ],

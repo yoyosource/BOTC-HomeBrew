@@ -2,9 +2,9 @@
   "id": "student",
   "edition": "custom",
   "firstNight": 0,
-  "firstNightReminder": "",
+  "firstNightReminder": "Point at every Potion on the Potion Sheet that the Student is holding.",
   "otherNight": 0,
-  "otherNightReminder": "",
+  "otherNightReminder": "Point at every Potion on the Potion Sheet that the Student is holding.",
   "reminders": [],
   "remindersGlobal": [
   ],

@@ -4,7 +4,7 @@
   "firstNight": 0,
   "firstNightReminder": "",
   "otherNight": 0,
-  "otherNightReminder": "",
+  "otherNightReminder": "If not nullified, wake the Demon and point towards a not in play character token.",
   "reminders": [
     "Learn Character"
   ],

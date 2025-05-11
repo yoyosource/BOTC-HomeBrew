@@ -4,7 +4,7 @@
   "firstNight": 0,
   "firstNightReminder": "",
   "otherNight": 0,
-  "otherNightReminder": "",
+  "otherNightReminder": "Ask the Commira to choose 3 living players. Then ask them to choose a single player to die and mark the player with the 'Dead' Reminder. Put them to sleep. Wake the first three players and point towards the Potion they received.",
   "reminders": [
     "Dead",
     "Potions Broken"

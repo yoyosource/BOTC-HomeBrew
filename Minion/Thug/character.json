@@ -2,9 +2,9 @@
   "id": "thug",
   "edition": "custom",
   "firstNight": 0,
-  "firstNightReminder": "",
+  "firstNightReminder": "Ask them to choose a living player and a type of potion. Put them to sleep. Wake the chosen player and show them the 'This character selected you' token, then the Thug token and point to the chosen Potion on the Potion Sheet.",
   "otherNight": 0,
-  "otherNightReminder": "",
+  "otherNightReminder": "Ask them to choose a living player and a type of potion. Put them to sleep. Wake the chosen player and show them the 'This character selected you' token, then the Thug token and point to the chosen Potion on the Potion Sheet.",
   "reminders": [
     "Mad"
   ],

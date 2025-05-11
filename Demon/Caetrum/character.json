@@ -4,7 +4,7 @@
   "firstNight": 0,
   "firstNightReminder": "",
   "otherNight": 0,
-  "otherNightReminder": "",
+  "otherNightReminder": "Ask them to choose a player to die and mark that player with the 'Dead' Reminder. Put them to sleep. You as the Storyteller can now choose to 'save' a Potion held by the dead player by passing it onto another living player. If you do wake that player and tell them that they received that Potion. Put them back to sleep. You as the storyteller can choose to break any 1 potion held by a player.",
   "reminders": [
     "Dead"
   ],

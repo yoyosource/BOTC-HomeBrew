@@ -4,11 +4,12 @@
   "firstNight": 0,
   "firstNightReminder": "",
   "otherNight": 0,
-  "otherNightReminder": "",
+  "otherNightReminder": "Remove any 'No Ability' Reminder token. Put the 'No Ability' Reminder on any Townsfolk with any 'Trade' Reminder token on them. Wake each player with a 'Trade' Reminder on them and tell them they have received the Potions of the player with the corresponding 'Trade' Reminder on them.",
   "reminders": [
     "Trade 1",
     "Trade 2",
-    "Trade 3"
+    "Trade 3",
+    "No Ability"
   ],
   "remindersGlobal": [],
   "setup": false,

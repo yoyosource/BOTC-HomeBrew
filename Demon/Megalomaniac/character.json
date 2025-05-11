@@ -4,7 +4,7 @@
   "firstNight": 0,
   "firstNightReminder": "",
   "otherNight": 0,
-  "otherNightReminder": "",
+  "otherNightReminder": "Ask them to choose a player to die and mark that player with the 'Dead' Reminder. Put them to sleep. If no one is holding a Potion of Terror. Wake up a living player and tell them that they received a Potion of Terror.",
   "reminders": [
     "Dead"
   ],
