@@ -16,7 +16,7 @@ Each night, you learn 1 player of each character type, until there are no more t
 Each night*, choose 2 living players (not yourself); one receives a good potion the other an evil potion and can’t die tonight.
 
 ## ![](Botanist/.image_big.png) [Botanist](Botanist)
-You start the game knowing 2 good characters; 1 is in play and 1 is a demon bluff.
+You start knowing 2 good characters; 1 is in play and 1 is a demon bluff.
 
 ## ![](Clerk/.image_big.png) [Clerk](Clerk)
 Each night, you learn a type of potion that an evil player (not a traveller) has received tonight.
