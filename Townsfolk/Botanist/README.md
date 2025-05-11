@@ -3,5 +3,5 @@
 Authors: 
 
 ## Summary
-> You start the game knowing 2 good characters; 1 is in play and 1 is a demon bluff.
+> You start knowing 2 good characters; 1 is in play and 1 is a demon bluff.
 
