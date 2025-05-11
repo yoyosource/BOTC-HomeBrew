@@ -1,11 +1,12 @@
 # Homebrew
 
-## [Townsfolk](Townsfolk) (27)
+## [Townsfolk](Townsfolk) (28)
 - ![](Townsfolk/Anthropomancer/.image_small.png) [Anthropomancer](Townsfolk/Anthropomancer)
 - ![](Townsfolk/Apothecary/.image_small.png) [Apothecary](Townsfolk/Apothecary)
 - ![](Townsfolk/Auric/.image_small.png) [Auric](Townsfolk/Auric)
 - ![](Townsfolk/.image_small.png) [Balloonist-OLD](Townsfolk/Balloonist-OLD)
 - ![](Townsfolk/Baptist/.image_small.png) [Baptist](Townsfolk/Baptist)
+- ![](Townsfolk/Botanist/.image_small.png) [Botanist](Townsfolk/Botanist)
 - ![](Townsfolk/Clerk/.image_small.png) [Clerk](Townsfolk/Clerk)
 - ![](Townsfolk/Confessor/.image_small.png) [Confessor](Townsfolk/Confessor)
 - ![](Townsfolk/Connoisseur/.image_small.png) [Connoisseur](Townsfolk/Connoisseur)
