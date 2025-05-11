@@ -1,0 +1,15 @@
+{
+  "id": "botanist",
+  "edition": "custom",
+  "firstNight": 0,
+  "firstNightReminder": "",
+  "otherNight": 0,
+  "otherNightReminder": "",
+  "reminders": [],
+  "remindersGlobal": [],
+  "setup": false,
+  "name": "Botanist",
+  "team": "townsfolk",
+  "ability": "You start the game knowing 2 good characters; 1 is in play and 1 is a demon bluff.",
+  "flavor": ""
+}
