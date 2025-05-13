@@ -1,0 +1,18 @@
+{
+  "id": "potionofstress",
+  "edition": "custom",
+  "firstNight": 0,
+  "firstNightReminder": "",
+  "otherNight": 0,
+  "otherNightReminder": "Ask them to choose another player or themselves. If they choose another player put them back to sleep and wake the chosen player then point towards the Potion of Stress. If the holder choose themselves remove the Potion of Stress from them and add the 'Stressed' Reminder token on them.",
+  "reminders": [
+    "Stressed"
+  ],
+  "remindersGlobal": [
+    "Stress"
+  ],
+  "setup": false,
+  "name": "Stress",
+  "team": "potion evil",
+  "ability": "Each night* choose either 1) another alive player to receive this potion, or 2) break this potion; you might register as any character type or alignment and potions you hold register as any other potion type until dusk."
+}

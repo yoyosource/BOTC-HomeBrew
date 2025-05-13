@@ -1,0 +1,16 @@
+{
+  "id": "potionofdisillusionment",
+  "edition": "custom",
+  "firstNight": 0,
+  "firstNightReminder": "Wake the evil player that choose the holder and show them the character token of the holder.",
+  "otherNight": 0,
+  "otherNightReminder": "Wake the evil player that choose the holder and show them the character token of the holder.",
+  "reminders": [],
+  "remindersGlobal": [
+    "Disillusionment"
+  ],
+  "setup": false,
+  "name": "Disillusionment",
+  "team": "potion evil",
+  "ability": "When you are targeted by an evil player, if you are good, this potion breaks; they learn your character."
+}

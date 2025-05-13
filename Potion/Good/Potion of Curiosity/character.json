@@ -1,0 +1,16 @@
+{
+  "id": "potionofcuriosity",
+  "edition": "custom",
+  "firstNight": 0,
+  "firstNightReminder": "",
+  "otherNight": 0,
+  "otherNightReminder": "",
+  "reminders": [],
+  "remindersGlobal": [
+    "Curiosity"
+  ],
+  "setup": false,
+  "name": "Curiosity",
+  "team": "potion good",
+  "ability": "During the day, visit the storyteller and break this potion; you learn a player that is a non-neutral execution for your team today."
+}

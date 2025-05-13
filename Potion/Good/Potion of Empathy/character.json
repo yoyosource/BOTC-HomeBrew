@@ -1,0 +1,16 @@
+{
+  "id": "potionofempathy",
+  "edition": "custom",
+  "firstNight": 0,
+  "firstNightReminder": "Point to every Potion on the Potion Sheet that the alive neighbours are holding.",
+  "otherNight": 0,
+  "otherNightReminder": "Point to every Potion on the Potion Sheet that the alive neighbours are holding.",
+  "reminders": [],
+  "remindersGlobal": [
+    "Empathy"
+  ],
+  "setup": false,
+  "name": "Empathy",
+  "team": "potion good",
+  "ability": "Each night you learn the types of potions your alive neighbors are holding combined."
+}

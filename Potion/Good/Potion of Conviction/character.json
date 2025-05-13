@@ -1,0 +1,16 @@
+{
+  "id": "potionofconviction",
+  "edition": "custom",
+  "firstNight": 0,
+  "firstNightReminder": "",
+  "otherNight": 0,
+  "otherNightReminder": "",
+  "reminders": [],
+  "remindersGlobal": [
+    "Conviction"
+  ],
+  "setup": false,
+  "name": "Conviction",
+  "team": "potion good",
+  "ability": "During the day you may tell the storyteller privately that you want to break this potion and name a living player; you learn all potions they hold."
+}

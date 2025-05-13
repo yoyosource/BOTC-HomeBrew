@@ -1,0 +1,18 @@
+{
+  "id": "potionofselfesteem",
+  "edition": "custom",
+  "firstNight": 0,
+  "firstNightReminder": "",
+  "otherNight": 0,
+  "otherNightReminder": "",
+  "reminders": [
+    "Self-Esteem - Nominated"
+  ],
+  "remindersGlobal": [
+    "Self-Esteem"
+  ],
+  "setup": false,
+  "name": "Self-Esteem",
+  "team": "potion good",
+  "ability": "You may nominate twice."
+}

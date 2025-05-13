@@ -1,0 +1,18 @@
+{
+  "id": "potionoflove",
+  "edition": "custom",
+  "firstNight": 0,
+  "firstNightReminder": "",
+  "otherNight": 0,
+  "otherNightReminder": "",
+  "reminders": [
+    "In love"
+  ],
+  "remindersGlobal": [
+    "Love"
+  ],
+  "setup": false,
+  "name": "Love",
+  "team": "potion good",
+  "ability": "When you receive this potion, tonight a player of your alignment learns your character."
+}

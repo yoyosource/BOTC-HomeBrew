@@ -1,0 +1,16 @@
+{
+  "id": "potionofarrogance",
+  "edition": "custom",
+  "firstNight": 0,
+  "firstNightReminder": "",
+  "otherNight": 0,
+  "otherNightReminder": "",
+  "reminders": [],
+  "remindersGlobal": [
+    "Arrogance"
+  ],
+  "setup": false,
+  "name": "Arrogance",
+  "team": "potion evil",
+  "ability": "The holder thinks this is another potion of any alignment but it is not."
+}

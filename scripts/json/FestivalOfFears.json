@@ -68,14 +68,14 @@
       "potionofterror"
     ],
     "characterTypes": {
-      "potion blue": {
+      "potion good": {
         "color": "#1f65ff",
         "assignable": false,
         "showRemindersOnGlobal": true,
         "showRemindersInNightOrder": true,
         "goodAndEvilImages": false
       },
-      "potion red": {
+      "potion evil": {
         "color": "#ce0100",
         "assignable": false,
         "showRemindersOnGlobal": true,
