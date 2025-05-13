@@ -7,6 +7,9 @@
     "hideTitle": true,
     "level": "Expert",
     "description": "\"The time has come yet again; a wondrous new spring, the Swallows fly high in the Sky, the world is turning green around us and it is time to celebrate its renewal.\nIt is at this time we honor our old tradition and for just a day distill and share our emotions, give of ourselves and bring our experiences together\nfor a bright and beautiful year to come. Welcome, dear friends, to the Festival of Swallows.\"\n\nLanterns glow along the winding streets, and stalls overflow with shimmering vials—each containing a carefully brewed Potion of Emotion. Love, joy, courage, even nostalgia—every bottle a promise of fleeting but potent feeling, shared among friends, lovers, and strangers alike.\n\nMusic swells as revelers sip their chosen brews, laughter spilling into the night like spilled honeyed mead. Couples dance, old grudges dissolve, and for one enchanted evening, the town beats with a single jubilant heart. But among the euphoria, a shadow stirs.\n\nAs the festival goes on, a bitter note creeps into the air, unnoticed at first, save for the unlucky few. A smiling youth who drinks a vial of giddy delight collapses into silent horror. A merchant's toast to prosperity leaves him trembling, his mind consumed by unseen terrors. A lonely soul seeking warmth in a flask of affection finds only a deep, seething hatred instead.\n\nEyes dart nervously. Fearful whispers ripple through the crowds. Somewhere in the throng, an unseen hand has tainted the celebration. A masked figure slips between the stalls, watching, waiting, delighting in the slow unraveling of joy.\n\nThe Festival of Fears has begun.",
+    "bootlegger": [
+      "When a player is about to die or be exiled all their potions break before death. Every player knows which potion they receive. A drunk/poisoned player might still receive potions from the ability they believe they have, but those potions malfunction. [+0/+1 Storyteller]"
+    ],
     "firstNight": [
       "DUSK",
       "glassblower",
@@ -144,7 +147,6 @@
   "potionofgenerosity",
   "potionofempathy",
 
-  "potioninstructions",
   "glassblower",
   "solicitor",
 
