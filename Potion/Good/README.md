@@ -1,4 +1,4 @@
-# Blue
+# Good
 
 ## ![](Potion%20of%20Conviction/.image_big.png) [Potion of Conviction](Potion%20of%20Conviction)
 During the day you may tell the storyteller privately that you want to break this potion and name a living player; you learn all potions they hold.
