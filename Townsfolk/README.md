@@ -1,5 +1,11 @@
 # Townsfolk
 
+## [Noble](Noble) (0)
+
+## [Professor](Professor) (0)
+
+## [Savant](Savant) (0)
+
 ## ![](Anthropomancer/.image_big.png) [Anthropomancer](Anthropomancer)
 Each night* you learn if a player that died by execution today is a character type you have not learned yet.
 

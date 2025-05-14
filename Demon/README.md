@@ -1,5 +1,7 @@
 # Demon
 
+## [Imp](Imp) (0)
+
 ## ![](Caetrum/.image_big.png) [Caetrum](Caetrum)
 Each night*, choose a player; they die. When a player dies this way, instead of breaking another player might receive 1 of their potions. Each night, a potion might break.
 

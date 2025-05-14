@@ -1,5 +1,9 @@
 # Traveller
 
+## [Apprentice](Apprentice) (0)
+
+## [Harlot](Harlot) (0)
+
 ## ![](Arsonist/.image_big.png) [Arsonist](Arsonist)
 Each night, you may choose a player; they are drenched in gasoline. Once per game at night*, all players drenched in gasoline might die
 

@@ -1,5 +1,7 @@
 # Outsider
 
+## [Drunk](Drunk) (0)
+
 ## ![](Blacksmith/.image_big.png) [Blacksmith](Blacksmith)
 If you die by execution, tonight all Townsfolk are drunk.
 

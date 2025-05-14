@@ -29,6 +29,12 @@
 - ![](Townsfolk/Toll%20Inspector/.image_small.png) [Toll Inspector](Townsfolk/Toll%20Inspector)
 - ![](Townsfolk/Wanderer/.image_small.png) [Wanderer](Townsfolk/Wanderer)
 - ![](Townsfolk/Weaver/.image_small.png) [Weaver](Townsfolk/Weaver)
+### [Noble](Townsfolk/Noble) (0)
+
+### [Professor](Townsfolk/Professor) (0)
+
+### [Savant](Townsfolk/Savant) (0)
+
 
 ## [Outsider](Outsider) (11)
 - ![](Outsider/Blacksmith/.image_small.png) [Blacksmith](Outsider/Blacksmith)
@@ -42,6 +48,8 @@
 - ![](Outsider/Sommelier/.image_small.png) [Sommelier](Outsider/Sommelier)
 - ![](Outsider/Student/.image_small.png) [Student](Outsider/Student)
 - ![](Outsider/Weeping%20Angel/.image_small.png) [Weeping Angel](Outsider/Weeping%20Angel)
+### [Drunk](Outsider/Drunk) (0)
+
 
 ## [Minion](Minion) (15)
 - ![](Minion/Chemist/.image_small.png) [Chemist](Minion/Chemist)
@@ -59,6 +67,8 @@
 - ![](Minion/Reanimator/.image_small.png) [Reanimator](Minion/Reanimator)
 - ![](Minion/Seer/.image_small.png) [Seer](Minion/Seer)
 - ![](Minion/Thug/.image_small.png) [Thug](Minion/Thug)
+### [Poisoner](Minion/Poisoner) (0)
+
 
 ## [Demon](Demon) (14)
 - ![](Demon/Caetrum/.image_small.png) [Caetrum](Demon/Caetrum)
@@ -75,6 +85,8 @@
 - ![](Demon/Trial%20Master/.image_small.png) [Trial Master](Demon/Trial%20Master)
 - ![](Demon/Troupe%20Master/.image_small.png) [Troupe Master](Demon/Troupe%20Master)
 - ![](Demon/Wraith/.image_small.png) [Wraith](Demon/Wraith)
+### [Imp](Demon/Imp) (0)
+
 
 ## [Fabled](Fabled) (4)
 - ![](Fabled/Doppelgaenger/.image_small.png) [Doppelgaenger](Fabled/Doppelgaenger)
@@ -90,6 +102,10 @@
 - ![](Traveller/Snake%20Oil%20Seller/.image_small.png) [Snake Oil Seller](Traveller/Snake%20Oil%20Seller)
 - ![](Traveller/Socialist/.image_small.png) [Socialist](Traveller/Socialist)
 - ![](Traveller/Toxicologist/.image_small.png) [Toxicologist](Traveller/Toxicologist)
+### [Apprentice](Traveller/Apprentice) (0)
+
+### [Harlot](Traveller/Harlot) (0)
+
 
 ## [Special](Special) (1)
 - ![](Special/Unliving/.image_small.png) [Unliving](Special/Unliving)

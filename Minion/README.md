@@ -1,5 +1,7 @@
 # Minion
 
+## [Poisoner](Poisoner) (0)
+
 ## ![](Chemist/.image_big.png) [Chemist](Chemist)
 Each night, choose a player; receive a copy of one of their potions. Theirs become a different potion.
 
