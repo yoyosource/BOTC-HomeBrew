@@ -32,8 +32,7 @@
 **Caetrum**: Each night*, choose a player; they die. When a player dies this way, instead of breaking another player might receive 1 of their potions. Each night, a potion might break.    
 
 ### Minion
-                 When a Potion of Panic is revealed a Townsfolk player might receive false info until dawn and tonight you eye the cauldron and choose a player to receive a Potion of Panic.
-**Mega Minion**: If you received a Potion since dawn; eye the cauldron, choose another player to receive a Potion of Panic. If a Potion of Panic is revealed a Townfolk might receive false info until dawn.
+**Mega Minion**: When a Potion of Panic is revealed a Townsfolk player might receive false info until dawn; tonight you eye the cauldron and choose a player to receive a Potion of Panic.
 **Chemist**: Each night eye the cauldron; either choose 1) two potions to swap places, or 2) an empty potion, and a type of evil potion to replace it.
 **Thug**: Each night, choose a player and an evil character; tomorrow they are "mad" that that character is in play or 2 living players might receive an evil potion.
 **???**: When you are attacked by the Demon you do not die and you and they swap characters.
