@@ -23,8 +23,8 @@
 **Potion of Stress**: This potion might break to have its holder register as the opposite alignment or a character types of the opposite alignment.  
 
 ### Special
-**Empty Potion**: You can hold multiple Empty Potions. Empty Potions might break at any time.
-**Potion of Panic**: This potion cannot be flipped back face down even if nullified.
+**Empty Potion**: You can hold multiple Empty Potions. Empty Potions might break at any time.  
+**Potion of Panic**: This potion cannot be flipped back face down even if nullified.  
 
 ### Demon
 **Megalomaniac**: Each night give out a Potion of Panic. Each night*, choose a player; they die. If every good alive player holds a Potion of Panic, evil wins.  
