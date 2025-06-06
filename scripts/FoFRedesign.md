@@ -38,7 +38,7 @@
 **???**: When you are attacked by the Demon you do not die and you and they swap characters.  
 
 ### Outsider
-**Sommelier**: Each night one player who would receive a potion might receive one of the opposite alignment instead.
+**Sommelier**: Each night one player who would receive a potion might receive one of the opposite alignment instead.  
 **Student**: You may not nominate or vote if you had a eye the cauldron since dusk.  
 **Butterfingers**: When you are executed, each good potion in play becomes an empty potion.  
 **???**: Each day & night cycle a player might receive false information. When you die, if you were mad that you are the [Name], you keep your ability.  
