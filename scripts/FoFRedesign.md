@@ -30,6 +30,7 @@
 **Megalomaniac**: Each night give out a Potion of Panic. Each night*, choose a player; they die. If every good alive player holds a Potion of Panic, evil wins.  
 **Commira**: Each night*, choose a player; they die. Then eye the cauldron and choose up to 3 players to receive a potion.  
 **Caetrum**: Each night*, choose a player; they die. When a player dies this way, instead of breaking another player might receive 1 of their potions. Each night, a potion might break.  
+**Clofou**: Each night*, choose a player; they die. Then choose a living player; if they are an Outsider, an evil player receives a potion. [+1 Outsider]  
 
 ### Minion
 **Mega Minion**: When a Potion of Panic is revealed a Townsfolk player might receive false info until dawn; tonight you eye the cauldron and choose a player to receive a Potion of Panic.  
