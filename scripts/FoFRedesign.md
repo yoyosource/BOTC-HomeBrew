@@ -33,16 +33,16 @@
 **Clofou**: Each night*, choose a player; they die. Then choose a living player; if they are an Outsider, an evil player receives a potion. [+1 Outsider]  
 
 ### Minion
-**Mega Minion**: When a Potion of Panic is revealed a Townsfolk player might receive false info until dawn; tonight you eye the cauldron and choose a player to receive a Potion of Panic.  
+**Aberration**: When a Potion of Panic is revealed a Townsfolk player might receive false info until dawn; tonight you eye the cauldron and choose a player to receive a Potion of Panic.  
 **Chemist**: Each night eye the cauldron; either choose 1) two potions to swap places, or 2) an empty potion, and a type of evil potion to replace it.  
 **Thug**: Each night, choose a player and an evil character; tomorrow they are "mad" that that character is in play or 2 living players might receive an evil potion.  
-**???**: When you are attacked by the Demon you do not die and you and they swap characters.  
+**Crone**: When you are attacked by the Demon you do not die and you and they swap characters. https://game-icons.net/1x1/lorc/dead-wood.html  
 
 ### Outsider
 **Sommelier**: Each night one player who would receive a potion might receive one of the opposite alignment instead.  
 **Student**: You may not nominate or vote if you had a eye the cauldron since dusk.  
 **Butterfingers**: When you are executed, each good potion in play becomes an empty potion.  
-**???**: Each day & night cycle a player might receive false information. When you die, if you were mad that you are the [Name], you keep your ability.  
+**Tramp**: Each day & night cycle a player might receive false information. When you die, if you were mad that you are the Tramp, you keep your ability. https://game-icons.net/1x1/delapouite/bindle.html  
 
 ### Townsfolk
 **Botanist**: You start knowing 2 good characters; 1 is in play and 1 is a demon bluff.  
@@ -55,13 +55,16 @@
 **Merchant**: Each night* either 1) receive a potion, or if you hold a potion 2) choose a potion you think you are holding and a player (not yourself) to receive that potion.  
 **Distiller**: Once per game at night, for each player an empty potion they hold is replaced with a good potion.  
 **Apothecary**: While you are holding any potions, all potions of those types are nullified.  
+**???**: You can only receive evil potions from evil characters.  
+**???**: On your 1st day, publicly declare a future day to be a Market Day. If you are alive on the Market Day, at dawn good potions equal to the day number are given out.  
+**???**:   
 
 ### Traveller
 **Snake Oil Seller**: Each night you learn a good and an evil potion. Choose either 1) which potion for a player to receive, or 2) which player to receive either potion.  
 **Toxicologist**: Each night eye the cauldron; choose 2 players (not yourself). A potion one of them holds break.  
 **Socialist**: Up to three times each night when a player receives a potion (not from the Socialist); another player receives a potion of the opposite alignment.  
 **Harlot**: Each night*, choose a living player: if they agree, you learn their character, but you both might die.
-// Interacts with Empty Potions!
+**???**: // Interacts with Empty Potions!  
 
 ### Fabled
 **Glassblower**: Each night potions equal to the vote majority minus are given out.  
