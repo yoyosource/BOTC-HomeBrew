@@ -47,7 +47,7 @@
 ### Townsfolk
 **Botanist**: You start knowing 2 good characters; 1 is in play and 1 is a demon bluff.  
 **Toll Inspector**: Each night eye the cauldron.  
-**Clerk**: Each night, you learn a type of potion that an evil player (not a traveller) has received tonight.  
+**Clerk**: Each night, you learn a type of potion that an evil player (not a traveller) has received tonight, or if none has been received.
 **Connoisseur**: Each day, you may visit the storyteller to learn a player that is a non-neutral execution for your team today. If you did not use this ability the last day you learn 2 players instead.  
 ***Tasseograph***: Each night*, you learn if a Demon was chosen by a good player tonight.  
 **Druid**: Each night* you may choose a dead player; learn their character type and might receive an evil potion.  
