@@ -55,9 +55,9 @@
 **Merchant**: Each night* either 1) receive a potion, or if you hold a potion 2) choose a potion you think you are holding and a player (not yourself) to receive that potion.  
 **Distiller**: Once per game at night, for each player an empty potion they hold is replaced with a good potion.  
 **Apothecary**: While you are holding any potions, all potions of those types are nullified.  
-**???**: You can only receive evil potions from evil characters.  
-**???**: On your 1st day, publicly declare a future day to be a Market Day. If you are alive on the Market Day, at dawn good potions equal to the day number are given out.  
-**???**:   
+**Pigeon Fancier**: You can only receive evil potions from evil characters. https://game-icons.net/1x1/delapouite/finch.html    
+**Auctioneer**: On your 1st day, publicly declare a future day to be a Market Day. If you are alive on the Market Day, at dawn good potions equal to the day number are given out. https://game-icons.net/1x1/lorc/gavel.html    
+**Scout**: You start knowing the longest chain of Townfolk players. [+0/+1 Outsiders.] https://game-icons.net/1x1/lorc/spyglass.html       
 
 ### Traveller
 **Snake Oil Seller**: Each night you learn a good and an evil potion. Choose either 1) which potion for a player to receive, or 2) which player to receive either potion.  
