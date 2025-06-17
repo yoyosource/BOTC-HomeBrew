@@ -23,7 +23,7 @@
 **Potion of Stress**: This potion might break to have its holder register as the opposite alignment or a character types of the opposite alignment.  
 
 ### Special
-**Empty Potion**: You can hold multiple Empty Potions. Empty Potions might break at any time.  
+**Empty Potion**: You can hold multiple Empty Potions. Empty Potions might break at any time.  https://game-icons.net/1x1/caro-asercion/mason-jar.html
 **Potion of Panic**: This potion cannot be flipped back face down even if nullified.  
 
 ### Demon
@@ -47,17 +47,18 @@
 ### Townsfolk
 **Botanist**: You start knowing 2 good characters; 1 is in play and 1 is a demon bluff.  
 **Toll Inspector**: Each night eye the cauldron.  
-***Clerk***: Each night, you learn a type of potion that an evil player (not a traveller) has received tonight, or if none has been received.
+**Clerk**: Each night*, you learn a type of potion that an evil player (not a traveller) has received tonight, or if none has been received.  
 **Connoisseur**: Each day, you may visit the storyteller to learn a player that is a non-neutral execution for your team today. If you did not use this ability the last day you learn 2 players instead.  
-***Tasseograph***: Each night*, you learn if a Demon was chosen by a good player tonight.  
-**Druid**: Each night* you may choose a dead player; learn their character type and you might receive an evil potion.  
-**Baptist**: Each night*, choose 2 living players (not yourself), they might receive a potion. If either received an evil potion you cannot die tonight.  
+**???**: Each night, choose a new player (not yourself); you learn if they are closer to an evil player (other than themselves) than you are.  
+**Druid**: Each night* you may choose a dead player; learn their character type and you might receive an evil potion.   
+**Baptist**: Each night, choose 2 living players (not yourself), they might receive a potion. If either received an evil potion you cannot die tonight.  
 **Merchant**: Each night* either 1) receive a potion, or if you hold a potion 2) choose a potion you think you are holding and a player (not yourself) to receive that potion.  
 **Distiller**: Once per game at night, for each player an empty potion they hold is replaced with a good potion.  
 **Apothecary**: While you are holding any potions, all potions of those types are nullified.  
 **Pigeon Fancier**: You can only receive evil potions from evil characters. https://game-icons.net/1x1/delapouite/finch.html    
 **Auctioneer**: On your 1st day, publicly declare a future day to be a Market Day. If you are alive on the Market Day, at dawn good potions equal to the day number are given out. https://game-icons.net/1x1/lorc/gavel.html    
 **Scout**: You start knowing the longest chain of Townfolk players. [+0/+1 Outsiders.] https://game-icons.net/1x1/lorc/spyglass.html       
+
 
 ### Traveller
 **Snake Oil Seller**: Each night you learn a good and an evil potion. Choose either 1) which potion for a player to receive, or 2) which player to receive either potion.  
