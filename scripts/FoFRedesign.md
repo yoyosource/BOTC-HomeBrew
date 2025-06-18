@@ -34,14 +34,14 @@
 
 ### Minion
 **Aberration**: When a Potion of Panic is revealed a Townsfolk player might receive false info until dawn; tonight you eye the cauldron and choose a player to receive a Potion of Panic.  
-**Chemist**: Each night eye the cauldron; either choose 1) two potions to swap places, or 2) an empty potion, and a type of evil potion to replace it.  
+**Chemist**: Each night eye the cauldron; either choose 1) 2 potions to swap places, or 2) a good potion another player holds; you receive it, theirs is emptied.  
 **Thug**: Each night, choose a player and an evil character; tomorrow they are "mad" that that character is in play or 2 living players might receive an evil potion.  
 **Crone**: When you are attacked by the Demon you do not die and you and they swap characters. https://game-icons.net/1x1/lorc/dead-wood.html  
 
 ### Outsider
 **Sommelier**: Each night one player who would receive a potion might receive one of the opposite alignment instead.  
 **Student**: You may not nominate or vote if you have eyed the cauldron since dusk.  
-**Butterfingers**: When you are executed, each good potion in play becomes an empty potion.  
+**Butterfingers**: When you are executed, each good potion in play is emptied.  
 **Tramp**: Each day & night cycle a player might receive false information. When you die, if you were mad that you are the Tramp, you keep your ability. https://game-icons.net/1x1/delapouite/bindle.html  
 
 ### Townsfolk
@@ -73,3 +73,12 @@
 
 ### Bootlegger
 When a player is about to die or be exiled all their potions break before death. [+0/+1 Storyteller]
+
+### Glossary
+**Emptied**: A potion that is "Emptied" is removed and replaced by an Empty Potion.
+**Cauldron**: A separate town square specifically for potions.
+**Nullified**: A potion being nullified means that its ability has been removed.
+**Type of Potion**: Specific Potion i.e. the name of the Potion.
+**Potion Alignment**: The good and evil categories like for characters.
+**Becomes**: The potion is changed from its current type to another, and is treated as if being received.
+**Special**: A character type that is not included in the bag setup and can only be created by another character's ability. Special characters are neither good nor evil. 
