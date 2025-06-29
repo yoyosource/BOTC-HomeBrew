@@ -49,15 +49,15 @@
 **Toll Inspector**: Each night eye the cauldron.  
 **Clerk**: Each night*, you learn a type of potion that an evil player (not a traveller) has received tonight, or if none has been received.  
 **Connoisseur**: Each day, you may visit the storyteller to learn a player that is a non-neutral execution for your team today. If you did not use this ability the last day you learn 2 players instead.  
-**Farrier**: Each night, choose a new player (not yourself); you learn if they are closer to an evil player (other than themselves) than you are.https://game-icons.net/1x1/delapouite/horseshoe.html    
+**Farrier**: Each night, choose a new player (not yourself); you learn if they are closer to an evil player (other than themselves) than you are.    
 **Druid**: Each night* you may choose a dead player; learn their character type and you might receive an evil potion.   
 **Baptist**: Each night, choose 2 living players (not yourself), they might receive a potion. If either received an evil potion you cannot die tonight.  
 **Merchant**: Each night* either 1) receive a potion, or if you hold a potion 2) choose a potion you think you are holding and a player (not yourself) to receive that potion.  
 **Distiller**: Each night*, choose 2 players; 1 receives a good potion or 1 of their evil potions break.  
 **Apothecary**: While you are holding any potions, all potions of those types are nullified.  
-**Pigeon Fancier**: You can only receive evil potions from evil characters. https://game-icons.net/1x1/delapouite/finch.html    
-**Auctioneer**: On your 1st day, publicly declare a future day to be a Market Day. If you are alive on the Market Day, at dawn good potions equal to the day number are given out. https://game-icons.net/1x1/lorc/gavel.html    
-**Scout**: You start knowing the longest chain of Townfolk players. [+0/+1 Outsiders.] https://game-icons.net/1x1/lorc/spyglass.html       
+**Pigeon Fancier**: You can only receive evil potions from evil characters.    
+**Auctioneer**: On your 1st day, publicly declare a future day to be a Market Day. If you are alive on the Market Day, at dawn good potions equal to the day number are given out.    
+**Scout**: You start knowing the longest chain of Townfolk players. [+0/+1 Outsiders.]  
 
 
 ### Traveller
@@ -65,7 +65,7 @@
 **Toxicologist**: Each night eye the cauldron; choose 2 players (not yourself). A potion one of them holds break.  
 **Socialist**: Up to three times each night when a player receives a potion (not from the Socialist); another player receives a potion of the opposite alignment.  
 **Harlot**: Each night*, choose a living player: if they agree, you learn their character, but you both might die.  
-**Fugitive**: Each night* 2 players choose either 1) The other receives a Good potion, or 2) to learn the other’s potions. If both choose 2,  each receive an Evil potion instead. https://game-icons.net/1x1/skoll/breaking-chain.html    
+**Fugitive**: Each night* 2 players choose either 1) The other receives a Good potion, or 2) to learn the other’s potions. If both choose 2,  each receive an Evil potion instead.  
 
 ### Fabled
 **Glassblower**: Each night potions equal to the vote majority minus 1 are given out.  
