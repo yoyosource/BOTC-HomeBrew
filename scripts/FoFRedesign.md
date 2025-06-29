@@ -23,7 +23,7 @@
 **Potion of Stress**: This potion might break to have its holder register as the opposite alignment or a character types of the opposite alignment.  
 
 ### Special
-**Empty Potion**: You can hold multiple Empty Potions. Empty Potions might break at any time.  https://game-icons.net/1x1/caro-asercion/mason-jar.html
+**Empty Potion**: You can hold multiple Empty Potions. Empty Potions might break at any time. https://game-icons.net/1x1/caro-asercion/mason-jar.html  
 **Potion of Panic**: This potion cannot be flipped back face down even if nullified.  
 
 ### Demon
