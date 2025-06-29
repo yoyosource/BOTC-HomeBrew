@@ -23,7 +23,7 @@
 **Potion of Stress**: This potion might break to have its holder register as the opposite alignment or a character types of the opposite alignment.  
 
 ### Special
-**Empty Potion**: You can hold multiple Empty Potions. Empty Potions might break at any time. https://game-icons.net/1x1/caro-asercion/mason-jar.html  
+**Empty Potion**: You can hold multiple Empty Potions. Empty Potions might break at any time.  
 **Potion of Panic**: This potion cannot be flipped back face down even if nullified.  
 
 ### Demon
@@ -36,13 +36,13 @@
 **Aberration**: When a Potion of Panic is revealed a Townsfolk player might receive false info until dawn; tonight you eye the cauldron and choose a player to receive a Potion of Panic.  
 **Chemist**: Each night eye the cauldron; either choose 1) 2 potions to swap places, or 2) a good potion another player holds; you receive it, theirs is emptied.  
 **Thug**: Each night, choose a player and an evil character; tomorrow they are "mad" that that character is in play or 2 living players might receive an evil potion.  
-**Crone**: When you are attacked by the Demon you do not die and you and they swap characters. https://game-icons.net/1x1/lorc/dead-wood.html  
+**Crone**: When you are attacked by the Demon you do not die and you and they swap characters.  
 
 ### Outsider
 **Sommelier**: Each night one player who would receive a potion might receive one of the opposite alignment instead.  
 **Student**: You may not nominate or vote if you have eyed the cauldron since dusk.  
 **Butterfingers**: When you are executed, each good potion in play is emptied.  
-**Tramp**: Each day & night cycle a player might receive false information. When you die, if you were mad that you are the Tramp, you keep your ability. https://game-icons.net/1x1/delapouite/bindle.html  
+**Tramp**: Each day & night cycle a player might receive false information. When you die, if you were mad that you are the Tramp, you keep your ability.  
 
 ### Townsfolk
 **Botanist**: You start knowing 2 good characters; 1 is in play and 1 is a demon bluff.  
