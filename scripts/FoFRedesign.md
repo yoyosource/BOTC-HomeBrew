@@ -75,10 +75,10 @@
 When a player is about to die or be exiled all their potions break before death. [+0/+1 Storyteller]
 
 ### Glossary
-**Emptied**: A potion that is "Emptied" is removed and replaced by an Empty Potion.
-**Cauldron**: A separate town square specifically for potions.
-**Nullified**: A potion being nullified means that its ability has been removed.
-**Type of Potion**: Specific Potion i.e. the name of the Potion.
-**Potion Alignment**: The good and evil categories like for characters.
-**Becomes**: The potion is changed from its current type to another, and is treated as if being received.
-**Special**: A character type that is not included in the bag setup and can only be created by another character's ability. Special characters are neither good nor evil. 
+**Emptied**: A potion that is "Emptied" is removed and replaced by an Empty Potion.  
+**Cauldron**: A separate town square specifically for potions.  
+**Nullified**: A potion being nullified means that its ability has been removed.  
+**Type of Potion**: Specific Potion i.e. the name of the Potion.  
+**Potion Alignment**: The good and evil categories like for characters.  
+**Becomes**: The potion is changed from its current type to another, and is treated as if being received.  
+**Special**: A character type that is not included in the bag setup and can only be created by another character's ability. Special characters are neither good nor evil.  
