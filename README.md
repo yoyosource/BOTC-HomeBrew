@@ -98,10 +98,11 @@
 - ![](Fabled/Igor/.image_small.png) [Igor](Fabled/Igor)
 - ![](Fabled/Solicitor/.image_small.png) [Solicitor](Fabled/Solicitor)
 
-## [Traveller](Traveller) (7)
+## [Traveller](Traveller) (8)
 - ![](Traveller/Arsonist/.image_small.png) [Arsonist](Traveller/Arsonist)
 - ![](Traveller/Author/.image_small.png) [Author](Traveller/Author)
 - ![](Traveller/Echo/.image_small.png) [Echo](Traveller/Echo)
+- ![](Traveller/.image_small.png) [Lizard](Traveller/Lizard)
 - ![](Traveller/Lost%20Soul/.image_small.png) [Lost Soul](Traveller/Lost%20Soul)
 - ![](Traveller/Snake%20Oil%20Seller/.image_small.png) [Snake Oil Seller](Traveller/Snake%20Oil%20Seller)
 - ![](Traveller/Socialist/.image_small.png) [Socialist](Traveller/Socialist)
