@@ -1,5 +1,7 @@
 # Fabled
 
+## [Lizard](Lizard) (0)
+
 ## ![](Doppelgaenger/.image_big.png) [Doppelgaenger](Doppelgaenger)
 Players may hold duplicates of the same potion.
 

@@ -97,6 +97,8 @@
 - ![](Fabled/Glassblower/.image_small.png) [Glassblower](Fabled/Glassblower)
 - ![](Fabled/Igor/.image_small.png) [Igor](Fabled/Igor)
 - ![](Fabled/Solicitor/.image_small.png) [Solicitor](Fabled/Solicitor)
+### [Lizard](Fabled/Lizard) (0)
+
 
 ## [Traveller](Traveller) (8)
 - ![](Traveller/Arsonist/.image_small.png) [Arsonist](Traveller/Arsonist)
