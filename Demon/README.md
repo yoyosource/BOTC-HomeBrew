@@ -23,6 +23,9 @@ Each night* choose a player their vote gets inverted if at least 2 players votes
 ## ![](Lemures/.image_big.png) [Lemures](Lemures)
 Each night* choose a player; they die. The first time a Lemures gets executed by vote, the nominator becomes an Evil Lemures. [If 5 or more players are alive]
 
+## ![](.image_big.png) [Lizard](Lizard)
+Before setup, choose a base 4 character: you have a mutation of their ability.
+
 ## ![](.image_big.png) [Mal](Mal)
 Each night choose if you want to change from human form to dragon or from dragon form to human or not. If you switch your form you can't do anything else that night, if you stay in the human form choose 2 players, 1 is mad that the 2nd is a minion. If the 1st player breaks the madness he or both might be executed. When you are in the dragon form choose a player they are poisoned, the previously poisoned player dies.
 

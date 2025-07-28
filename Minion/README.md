@@ -14,6 +14,9 @@ Players who nominate evil might be poisoned until dawn.
 ## ![](Intwaso/.image_big.png) [Intwaso](Intwaso)
 If the Demon kills you, they die instead and you become the Demon.
 
+## ![](.image_big.png) [Lizard](Lizard)
+Before setup, choose a base 4 character: you have a mutation of their ability.
+
 ## ![](Lurking%20Shadow/.image_big.png) [Lurking Shadow](Lurking%20Shadow)
 Each night*, you may choose that the player who nominated you yesterday: dies. You might register as good & as a Townsfolk or Outsider.
 

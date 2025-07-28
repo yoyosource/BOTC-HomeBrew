@@ -1,6 +1,6 @@
 # Homebrew
 
-## [Townsfolk](Townsfolk) (28)
+## [Townsfolk](Townsfolk) (29)
 - ![](Townsfolk/Anthropomancer/.image_small.png) [Anthropomancer](Townsfolk/Anthropomancer)
 - ![](Townsfolk/Apothecary/.image_small.png) [Apothecary](Townsfolk/Apothecary)
 - ![](Townsfolk/Auric/.image_small.png) [Auric](Townsfolk/Auric)
@@ -15,6 +15,7 @@
 - ![](Townsfolk/.image_small.png) [Enumerator](Townsfolk/Enumerator)
 - ![](Townsfolk/Eternal%20Singer/.image_small.png) [Eternal Singer](Townsfolk/Eternal%20Singer)
 - ![](Townsfolk/.image_small.png) [Huntsman-FIX](Townsfolk/Huntsman-FIX)
+- ![](Townsfolk/.image_small.png) [Lizard](Townsfolk/Lizard)
 - ![](Townsfolk/Master-at-Arms/.image_small.png) [Master-at-Arms](Townsfolk/Master-at-Arms)
 - ![](Townsfolk/Merchant/.image_small.png) [Merchant](Townsfolk/Merchant)
 - ![](Townsfolk/Mourner/.image_small.png) [Mourner](Townsfolk/Mourner)
@@ -36,12 +37,13 @@
 ### [Savant](Townsfolk/Savant) (0)
 
 
-## [Outsider](Outsider) (11)
+## [Outsider](Outsider) (12)
 - ![](Outsider/Blacksmith/.image_small.png) [Blacksmith](Outsider/Blacksmith)
 - ![](Outsider/Butterfingers/.image_small.png) [Butterfingers](Outsider/Butterfingers)
 - ![](Outsider/Cartographer/.image_small.png) [Cartographer](Outsider/Cartographer)
 - ![](Outsider/Demonic%20Traits/.image_small.png) [Demonic Traits](Outsider/Demonic%20Traits)
 - ![](Outsider/Grump/.image_small.png) [Grump](Outsider/Grump)
+- ![](Outsider/.image_small.png) [Lizard](Outsider/Lizard)
 - ![](Outsider/Maniac/.image_small.png) [Maniac](Outsider/Maniac)
 - ![](Outsider/Pale%20Lord/.image_small.png) [Pale Lord](Outsider/Pale%20Lord)
 - ![](Outsider/Siren/.image_small.png) [Siren](Outsider/Siren)
@@ -51,11 +53,12 @@
 ### [Drunk](Outsider/Drunk) (0)
 
 
-## [Minion](Minion) (15)
+## [Minion](Minion) (16)
 - ![](Minion/Chemist/.image_small.png) [Chemist](Minion/Chemist)
 - ![](Minion/Contaminator/.image_small.png) [Contaminator](Minion/Contaminator)
 - ![](Minion/Corrupted/.image_small.png) [Corrupted](Minion/Corrupted)
 - ![](Minion/Intwaso/.image_small.png) [Intwaso](Minion/Intwaso)
+- ![](Minion/.image_small.png) [Lizard](Minion/Lizard)
 - ![](Minion/Lurking%20Shadow/.image_small.png) [Lurking Shadow](Minion/Lurking%20Shadow)
 - ![](Minion/Manipulator/.image_small.png) [Manipulator](Minion/Manipulator)
 - ![](Minion/Mask%20Maker/.image_small.png) [Mask Maker](Minion/Mask%20Maker)
@@ -70,7 +73,7 @@
 ### [Poisoner](Minion/Poisoner) (0)
 
 
-## [Demon](Demon) (14)
+## [Demon](Demon) (15)
 - ![](Demon/Caetrum/.image_small.png) [Caetrum](Demon/Caetrum)
 - ![](Demon/Commira/.image_small.png) [Commira](Demon/Commira)
 - ![](Demon/God%20Seeker/.image_small.png) [God Seeker](Demon/God%20Seeker)
@@ -78,6 +81,7 @@
 - ![](Demon/Hydra/.image_small.png) [Hydra](Demon/Hydra)
 - ![](Demon/Infectious%20Hive/.image_small.png) [Infectious Hive](Demon/Infectious%20Hive)
 - ![](Demon/Lemures/.image_small.png) [Lemures](Demon/Lemures)
+- ![](Demon/.image_small.png) [Lizard](Demon/Lizard)
 - ![](Demon/.image_small.png) [Mal](Demon/Mal)
 - ![](Demon/Megalomaniac/.image_small.png) [Megalomaniac](Demon/Megalomaniac)
 - ![](Demon/Polterghast/.image_small.png) [Polterghast](Demon/Polterghast)

@@ -17,6 +17,9 @@ The demon's ability is modified based on a not in-play demon ability. You keep y
 ## ![](Grump/.image_big.png) [Grump](Grump)
 You cannot nominate yourself.  Whenever another, Good player nominates you they become poisoned until dawn.
 
+## ![](.image_big.png) [Lizard](Lizard)
+Before setup, choose a base 4 character: you have a mutation of their ability.
+
 ## ![](Maniac/.image_big.png) [Maniac](Maniac)
 You think you are a Minion, but you are not. The Minion knows who you are & who you choose at night.
 

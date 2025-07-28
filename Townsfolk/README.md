@@ -48,6 +48,9 @@ Each night, choose a player; tonight, all information yielded about that player 
 ## ![](.image_big.png) [Huntsman-FIX](Huntsman-FIX)
 Once per game, at night, choose a living player: the Damsel, if chosen, becomes a not-in-play Townsfolk. [+the Damsel]
 
+## ![](.image_big.png) [Lizard](Lizard)
+Before setup, choose a base 4 character: you have a mutation of their ability.
+
 ## ![](Master-at-Arms/.image_big.png) [Master-at-Arms](Master-at-Arms)
 You start knowing an in-play Townsfolk, and have their ability. Either you or they are drunk.
 
