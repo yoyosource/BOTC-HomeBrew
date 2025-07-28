@@ -1,0 +1,8 @@
+{
+  "id": "minion_lizard",
+  "edition": "custom",
+  "name": "Lizard",
+  "team": "minion",
+  "image": "https://raw.githubusercontent.com/yoyosource/BOTC-HomeBrew/master/Minion/Lizard/Lizard.png",
+  "ability": "Before setup, choose a base 4 character: you have a mutation of their ability."
+}

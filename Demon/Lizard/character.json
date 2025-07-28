@@ -1,0 +1,8 @@
+{
+  "id": "demon_lizard",
+  "edition": "custom",
+  "name": "Lizard",
+  "team": "demon",
+  "image": "https://raw.githubusercontent.com/yoyosource/BOTC-HomeBrew/master/Demon/Lizard/Lizard.png",
+  "ability": "Before setup, choose a base 4 character: you have a mutation of their ability."
+}
