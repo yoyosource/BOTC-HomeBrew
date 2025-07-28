@@ -3,6 +3,10 @@
   "edition": "custom",
   "name": "Lizard",
   "team": "traveler",
-  "image": "https://raw.githubusercontent.com/yoyosource/BOTC-HomeBrew/master/Traveller/Lizard/Lizard.png",
+  "image": [
+    "https://raw.githubusercontent.com/yoyosource/BOTC-HomeBrew/master/Traveller/Lizard/Lizard.png",
+    "https://raw.githubusercontent.com/yoyosource/BOTC-HomeBrew/master/Townsfolk/Lizard/Lizard.png",
+    "https://raw.githubusercontent.com/yoyosource/BOTC-HomeBrew/master/Demon/Lizard/Lizard.png"
+  ],
   "ability": "Before setup, choose a base 4 character: you have a mutation of their ability."
 }
