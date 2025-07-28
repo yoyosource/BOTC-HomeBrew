@@ -1,0 +1,71 @@
+[
+  {
+    "id": "_meta",
+    "name": "",
+    "logo": "https:\/\/www.bloodstar.xyz\/p\/alonelytaco\/Lizards\/_meta.png",
+    "almanac": "https:\/\/www.bloodstar.xyz\/p\/alonelytaco\/Lizards\/almanac.html"
+  },
+  {
+    "id": "townsfolk_lizard",
+    "edition": "custom",
+    "name": "Lizard",
+    "team": "townsfolk",
+    "image": [
+      "https://raw.githubusercontent.com/yoyosource/BOTC-HomeBrew/master/Townsfolk/Lizard/Lizard.png",
+      "https://raw.githubusercontent.com/yoyosource/BOTC-HomeBrew/master/Demon/Lizard/Lizard.png"
+    ],
+    "ability": "Before setup, choose a base 4 character: you have a mutation of their ability."
+  },
+  {
+    "id": "outsider_lizard",
+    "edition": "custom",
+    "name": "Lizard",
+    "team": "outsider",
+    "image": [
+      "https://raw.githubusercontent.com/yoyosource/BOTC-HomeBrew/master/Outsider/Lizard/Lizard.png",
+      "https://raw.githubusercontent.com/yoyosource/BOTC-HomeBrew/master/Minion/Lizard/Lizard.png"
+    ],
+    "ability": "Before setup, choose a base 4 character: you have a mutation of their ability."
+  },
+  {
+    "id": "minion_lizard",
+    "edition": "custom",
+    "name": "Lizard",
+    "team": "minion",
+    "image": [
+      "https://raw.githubusercontent.com/yoyosource/BOTC-HomeBrew/master/Minion/Lizard/Lizard.png",
+      "https://raw.githubusercontent.com/yoyosource/BOTC-HomeBrew/master/Outsider/Lizard/Lizard.png"
+    ],
+    "ability": "Before setup, choose a base 4 character: you have a mutation of their ability."
+  },
+  {
+    "id": "demon_lizard",
+    "edition": "custom",
+    "name": "Lizard",
+    "team": "demon",
+    "image": [
+      "https://raw.githubusercontent.com/yoyosource/BOTC-HomeBrew/master/Demon/Lizard/Lizard.png",
+      "https://raw.githubusercontent.com/yoyosource/BOTC-HomeBrew/master/Townsfolk/Lizard/Lizard.png"
+    ],
+    "ability": "Before setup, choose a base 4 character: you have a mutation of their ability."
+  },
+  {
+    "id": "traveler_lizard",
+    "edition": "custom",
+    "name": "Lizard",
+    "team": "traveler",
+    "image": [
+      "https://raw.githubusercontent.com/yoyosource/BOTC-HomeBrew/master/Traveller/Lizard/Lizard.png",
+      "https://raw.githubusercontent.com/yoyosource/BOTC-HomeBrew/master/Townsfolk/Lizard/Lizard.png",
+      "https://raw.githubusercontent.com/yoyosource/BOTC-HomeBrew/master/Demon/Lizard/Lizard.png"
+    ],
+    "ability": "Before setup, choose a base 4 character: you have a mutation of their ability."
+  },
+  {
+    "id": "mirage_lizards",
+    "image": "https:\/\/www.bloodstar.xyz\/p\/alonelytaco\/Lizards\/mirage_lizards.png",
+    "name": "Mirage",
+    "team": "fabled",
+    "ability": "There must be at least 1 Outsider in play [At least 1 Outsider]"
+  }
+]
