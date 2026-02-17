@@ -1,0 +1,32 @@
+{
+  "id": "spicetrader",
+  "name": "Spice Trader",
+  "author": "Grumbletok",
+  "team": "townsfolk",
+  "edition": "custom",
+  "image": [
+    "https://raw.githubusercontent.com/yoyosource/BOTC-HomeBrew/master/Townsfolk/Spice-Trader/image.png",
+    "https://raw.githubusercontent.com/yoyosource/BOTC-HomeBrew/master/Townsfolk/Spice-Trader/image_evil.png"
+  ],
+  "firstNightReminder": "Wake the Demon and tell them a Dare to do today.",
+  "otherNightReminder": "If the Demon is not marked with the *BOLD* reminder, wake the Spice Trader and tell them something about the Demon. Put them back to sleep. Remove any *BOLD* reminder from the Demon. Wake the Demon and tell them a Dare to do today.",
+  "remindersGlobal": [
+    "BOLD"
+  ],
+  "ability": "Each night the Demon is offered a new Dare. If not completed today, learn a thing about them. Visit the Storyteller for a clue to today's Dare.",
+  "special": [
+    {
+      "type": "signal",
+      "name": "card",
+      "value": "Your dare is:",
+      "time": "night",
+      "global": "demon"
+    },
+    {
+      "type": "signal",
+      "name": "card",
+      "value": "Something about the Demon is:",
+      "time": "otherNight"
+    }
+  ]
+}
