@@ -75,6 +75,9 @@ Each night, choose a player; if they are executed tomorrow, you learn their alig
 ## ![](Shopkeeper/.image_big.png) [Shopkeeper](Shopkeeper)
 Each night* choose a dead player; they gain 1 additional vote token. When you die, all dead players lose any surplus vote tokens.
 
+## ![](Spice-Trader/.image_big.png) [Spice-Trader](Spice-Trader)
+Each night the Demon is offered a new Dare. If not completed today, learn a thing about them. Visit the Storyteller for a clue to today's Dare.
+
 ## ![](Spirited%20Youth/.image_big.png) [Spirited Youth](Spirited%20Youth)
 At the beginning of the 1st day you may publicly name a future day. That day you may visit the storyteller to learn true statements equal to the day number.
 

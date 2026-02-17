@@ -1,6 +1,6 @@
 # Homebrew
 
-## [Townsfolk](Townsfolk) (29)
+## [Townsfolk](Townsfolk) (30)
 - ![](Townsfolk/Anthropomancer/.image_small.png) [Anthropomancer](Townsfolk/Anthropomancer)
 - ![](Townsfolk/Apothecary/.image_small.png) [Apothecary](Townsfolk/Apothecary)
 - ![](Townsfolk/Auric/.image_small.png) [Auric](Townsfolk/Auric)
@@ -24,6 +24,7 @@
 - ![](Townsfolk/Pale%20Knight/.image_small.png) [Pale Knight](Townsfolk/Pale%20Knight)
 - ![](Townsfolk/Proud%20Warrior/.image_small.png) [Proud Warrior](Townsfolk/Proud%20Warrior)
 - ![](Townsfolk/Shopkeeper/.image_small.png) [Shopkeeper](Townsfolk/Shopkeeper)
+- ![](Townsfolk/Spice-Trader/.image_small.png) [Spice-Trader](Townsfolk/Spice-Trader)
 - ![](Townsfolk/Spirited%20Youth/.image_small.png) [Spirited Youth](Townsfolk/Spirited%20Youth)
 - ![](Townsfolk/Sworn%20Protector/.image_small.png) [Sworn Protector](Townsfolk/Sworn%20Protector)
 - ![](Townsfolk/Tasseograph/.image_small.png) [Tasseograph](Townsfolk/Tasseograph)
